@@ -33,7 +33,7 @@ class AppState(val ctx: Context) {
     var screen: Screen by mutableStateOf(Screen.Splash)
     var lang by mutableStateOf(prefs.getString("lang", "ta") ?: "ta")
         private set
-    fun setLang(code: String) { lang = code; prefs.edit().putString("lang", code).apply() }
+    fun changeLang(code: String) { lang = code; prefs.edit().putString("lang", code).apply() }
 
     fun t(key: String, vararg vars: Pair<String, Any>) = Data.t(key, lang, *vars)
 

@@ -72,7 +72,7 @@ fun LangSwitch(app: AppState) {
             val on = app.lang == code
             Box(
                 Modifier.defaultMinSize(minWidth = 44.dp, minHeight = 44.dp).let { if (on) it.raised(12.dp, 3.dp) else it.clip(androidx.compose.foundation.shape.RoundedCornerShape(12.dp)) }
-                    .clickable { app.setLang(code) }.padding(horizontal = 10.dp),
+                    .clickable { app.changeLang(code) }.padding(horizontal = 10.dp),
                 contentAlignment = Alignment.Center,
             ) { Text(label, fontSize = 14.sp, fontWeight = FontWeight.ExtraBold, color = if (on) P.Ink else P.Muted) }
         }
