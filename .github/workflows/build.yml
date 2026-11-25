@@ -1,3 +1,4 @@
+
 name: Build Linux app
 
 on:
@@ -11,39 +12,69 @@ jobs:
   test:
     runs-on: ubuntu-22.04
     steps:
-- name: Install system libraries for Qt tests
-  run: |
-    sudo apt-get update
-    sudo apt-get install -y \
-      libva-drm2 \
-      libva2 \
-      libgl1 \
-      libegl1 \
-      libxkbcommon0 \
-      libdbus-1-3 \
-      libpulse0 \
-      libasound2t64
       - uses: actions/checkout@v4
+
       - uses: actions/setup-python@v5
         with:
           python-version: "3.11"
-      - run: pip install -r requirements.txt pytest onnx
-      - run: python -m pytest -q tests
+
+      - name: Install system libraries for Qt tests
+        run: |
+          sudo apt-get update
+          sudo apt-get install -y \
+            libva-drm2 \
+            libva2 \
+            libgl1 \
+            libegl1 \
+            libxkbcommon0 \
+            libdbus-1-3 \
+            libpulse0 \
+            libasound2 \
+            libxcb-cursor0 \
+            libxkbcommon-x11-0 \
+            libxcb-icccm4 \
+            libxcb-image0 \
+            libxcb-keysyms1 \
+            libxcb-render-util0 \
+            libxcb-xinerama0 \
+            libxcb-shape0
+
+      - name: Install Python dependencies
+        run: pip install -r requirements.txt pytest onnx
+
+      - name: Run tests
+        run: python -m pytest -q tests
 
   build:
     needs: test
     runs-on: ubuntu-22.04
     steps:
       - uses: actions/checkout@v4
+
       - uses: actions/setup-python@v5
         with:
           python-version: "3.11"
-      - name: System libraries Qt needs
+
+      - name: Install system libraries Qt needs
         run: |
           sudo apt-get update
-          sudo apt-get install -y libxcb-cursor0 libxkbcommon-x11-0 libegl1 libpulse0 libxcb-icccm4 libxcb-image0 libxcb-keysyms1 libxcb-render-util0 libxcb-xinerama0 libxcb-shape0
-      - run: ./packaging/build.sh
-      - uses: actions/upload-artifact@v4
+          sudo apt-get install -y \
+            libxcb-cursor0 \
+            libxkbcommon-x11-0 \
+            libegl1 \
+            libpulse0 \
+            libxcb-icccm4 \
+            libxcb-image0 \
+            libxcb-keysyms1 \
+            libxcb-render-util0 \
+            libxcb-xinerama0 \
+            libxcb-shape0
+
+      - name: Build Linux app
+        run: ./packaging/build.sh
+
+      - name: Upload Linux artifact
+        uses: actions/upload-artifact@v4
         with:
           name: oru-udhavi-linux
           path: dist/oru-udhavi-linux-x86_64.tar.gz
@@ -58,6 +89,9 @@ jobs:
       - uses: actions/download-artifact@v4
         with:
           name: oru-udhavi-linux
-      - uses: softprops/action-gh-release@v2
+
+      - name: Publish GitHub release
+        uses: softprops/action-gh-release@v2
         with:
           files: oru-udhavi-linux-x86_64.tar.gz
+
