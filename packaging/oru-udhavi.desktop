@@ -1,0 +1,10 @@
+[Desktop Entry]
+Type=Application
+Name=Oru Udhavi
+Name[ta]=ஒரு உதவி
+Comment=One help for your town
+Exec=oru-udhavi
+Icon=oru-udhavi
+Categories=Utility;
+Terminal=false
+StartupWMClass=oru-udhavi

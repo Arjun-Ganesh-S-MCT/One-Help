@@ -1,0 +1,6 @@
+# Only needed once, to download + convert the ready-made model (tools/get_model.py).
+# On a laptop without a GPU, install the small CPU build of torch first:
+#   pip install torch --index-url https://download.pytorch.org/whl/cpu
+transformers
+onnx
+onnxscript

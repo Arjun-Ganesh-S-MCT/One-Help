@@ -1,0 +1,467 @@
+{
+  "_note": "Information only. Pesticide names and doses are intentionally not given; farmers should follow the agriculture officer's advice and the product label. Tamil text should be reviewed by a Tamil-speaking agriculture expert before public release.",
+  "crops": [
+    {
+      "id": "tomato",
+      "name_ta": "தக்காளி",
+      "name_en": "Tomato"
+    },
+    {
+      "id": "potato",
+      "name_ta": "உருளைக்கிழங்கு",
+      "name_en": "Potato"
+    },
+    {
+      "id": "rice",
+      "name_ta": "நெல்",
+      "name_en": "Rice"
+    },
+    {
+      "id": "banana",
+      "name_ta": "வாழை",
+      "name_en": "Banana"
+    }
+  ],
+  "diseases": [
+    {
+      "id": "tomato_early_blight",
+      "crop": "tomato",
+      "name_ta": "முன்கருகல் நோய்",
+      "name_en": "Early blight",
+      "symptoms_ta": "கீழ் இலைகளில் வளையம் போன்ற பழுப்பு நிறப் புள்ளிகள் தோன்றும். இலை மஞ்சளாகி உதிரும்.",
+      "symptoms_en": "Brown spots with ring-like marks appear on the lower leaves. Leaves turn yellow and fall.",
+      "action_ta": [
+        "நோய் பாதித்த இலைகளைப் பறித்து அழித்துவிடுங்கள்.",
+        "இலைகள் மீது நீர் படாமல் செடியின் அடியில் நீர் பாய்ச்சுங்கள்.",
+        "தேவைப்பட்டால் வேளாண் அலுவலர் பரிந்துரைக்கும் பூஞ்சைக்கொல்லியை லேபிளில் உள்ள அளவுப்படி மட்டும் தெளியுங்கள்."
+      ],
+      "action_en": [
+        "Pick off the affected leaves and destroy them.",
+        "Water at the base of the plant, not on the leaves.",
+        "If needed, use only the fungicide your agriculture officer recommends, in the dose given on the label."
+      ],
+      "prevent_ta": [
+        "ஒரே நிலத்தில் தொடர்ந்து தக்காளி பயிரிடாமல் பயிர் சுழற்சி செய்யுங்கள்.",
+        "செடிகளுக்கு இடையே போதிய இடைவெளி விடுங்கள்.",
+        "நோயற்ற நாற்றுகளை மட்டும் நடுங்கள்."
+      ],
+      "prevent_en": [
+        "Rotate crops; do not grow tomato in the same field every season.",
+        "Keep enough space between plants.",
+        "Plant only healthy seedlings."
+      ]
+    },
+    {
+      "id": "tomato_late_blight",
+      "crop": "tomato",
+      "name_ta": "பின்கருகல் நோய்",
+      "name_en": "Late blight",
+      "symptoms_ta": "இலைகளில் நீர் ஊறியது போன்ற கருமையான திட்டுகள் தோன்றும். ஈரப்பதம் அதிகமானால் இலையின் அடியில் வெண்ணிற பூஞ்சை தெரியும். காய்களிலும் பழுப்புத் திட்டுகள் வரும்.",
+      "symptoms_en": "Dark, water-soaked patches on the leaves. In wet weather, white mould shows under the leaf. Fruits get brown patches too.",
+      "action_ta": [
+        "நோய் பாதித்த செடிகளை உடனே அகற்றி அழியுங்கள்.",
+        "நிலத்தில் நீர் தேங்காமல் பார்த்துக்கொள்ளுங்கள்.",
+        "வேளாண் அலுவலரை அணுகி, அவர் பரிந்துரைக்கும் மருந்தை லேபிள் அளவுப்படி பயன்படுத்துங்கள்."
+      ],
+      "action_en": [
+        "Remove and destroy badly affected plants quickly.",
+        "Do not let water stand in the field.",
+        "Ask your agriculture officer and use the recommended product as per the label."
+      ],
+      "prevent_ta": [
+        "மழைக்காலத்தில் செடிகளை அடிக்கடி கவனியுங்கள்.",
+        "இலைகள் ஈரமாக இருப்பதைத் தவிர்க்க இடைவெளி விட்டு நடுங்கள்.",
+        "நோய் தாங்கும் ரகங்களைத் தேர்வு செய்யுங்கள்."
+      ],
+      "prevent_en": [
+        "Check plants often in the rainy season.",
+        "Plant with space so leaves dry quickly.",
+        "Choose disease-tolerant varieties."
+      ]
+    },
+    {
+      "id": "tomato_leaf_curl",
+      "crop": "tomato",
+      "name_ta": "இலைச் சுருட்டை நோய்",
+      "name_en": "Leaf curl virus",
+      "symptoms_ta": "இலைகள் மேல்நோக்கிச் சுருண்டு சிறுத்துவிடும். செடி வளர்ச்சி குன்றும்; காய்ப்பு குறையும்.",
+      "symptoms_en": "Leaves curl upward and become small. The plant stays short and gives fewer fruits.",
+      "action_ta": [
+        "இந்த நோயைப் பரப்பும் வெள்ளை ஈக்களைக் கட்டுப்படுத்த மஞ்சள் ஒட்டுப்பொறிகளை வையுங்கள்.",
+        "வேப்பெண்ணெய் அல்லது வேப்பங்கொட்டைக் கரைசலைத் தெளிக்கலாம்.",
+        "பாதித்த செடிகளைப் பிடுங்கி அகற்றுங்கள்."
+      ],
+      "action_en": [
+        "Put up yellow sticky traps to control whiteflies, which spread this disease.",
+        "Neem oil or neem seed kernel spray can help.",
+        "Pull out and remove affected plants."
+      ],
+      "prevent_ta": [
+        "வெள்ளை ஈ தாங்கும் ரகங்களைப் பயிரிடுங்கள்.",
+        "வயலைச் சுற்றியுள்ள களைகளை அகற்றுங்கள்.",
+        "நாற்றங்காலை வலை போட்டு மூடிப் பாதுகாக்கவும்."
+      ],
+      "prevent_en": [
+        "Grow varieties that tolerate the virus.",
+        "Remove weeds around the field.",
+        "Protect the nursery with a net cover."
+      ]
+    },
+    {
+      "id": "tomato_bacterial_spot",
+      "crop": "tomato",
+      "name_ta": "பாக்டீரியா இலைப்புள்ளி நோய்",
+      "name_en": "Bacterial spot",
+      "symptoms_ta": "இலைகளில் சிறிய கருமையான, நீர் ஊறியது போன்ற புள்ளிகள் தோன்றும். காய்களில் சொரசொரப்பான புள்ளிகள் வரும்.",
+      "symptoms_en": "Small dark, water-soaked spots on leaves. Rough, scabby spots on the fruits.",
+      "action_ta": [
+        "பாதித்த இலைகளை அகற்றி அழியுங்கள்.",
+        "ஈரமான வயலில் வேலை செய்வதைத் தவிருங்கள்; இலைகள் மீது நீர் தெளிக்க வேண்டாம்.",
+        "வேளாண் அலுவலர் பரிந்துரைக்கும் மருந்தை மட்டும் லேபிள் அளவுப்படி பயன்படுத்துங்கள்."
+      ],
+      "action_en": [
+        "Remove and destroy affected leaves.",
+        "Do not work in the wet field and do not sprinkle water on the leaves.",
+        "Use only the product your agriculture officer recommends, as per the label."
+      ],
+      "prevent_ta": [
+        "நோயற்ற விதைகளையும் நாற்றுகளையும் மட்டும் பயன்படுத்துங்கள்.",
+        "பயிர் சுழற்சி செய்யுங்கள்.",
+        "அறுவடைக்குப் பின் பயிர்க் கழிவுகளை அகற்றுங்கள்."
+      ],
+      "prevent_en": [
+        "Use only healthy seed and seedlings.",
+        "Rotate crops.",
+        "Clear crop residue after harvest."
+      ]
+    },
+    {
+      "id": "tomato_leaf_mold",
+      "crop": "tomato",
+      "name_ta": "இலை பூஞ்சை நோய் (இலை பூசண நோய்)",
+      "name_en": "Leaf mold",
+      "symptoms_ta": "இலையின் மேல் பக்கத்தில் வெளிர் பச்சை அல்லது மஞ்சள் திட்டுகள் தோன்றும். இலையின் அடியில் சாம்பல் கலந்த பச்சை நிற பூஞ்சை படலம் தெரியும்.",
+      "symptoms_en": "Pale green or yellow patches on top of the leaf. A grey-green mould layer shows under the leaf.",
+      "action_ta": [
+        "பாதித்த இலைகளை அகற்றுங்கள்.",
+        "செடிகளுக்கு இடையே காற்றோட்டம் கிடைக்க கிளைகளை ஒழுங்குபடுத்துங்கள்.",
+        "ஈரப்பதம் குறையும்படி நீர் பாய்ச்சும் நேரத்தை மாற்றுங்கள்."
+      ],
+      "action_en": [
+        "Remove affected leaves.",
+        "Prune so air can move between plants.",
+        "Water at a time when leaves can dry quickly."
+      ],
+      "prevent_ta": [
+        "போதிய இடைவெளி விட்டு நடுங்கள்.",
+        "செடிகளுக்குக் கம்பு கட்டி மேலே தூக்கி வளர்க்கலாம்.",
+        "நோய் தாங்கும் ரகங்களைத் தேர்வு செய்யுங்கள்."
+      ],
+      "prevent_en": [
+        "Plant with enough space.",
+        "Stake the plants so they grow upright.",
+        "Choose disease-tolerant varieties."
+      ]
+    },
+    {
+      "id": "tomato_septoria_leaf_spot",
+      "crop": "tomato",
+      "name_ta": "செப்டோரியா இலைப்புள்ளி நோய்",
+      "name_en": "Septoria leaf spot",
+      "symptoms_ta": "கீழ் இலைகளில் ஏராளமான சிறிய வட்டப் புள்ளிகள் தோன்றும். நடுவில் சாம்பல் நிறமும் ஓரத்தில் கருமையும் இருக்கும்.",
+      "symptoms_en": "Many small round spots on the lower leaves, grey in the middle with a dark edge.",
+      "action_ta": [
+        "பாதித்த கீழ் இலைகளை அகற்றி அழியுங்கள்.",
+        "மண் தெறித்து இலைகளில் படாமல் இருக்க தழைக்கூளம் இடுங்கள்.",
+        "தேவைப்பட்டால் வேளாண் அலுவலரின் ஆலோசனைப்படி மருந்து பயன்படுத்துங்கள்."
+      ],
+      "action_en": [
+        "Remove and destroy affected lower leaves.",
+        "Use mulch so soil does not splash onto the leaves.",
+        "If needed, use a product as advised by your agriculture officer."
+      ],
+      "prevent_ta": [
+        "பயிர் சுழற்சி செய்யுங்கள்.",
+        "அறுவடைக்குப் பின் பயிர்க் கழிவுகளை அகற்றுங்கள்.",
+        "செடிகளுக்கு இடையே இடைவெளி விடுங்கள்."
+      ],
+      "prevent_en": [
+        "Rotate crops.",
+        "Clear crop residue after harvest.",
+        "Keep space between plants."
+      ]
+    },
+    {
+      "id": "tomato_spider_mites",
+      "crop": "tomato",
+      "name_ta": "சிலந்திப் பேன் தாக்குதல்",
+      "name_en": "Spider mites",
+      "symptoms_ta": "இலைகளில் சிறிய மஞ்சள் புள்ளிகள் தோன்றும். இலையின் அடியில் மெல்லிய வலை தெரியும். இலைகள் காய்ந்துவிடும்.",
+      "symptoms_en": "Tiny yellow dots on leaves. Fine webbing under the leaf. Leaves dry up.",
+      "action_ta": [
+        "இலைகளின் அடிப்பகுதியில் நீரைப் பீய்ச்சி அடியுங்கள்.",
+        "வேப்பெண்ணெய் கரைசலைத் தெளிக்கலாம்.",
+        "மிகவும் பாதித்த இலைகளை அகற்றுங்கள். தேவைப்பட்டால் வேளாண் அலுவலரை அணுகுங்கள்."
+      ],
+      "action_en": [
+        "Spray water on the underside of the leaves.",
+        "Neem oil spray can help.",
+        "Remove badly affected leaves. Ask your agriculture officer if needed."
+      ],
+      "prevent_ta": [
+        "வறட்சி மற்றும் தூசியைக் குறையுங்கள்; செடிக்குத் தேவையான நீர் கொடுங்கள்.",
+        "இலைகளின் அடிப்பகுதியை அடிக்கடி பாருங்கள்.",
+        "களைகளை அகற்றுங்கள்."
+      ],
+      "prevent_en": [
+        "Avoid water stress and dust; give plants enough water.",
+        "Check the underside of leaves often.",
+        "Remove weeds."
+      ]
+    },
+    {
+      "id": "tomato_target_spot",
+      "crop": "tomato",
+      "name_ta": "இலை வளையப்புள்ளி நோய் (டார்கெட் ஸ்பாட்)",
+      "name_en": "Target spot",
+      "symptoms_ta": "இலைகளிலும் காய்களிலும் வளையம் போன்ற அடுக்குகளுடன் பழுப்புப் புள்ளிகள் தோன்றும்.",
+      "symptoms_en": "Brown spots with ring-like layers on leaves and fruits.",
+      "action_ta": [
+        "பாதித்த இலைகளை அகற்றி அழியுங்கள்.",
+        "செடியின் அடியில் நீர் பாய்ச்சுங்கள்; இலைகளை ஈரமாக்க வேண்டாம்.",
+        "தேவைப்பட்டால் வேளாண் அலுவலர் பரிந்துரைக்கும் மருந்தை லேபிள் அளவுப்படி பயன்படுத்துங்கள்."
+      ],
+      "action_en": [
+        "Remove and destroy affected leaves.",
+        "Water at the base of the plant and keep leaves dry.",
+        "If needed, use the product your agriculture officer recommends, as per the label."
+      ],
+      "prevent_ta": [
+        "போதிய இடைவெளி விட்டு நடுங்கள்.",
+        "பயிர் சுழற்சி செய்யுங்கள்.",
+        "பயிர்க் கழிவுகளை அகற்றுங்கள்."
+      ],
+      "prevent_en": [
+        "Plant with enough space.",
+        "Rotate crops.",
+        "Remove crop residue."
+      ]
+    },
+    {
+      "id": "tomato_mosaic_virus",
+      "crop": "tomato",
+      "name_ta": "மொசைக் வைரஸ் நோய்",
+      "name_en": "Mosaic virus",
+      "symptoms_ta": "இலைகளில் வெளிர் மற்றும் அடர் பச்சை நிறத் திட்டுகள் கலந்து தெரியும். இலைகள் சுருங்கி உருமாறும். செடி வளர்ச்சி குன்றும்.",
+      "symptoms_en": "Light and dark green patches on the leaves. Leaves become twisted. The plant stays small.",
+      "action_ta": [
+        "பாதித்த செடிகளைப் பிடுங்கி அகற்றுங்கள். இதற்கு மருந்து இல்லை.",
+        "செடிகளைத் தொடும் முன்னும் பின்னும் கைகளையும் கருவிகளையும் சோப்புடன் கழுவுங்கள்.",
+        "வேளாண் அலுவலரை அணுகுங்கள்."
+      ],
+      "action_en": [
+        "Pull out and remove affected plants. There is no cure.",
+        "Wash your hands and tools with soap before and after touching plants.",
+        "Contact your agriculture officer."
+      ],
+      "prevent_ta": [
+        "சான்றிதழ் பெற்ற நோயற்ற விதையைப் பயன்படுத்துங்கள்.",
+        "நோய் தாங்கும் ரகங்களைத் தேர்வு செய்யுங்கள்.",
+        "களைகளை அகற்றுங்கள்."
+      ],
+      "prevent_en": [
+        "Use certified, healthy seed.",
+        "Choose tolerant varieties.",
+        "Remove weeds."
+      ]
+    },
+    {
+      "id": "potato_early_blight",
+      "crop": "potato",
+      "name_ta": "முன்கருகல் நோய்",
+      "name_en": "Early blight",
+      "symptoms_ta": "கீழ் இலைகளில் வளையம் போன்ற பழுப்புப் புள்ளிகள் தோன்றி, இலை காய்ந்து உதிரும்.",
+      "symptoms_en": "Brown spots with ring-like marks on lower leaves; the leaves dry and fall.",
+      "action_ta": [
+        "பாதித்த இலைகளை அகற்றி அழியுங்கள்.",
+        "சமச்சீர் உரம் இடுங்கள்; செடி பலவீனமாகாமல் பார்த்துக்கொள்ளுங்கள்.",
+        "தேவைப்பட்டால் வேளாண் அலுவலர் பரிந்துரைக்கும் மருந்தை லேபிள் அளவுப்படி பயன்படுத்துங்கள்."
+      ],
+      "action_en": [
+        "Remove and destroy affected leaves.",
+        "Give balanced fertiliser so the plant stays strong.",
+        "If needed, use the product your agriculture officer recommends, as per the label."
+      ],
+      "prevent_ta": [
+        "பயிர் சுழற்சி செய்யுங்கள்.",
+        "நோயற்ற விதைக் கிழங்குகளை நடுங்கள்.",
+        "அறுவடைக்குப் பின் பயிர்க் கழிவுகளை அகற்றுங்கள்."
+      ],
+      "prevent_en": [
+        "Rotate crops.",
+        "Use healthy seed tubers.",
+        "Clear crop residue after harvest."
+      ]
+    },
+    {
+      "id": "potato_late_blight",
+      "crop": "potato",
+      "name_ta": "பின்கருகல் நோய்",
+      "name_en": "Late blight",
+      "symptoms_ta": "இலைகளில் நீர் ஊறியது போன்ற கருமையான திட்டுகள் வேகமாகப் பரவும். குளிர்ந்த ஈரமான வானிலையில் செடி முழுவதும் கருகிவிடும்.",
+      "symptoms_en": "Dark, water-soaked patches spread fast on the leaves. In cool, wet weather the whole plant can collapse.",
+      "action_ta": [
+        "நோய் தொடங்கியவுடன் வேளாண் அலுவலரை அணுகுங்கள்.",
+        "பாதித்த செடிகளை அகற்றி அழியுங்கள்.",
+        "நீர் தேங்காமல் வடிகால் வசதி செய்யுங்கள்."
+      ],
+      "action_en": [
+        "Contact your agriculture officer as soon as you see it.",
+        "Remove and destroy affected plants.",
+        "Make sure water can drain from the field."
+      ],
+      "prevent_ta": [
+        "நோயற்ற விதைக் கிழங்கை நடுங்கள்.",
+        "மண்ணை அணைத்து கிழங்குகளை மூடி வையுங்கள்.",
+        "ஈரமான வானிலையில் அடிக்கடி வயலைப் பாருங்கள்."
+      ],
+      "prevent_en": [
+        "Use healthy seed tubers.",
+        "Earth up soil so tubers stay covered.",
+        "Inspect the field often in wet weather."
+      ]
+    },
+    {
+      "id": "rice_blast",
+      "crop": "rice",
+      "name_ta": "குலை நோய்",
+      "name_en": "Blast",
+      "symptoms_ta": "இலைகளில் நடுவில் சாம்பல் நிறமும் ஓரத்தில் பழுப்பு நிறமும் கொண்ட கண் வடிவப் புள்ளிகள் தோன்றும். கதிர் கழுத்து அழுகி கதிர் ஒடியலாம்.",
+      "symptoms_en": "Eye-shaped spots with a grey centre and brown edge on leaves. The neck of the grain head can rot and break.",
+      "action_ta": [
+        "அதிகமாக தழைச்சத்து (யூரியா) இடுவதை நிறுத்துங்கள்.",
+        "வேளாண் அலுவலரை அணுகி, பரிந்துரைக்கும் மருந்தை லேபிள் அளவுப்படி தெளியுங்கள்."
+      ],
+      "action_en": [
+        "Stop adding extra nitrogen (urea).",
+        "Ask your agriculture officer and spray the recommended product as per the label."
+      ],
+      "prevent_ta": [
+        "விதை நேர்த்தி செய்து விதையுங்கள்.",
+        "சமச்சீர் உரம் இடுங்கள்.",
+        "நோய் தாங்கும் ரகங்களைத் தேர்வு செய்யுங்கள்."
+      ],
+      "prevent_en": [
+        "Treat seed before sowing.",
+        "Use balanced fertiliser.",
+        "Choose blast-tolerant varieties."
+      ]
+    },
+    {
+      "id": "rice_brown_spot",
+      "crop": "rice",
+      "name_ta": "பழுப்புப் புள்ளி நோய்",
+      "name_en": "Brown spot",
+      "symptoms_ta": "இலைகளில் சிறிய முட்டை வடிவ பழுப்புப் புள்ளிகள் தோன்றும். பாதிப்பு அதிகமானால் இலை கருகும்; தானியம் சுருங்கும்.",
+      "symptoms_en": "Small oval brown spots on leaves. If severe, leaves dry up and the grain becomes shrunken.",
+      "action_ta": [
+        "மண் பரிசோதனை செய்து குறைந்த சத்துக்களை (குறிப்பாக பொட்டாஷ்) இடுங்கள்.",
+        "கடுமையாக இருந்தால் வேளாண் அலுவலரை அணுகுங்கள்."
+      ],
+      "action_en": [
+        "Test the soil and add the missing nutrients (especially potash).",
+        "If severe, contact your agriculture officer."
+      ],
+      "prevent_ta": [
+        "விதை நேர்த்தி செய்யுங்கள்.",
+        "வயலில் நீர் பற்றாக்குறை வராமல் பாருங்கள்.",
+        "சமச்சீர் உரமிடுங்கள்."
+      ],
+      "prevent_en": [
+        "Treat seed before sowing.",
+        "Avoid water stress in the field.",
+        "Use balanced fertiliser."
+      ]
+    },
+    {
+      "id": "rice_bacterial_blight",
+      "crop": "rice",
+      "name_ta": "பாக்டீரியா இலைக்கருகல்",
+      "name_en": "Bacterial leaf blight",
+      "symptoms_ta": "இலை நுனியிலிருந்து ஓரங்களில் மஞ்சளாகி, அலை போல் காய்ந்து கருகும்.",
+      "symptoms_en": "Leaves turn yellow from the tip along the edges, with a wavy margin, and then dry up.",
+      "action_ta": [
+        "அதிக தழைச்சத்து இடுவதைத் தவிர்க்கவும்.",
+        "வயலில் தேங்கிய நீரை வடிக்கவும்.",
+        "வேளாண் அலுவலரை அணுகி ஆலோசனை பெறுங்கள்."
+      ],
+      "action_en": [
+        "Avoid extra nitrogen fertiliser.",
+        "Drain standing water from the field.",
+        "Get advice from your agriculture officer."
+      ],
+      "prevent_ta": [
+        "சான்றிதழ் பெற்ற நல்ல விதையைப் பயன்படுத்துங்கள்.",
+        "நோய் தாங்கும் ரகங்களைத் தேர்வு செய்யுங்கள்."
+      ],
+      "prevent_en": [
+        "Use certified, healthy seed.",
+        "Choose tolerant varieties."
+      ]
+    },
+    {
+      "id": "banana_sigatoka",
+      "crop": "banana",
+      "name_ta": "இலைப்புள்ளி (சிகடோகா) நோய்",
+      "name_en": "Sigatoka leaf spot",
+      "symptoms_ta": "இலைகளில் மஞ்சள் கோடுகள் தோன்றி, பிறகு பழுப்பு நிறப் புள்ளிகளாக மாறி இலை காய்ந்துவிடும்.",
+      "symptoms_en": "Yellow streaks on leaves turn into brown spots, and the leaf dries up.",
+      "action_ta": [
+        "பாதித்த இலைகளை வெட்டி அகற்றி அழியுங்கள்.",
+        "வயலில் நீர் தேங்காமல் வடிகால் அமையுங்கள்.",
+        "தேவைப்பட்டால் வேளாண் அலுவலர் பரிந்துரைக்கும் மருந்தை லேபிள் அளவுப்படி தெளியுங்கள்."
+      ],
+      "action_en": [
+        "Cut off and destroy affected leaves.",
+        "Make sure the field drains well.",
+        "If needed, spray the product your agriculture officer recommends, as per the label."
+      ],
+      "prevent_ta": [
+        "மரங்களுக்கு இடையே போதிய இடைவெளி விடுங்கள்.",
+        "களைகளை அகற்றுங்கள்.",
+        "சமச்சீர் உரமிடுங்கள்."
+      ],
+      "prevent_en": [
+        "Keep enough space between plants.",
+        "Remove weeds.",
+        "Use balanced fertiliser."
+      ]
+    },
+    {
+      "id": "banana_panama_wilt",
+      "crop": "banana",
+      "name_ta": "வாடல் நோய் (பனாமா)",
+      "name_en": "Panama wilt",
+      "symptoms_ta": "கீழ் இலைகள் மஞ்சளாகி வாடும். தண்டின் அடிப்பகுதி வெடிக்கும். தண்டை வெட்டினால் உள்ளே பழுப்பு நிறம் தெரியும்.",
+      "symptoms_en": "Lower leaves turn yellow and wilt. The base of the stem splits. Inside the stem, a brown colour shows when cut.",
+      "action_ta": [
+        "இந்த நோய்க்கு முழுமையான சிகிச்சை இல்லை. பாதித்த மரத்தை அகற்றி அழியுங்கள்.",
+        "பாதித்த நிலத்தின் மண்ணை மற்ற இடங்களுக்கு எடுத்துச் செல்லாதீர்கள்.",
+        "உடனே வேளாண் அலுவலரைத் தொடர்பு கொள்ளுங்கள்."
+      ],
+      "action_en": [
+        "There is no full cure. Remove and destroy the affected plant.",
+        "Do not carry soil from the affected spot to other places.",
+        "Contact your agriculture officer immediately."
+      ],
+      "prevent_ta": [
+        "நோயற்ற திசு வளர்ப்புக் கன்றுகளை நடுங்கள்.",
+        "பாதித்த நிலத்தில் உடனே மீண்டும் வாழை நடாதீர்கள்; பயிர் சுழற்சி செய்யுங்கள்."
+      ],
+      "prevent_en": [
+        "Plant healthy tissue-culture plants.",
+        "Do not replant banana in an affected spot right away; rotate crops."
+      ]
+    }
+  ]
+}

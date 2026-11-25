@@ -1,0 +1,60 @@
+{
+  "issues": [
+    {
+      "id": "road", "icon": "road",
+      "name_ta": "சாலைப் பள்ளம்", "name_en": "Bad road / pothole",
+      "sentence_ta": "{loc} அருகில் சாலை சேதமடைந்து பள்ளங்கள் உள்ளன",
+      "sentence_en": "the road near {loc} is damaged and has potholes",
+      "keywords": ["pothole", "road", "crack", "tar", "pit", "குழி", "பள்ளம்", "சாலை", "ரோடு"]
+    },
+    {
+      "id": "garbage", "icon": "trash",
+      "name_ta": "குப்பை", "name_en": "Garbage",
+      "sentence_ta": "{loc} அருகில் குப்பை குவிந்து கிடக்கிறது, அது அகற்றப்படவில்லை",
+      "sentence_en": "garbage has piled up near {loc} and is not being cleared",
+      "keywords": ["garbage", "trash", "waste", "dustbin", "litter", "smell", "குப்பை", "கழிவு", "துர்நாற்றம்"]
+    },
+    {
+      "id": "drainage", "icon": "drain",
+      "name_ta": "சாக்கடை / கழிவுநீர்", "name_en": "Drain / sewage",
+      "sentence_ta": "{loc} அருகில் சாக்கடை அடைத்து கழிவுநீர் தெருவில் வழிந்தோடுகிறது",
+      "sentence_en": "the drain near {loc} is blocked and sewage is overflowing onto the street",
+      "keywords": ["drain", "sewage", "sewer", "overflow", "manhole", "stagnant", "சாக்கடை", "கழிவுநீர்", "வடிகால்", "மேன்ஹோல்", "தேங்கி"]
+    },
+    {
+      "id": "streetlight", "icon": "bulb",
+      "name_ta": "தெருவிளக்கு", "name_en": "Street light",
+      "sentence_ta": "{loc} அருகில் தெருவிளக்கு எரியவில்லை",
+      "sentence_en": "the street light near {loc} is not working",
+      "keywords": ["street light", "streetlight", "lamp", "dark", "bulb", "தெருவிளக்கு", "விளக்கு", "இருட்டு"]
+    },
+    {
+      "id": "water", "icon": "water",
+      "name_ta": "குடிநீர்", "name_en": "Drinking water",
+      "sentence_ta": "{loc} அருகில் குடிநீர் விநியோகத்தில் பிரச்சினை அல்லது குழாய் கசிவு உள்ளது",
+      "sentence_en": "there is a drinking water supply problem or a pipe leakage near {loc}",
+      "keywords": ["water", "tap", "pipe", "leak", "supply", "குடிநீர்", "தண்ணீர்", "குழாய்", "கசிவு"]
+    },
+    {
+      "id": "electric", "icon": "bolt",
+      "name_ta": "மின்சாரம்", "name_en": "Electricity",
+      "sentence_ta": "{loc} அருகில் மின்தடை அல்லது மின் கம்பம் / கம்பி சேதம் உள்ளது",
+      "sentence_en": "there is a power failure or a damaged electric pole or wire near {loc}",
+      "keywords": ["electric", "power cut", "power", "current", "transformer", "pole", "wire", "மின்", "மின்சாரம்", "மின்தடை", "கம்பம்", "கம்பி"]
+    },
+    {
+      "id": "stray", "icon": "paw",
+      "name_ta": "தெருநாய் / மாடு", "name_en": "Stray animals",
+      "sentence_ta": "{loc} அருகில் தெருநாய்கள் அல்லது மாடுகள் பொதுமக்களுக்கு ஆபத்தாக உள்ளன",
+      "sentence_en": "stray dogs or cattle near {loc} are a danger to the public",
+      "keywords": ["dog", "stray", "cattle", "cow", "bite", "நாய்", "மாடு", "தெருநாய்", "கடி"]
+    },
+    {
+      "id": "other", "icon": "dots",
+      "name_ta": "மற்றவை", "name_en": "Something else",
+      "sentence_ta": "{loc} அருகில் பொதுமக்களுக்குப் பாதிப்பு ஏற்படுத்தும் பிரச்சினை உள்ளது",
+      "sentence_en": "there is a problem affecting the public near {loc}",
+      "keywords": []
+    }
+  ]
+}

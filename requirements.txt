@@ -1,0 +1,8 @@
+PyQt6>=6.6
+Pillow
+numpy
+# optional: only needed for the crop photo check (see models/README.md)
+onnxruntime
+# talking helper (chat needs internet): voice out, voice in
+gTTS
+SpeechRecognition

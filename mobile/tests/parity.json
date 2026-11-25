@@ -1,0 +1,3013 @@
+{
+ "today": "2026-11-24",
+ "letters": [
+  {
+   "c": {
+    "issue_id": "road",
+    "area": "chennai",
+    "town": "",
+    "address": "Gandhi Street, Chrompet",
+    "landmark": "",
+    "name": "A. Kumar",
+    "phone": "",
+    "extra": "",
+    "has_photo": false
+   },
+   "lang": "ta",
+   "letter": "பெறுநர்:\nஆணையர்\nபெருநகர சென்னை மாநகராட்சி\nரிப்பன் மாளிகை, சென்னை - 600 003\n\nஅனுப்புநர்:\nA. Kumar\nGandhi Street, Chrompet\n\nநாள்: 24/11/2026\n\nபொருள்: சாலைப் பள்ளம் தொடர்பான புகார்\n\nமதிப்புமிகு ஐயா / அம்மா,\n\nநான் Gandhi Street, Chrompet பகுதியில் வசிக்கிறேன். Gandhi Street, Chrompet அருகில் சாலை சேதமடைந்து பள்ளங்கள் உள்ளன. இதனால் பொதுமக்களுக்குப் பெரும் சிரமம் ஏற்படுகிறது.\n\nஎனவே, இந்தப் பிரச்சினையை விரைவில் நேரில் ஆய்வு செய்து சரிசெய்ய உரிய நடவடிக்கை எடுக்குமாறு பணிவுடன் கேட்டுக்கொள்கிறேன்.\n\nநன்றி.\n\nஇப்படிக்கு,\nA. Kumar"
+  },
+  {
+   "c": {
+    "issue_id": "road",
+    "area": "chennai",
+    "town": "",
+    "address": " 12 Gandhi Street ",
+    "landmark": "",
+    "name": "A. Kumar",
+    "phone": "98765 43210",
+    "extra": "It has been like this for a month.",
+    "has_photo": false
+   },
+   "lang": "ta",
+   "letter": "பெறுநர்:\nஆணையர்\nபெருநகர சென்னை மாநகராட்சி\nரிப்பன் மாளிகை, சென்னை - 600 003\n\nஅனுப்புநர்:\nA. Kumar\n12 Gandhi Street\nதொலைபேசி: 98765 43210\n\nநாள்: 24/11/2026\n\nபொருள்: சாலைப் பள்ளம் தொடர்பான புகார்\n\nமதிப்புமிகு ஐயா / அம்மா,\n\nநான் 12 Gandhi Street பகுதியில் வசிக்கிறேன். 12 Gandhi Street அருகில் சாலை சேதமடைந்து பள்ளங்கள் உள்ளன. இதனால் பொதுமக்களுக்குப் பெரும் சிரமம் ஏற்படுகிறது. It has been like this for a month.\n\nஎனவே, இந்தப் பிரச்சினையை விரைவில் நேரில் ஆய்வு செய்து சரிசெய்ய உரிய நடவடிக்கை எடுக்குமாறு பணிவுடன் கேட்டுக்கொள்கிறேன்.\n\nநன்றி.\n\nஇப்படிக்கு,\nA. Kumar"
+  },
+  {
+   "c": {
+    "issue_id": "road",
+    "area": "chennai",
+    "town": " Tambaram ",
+    "address": "Gandhi Street, Chrompet",
+    "landmark": "near the temple",
+    "name": "A. Kumar",
+    "phone": "98765 43210",
+    "extra": "",
+    "has_photo": true
+   },
+   "lang": "ta",
+   "letter": "பெறுநர்:\nஆணையர்\nபெருநகர சென்னை மாநகராட்சி\nரிப்பன் மாளிகை, சென்னை - 600 003\n\nஅனுப்புநர்:\nA. Kumar\nGandhi Street, Chrompet, Tambaram\nதொலைபேசி: 98765 43210\n\nநாள்: 24/11/2026\n\nபொருள்: சாலைப் பள்ளம் தொடர்பான புகார்\n\nமதிப்புமிகு ஐயா / அம்மா,\n\nநான் Gandhi Street, Chrompet, Tambaram பகுதியில் வசிக்கிறேன். near the temple அருகில் சாலை சேதமடைந்து பள்ளங்கள் உள்ளன. இதனால் பொதுமக்களுக்குப் பெரும் சிரமம் ஏற்படுகிறது.\n\nஎனவே, இந்தப் பிரச்சினையை விரைவில் நேரில் ஆய்வு செய்து சரிசெய்ய உரிய நடவடிக்கை எடுக்குமாறு பணிவுடன் கேட்டுக்கொள்கிறேன். பிரச்சினையின் புகைப்படம் இணைக்கப்பட்டுள்ளது.\n\nநன்றி.\n\nஇப்படிக்கு,\nA. Kumar"
+  },
+  {
+   "c": {
+    "issue_id": "road",
+    "area": "chennai",
+    "town": "",
+    "address": "Gandhi Street, Chrompet",
+    "landmark": "",
+    "name": "A. Kumar",
+    "phone": "",
+    "extra": "",
+    "has_photo": false
+   },
+   "lang": "en",
+   "letter": "To,\nThe Commissioner\nGreater Chennai Corporation\nRipon Buildings, Chennai - 600 003\n\nFrom,\nA. Kumar\nGandhi Street, Chrompet\n\nDate: 24/11/2026\n\nSubject: Complaint regarding bad road / pothole\n\nRespected Sir / Madam,\n\nI am a resident of Gandhi Street, Chrompet. I would like to bring to your kind notice that the road near Gandhi Street, Chrompet is damaged and has potholes. This is causing great difficulty to the public.\n\nI kindly request you to inspect the matter and take the necessary action at the earliest.\n\nThank you.\n\nYours faithfully,\nA. Kumar"
+  },
+  {
+   "c": {
+    "issue_id": "road",
+    "area": "chennai",
+    "town": "",
+    "address": " 12 Gandhi Street ",
+    "landmark": "",
+    "name": "A. Kumar",
+    "phone": "98765 43210",
+    "extra": "It has been like this for a month.",
+    "has_photo": false
+   },
+   "lang": "en",
+   "letter": "To,\nThe Commissioner\nGreater Chennai Corporation\nRipon Buildings, Chennai - 600 003\n\nFrom,\nA. Kumar\n12 Gandhi Street\nPhone: 98765 43210\n\nDate: 24/11/2026\n\nSubject: Complaint regarding bad road / pothole\n\nRespected Sir / Madam,\n\nI am a resident of 12 Gandhi Street. I would like to bring to your kind notice that the road near 12 Gandhi Street is damaged and has potholes. This is causing great difficulty to the public. It has been like this for a month.\n\nI kindly request you to inspect the matter and take the necessary action at the earliest.\n\nThank you.\n\nYours faithfully,\nA. Kumar"
+  },
+  {
+   "c": {
+    "issue_id": "road",
+    "area": "chennai",
+    "town": " Tambaram ",
+    "address": "Gandhi Street, Chrompet",
+    "landmark": "near the temple",
+    "name": "A. Kumar",
+    "phone": "98765 43210",
+    "extra": "",
+    "has_photo": true
+   },
+   "lang": "en",
+   "letter": "To,\nThe Commissioner\nGreater Chennai Corporation\nRipon Buildings, Chennai - 600 003\n\nFrom,\nA. Kumar\nGandhi Street, Chrompet, Tambaram\nPhone: 98765 43210\n\nDate: 24/11/2026\n\nSubject: Complaint regarding bad road / pothole\n\nRespected Sir / Madam,\n\nI am a resident of Gandhi Street, Chrompet, Tambaram. I would like to bring to your kind notice that the road near near the temple is damaged and has potholes. This is causing great difficulty to the public.\n\nI kindly request you to inspect the matter and take the necessary action at the earliest. A photograph of the problem is attached.\n\nThank you.\n\nYours faithfully,\nA. Kumar"
+  },
+  {
+   "c": {
+    "issue_id": "road",
+    "area": "city",
+    "town": "Madurai",
+    "address": "Gandhi Street, Chrompet",
+    "landmark": "",
+    "name": "A. Kumar",
+    "phone": "",
+    "extra": "",
+    "has_photo": false
+   },
+   "lang": "ta",
+   "letter": "பெறுநர்:\nஆணையர் / செயல் அலுவலர்\nMadurai மாநகராட்சி / நகராட்சி\nMadurai\n\nஅனுப்புநர்:\nA. Kumar\nGandhi Street, Chrompet, Madurai\n\nநாள்: 24/11/2026\n\nபொருள்: சாலைப் பள்ளம் தொடர்பான புகார்\n\nமதிப்புமிகு ஐயா / அம்மா,\n\nநான் Gandhi Street, Chrompet, Madurai பகுதியில் வசிக்கிறேன். Gandhi Street, Chrompet அருகில் சாலை சேதமடைந்து பள்ளங்கள் உள்ளன. இதனால் பொதுமக்களுக்குப் பெரும் சிரமம் ஏற்படுகிறது.\n\nஎனவே, இந்தப் பிரச்சினையை விரைவில் நேரில் ஆய்வு செய்து சரிசெய்ய உரிய நடவடிக்கை எடுக்குமாறு பணிவுடன் கேட்டுக்கொள்கிறேன்.\n\nநன்றி.\n\nஇப்படிக்கு,\nA. Kumar"
+  },
+  {
+   "c": {
+    "issue_id": "road",
+    "area": "city",
+    "town": " Tambaram ",
+    "address": " 12 Gandhi Street ",
+    "landmark": "",
+    "name": "A. Kumar",
+    "phone": "98765 43210",
+    "extra": "It has been like this for a month.",
+    "has_photo": false
+   },
+   "lang": "ta",
+   "letter": "பெறுநர்:\nஆணையர் / செயல் அலுவலர்\nTambaram மாநகராட்சி / நகராட்சி\nTambaram\n\nஅனுப்புநர்:\nA. Kumar\n12 Gandhi Street, Tambaram\nதொலைபேசி: 98765 43210\n\nநாள்: 24/11/2026\n\nபொருள்: சாலைப் பள்ளம் தொடர்பான புகார்\n\nமதிப்புமிகு ஐயா / அம்மா,\n\nநான் 12 Gandhi Street, Tambaram பகுதியில் வசிக்கிறேன். 12 Gandhi Street அருகில் சாலை சேதமடைந்து பள்ளங்கள் உள்ளன. இதனால் பொதுமக்களுக்குப் பெரும் சிரமம் ஏற்படுகிறது. It has been like this for a month.\n\nஎனவே, இந்தப் பிரச்சினையை விரைவில் நேரில் ஆய்வு செய்து சரிசெய்ய உரிய நடவடிக்கை எடுக்குமாறு பணிவுடன் கேட்டுக்கொள்கிறேன்.\n\nநன்றி.\n\nஇப்படிக்கு,\nA. Kumar"
+  },
+  {
+   "c": {
+    "issue_id": "road",
+    "area": "city",
+    "town": " Tambaram ",
+    "address": "Gandhi Street, Chrompet",
+    "landmark": "near the temple",
+    "name": "A. Kumar",
+    "phone": "98765 43210",
+    "extra": "",
+    "has_photo": true
+   },
+   "lang": "ta",
+   "letter": "பெறுநர்:\nஆணையர் / செயல் அலுவலர்\nTambaram மாநகராட்சி / நகராட்சி\nTambaram\n\nஅனுப்புநர்:\nA. Kumar\nGandhi Street, Chrompet, Tambaram\nதொலைபேசி: 98765 43210\n\nநாள்: 24/11/2026\n\nபொருள்: சாலைப் பள்ளம் தொடர்பான புகார்\n\nமதிப்புமிகு ஐயா / அம்மா,\n\nநான் Gandhi Street, Chrompet, Tambaram பகுதியில் வசிக்கிறேன். near the temple அருகில் சாலை சேதமடைந்து பள்ளங்கள் உள்ளன. இதனால் பொதுமக்களுக்குப் பெரும் சிரமம் ஏற்படுகிறது.\n\nஎனவே, இந்தப் பிரச்சினையை விரைவில் நேரில் ஆய்வு செய்து சரிசெய்ய உரிய நடவடிக்கை எடுக்குமாறு பணிவுடன் கேட்டுக்கொள்கிறேன். பிரச்சினையின் புகைப்படம் இணைக்கப்பட்டுள்ளது.\n\nநன்றி.\n\nஇப்படிக்கு,\nA. Kumar"
+  },
+  {
+   "c": {
+    "issue_id": "road",
+    "area": "city",
+    "town": "Madurai",
+    "address": "Gandhi Street, Chrompet",
+    "landmark": "",
+    "name": "A. Kumar",
+    "phone": "",
+    "extra": "",
+    "has_photo": false
+   },
+   "lang": "en",
+   "letter": "To,\nThe Commissioner / Executive Officer\nMadurai Corporation / Municipality\nMadurai\n\nFrom,\nA. Kumar\nGandhi Street, Chrompet, Madurai\n\nDate: 24/11/2026\n\nSubject: Complaint regarding bad road / pothole\n\nRespected Sir / Madam,\n\nI am a resident of Gandhi Street, Chrompet, Madurai. I would like to bring to your kind notice that the road near Gandhi Street, Chrompet is damaged and has potholes. This is causing great difficulty to the public.\n\nI kindly request you to inspect the matter and take the necessary action at the earliest.\n\nThank you.\n\nYours faithfully,\nA. Kumar"
+  },
+  {
+   "c": {
+    "issue_id": "road",
+    "area": "city",
+    "town": " Tambaram ",
+    "address": " 12 Gandhi Street ",
+    "landmark": "",
+    "name": "A. Kumar",
+    "phone": "98765 43210",
+    "extra": "It has been like this for a month.",
+    "has_photo": false
+   },
+   "lang": "en",
+   "letter": "To,\nThe Commissioner / Executive Officer\nTambaram Corporation / Municipality\nTambaram\n\nFrom,\nA. Kumar\n12 Gandhi Street, Tambaram\nPhone: 98765 43210\n\nDate: 24/11/2026\n\nSubject: Complaint regarding bad road / pothole\n\nRespected Sir / Madam,\n\nI am a resident of 12 Gandhi Street, Tambaram. I would like to bring to your kind notice that the road near 12 Gandhi Street is damaged and has potholes. This is causing great difficulty to the public. It has been like this for a month.\n\nI kindly request you to inspect the matter and take the necessary action at the earliest.\n\nThank you.\n\nYours faithfully,\nA. Kumar"
+  },
+  {
+   "c": {
+    "issue_id": "road",
+    "area": "city",
+    "town": " Tambaram ",
+    "address": "Gandhi Street, Chrompet",
+    "landmark": "near the temple",
+    "name": "A. Kumar",
+    "phone": "98765 43210",
+    "extra": "",
+    "has_photo": true
+   },
+   "lang": "en",
+   "letter": "To,\nThe Commissioner / Executive Officer\nTambaram Corporation / Municipality\nTambaram\n\nFrom,\nA. Kumar\nGandhi Street, Chrompet, Tambaram\nPhone: 98765 43210\n\nDate: 24/11/2026\n\nSubject: Complaint regarding bad road / pothole\n\nRespected Sir / Madam,\n\nI am a resident of Gandhi Street, Chrompet, Tambaram. I would like to bring to your kind notice that the road near near the temple is damaged and has potholes. This is causing great difficulty to the public.\n\nI kindly request you to inspect the matter and take the necessary action at the earliest. A photograph of the problem is attached.\n\nThank you.\n\nYours faithfully,\nA. Kumar"
+  },
+  {
+   "c": {
+    "issue_id": "road",
+    "area": "village",
+    "town": "Madurai",
+    "address": "Gandhi Street, Chrompet",
+    "landmark": "",
+    "name": "A. Kumar",
+    "phone": "",
+    "extra": "",
+    "has_photo": false
+   },
+   "lang": "ta",
+   "letter": "பெறுநர்:\nவட்டார வளர்ச்சி அலுவலர்\nஊராட்சி ஒன்றிய அலுவலகம், Madurai\n\nஅனுப்புநர்:\nA. Kumar\nGandhi Street, Chrompet, Madurai\n\nநாள்: 24/11/2026\n\nபொருள்: சாலைப் பள்ளம் தொடர்பான புகார்\n\nமதிப்புமிகு ஐயா / அம்மா,\n\nநான் Gandhi Street, Chrompet, Madurai பகுதியில் வசிக்கிறேன். Gandhi Street, Chrompet அருகில் சாலை சேதமடைந்து பள்ளங்கள் உள்ளன. இதனால் பொதுமக்களுக்குப் பெரும் சிரமம் ஏற்படுகிறது.\n\nஎனவே, இந்தப் பிரச்சினையை விரைவில் நேரில் ஆய்வு செய்து சரிசெய்ய உரிய நடவடிக்கை எடுக்குமாறு பணிவுடன் கேட்டுக்கொள்கிறேன்.\n\nநன்றி.\n\nஇப்படிக்கு,\nA. Kumar"
+  },
+  {
+   "c": {
+    "issue_id": "road",
+    "area": "village",
+    "town": " Tambaram ",
+    "address": " 12 Gandhi Street ",
+    "landmark": "",
+    "name": "A. Kumar",
+    "phone": "98765 43210",
+    "extra": "It has been like this for a month.",
+    "has_photo": false
+   },
+   "lang": "ta",
+   "letter": "பெறுநர்:\nவட்டார வளர்ச்சி அலுவலர்\nஊராட்சி ஒன்றிய அலுவலகம், Tambaram\n\nஅனுப்புநர்:\nA. Kumar\n12 Gandhi Street, Tambaram\nதொலைபேசி: 98765 43210\n\nநாள்: 24/11/2026\n\nபொருள்: சாலைப் பள்ளம் தொடர்பான புகார்\n\nமதிப்புமிகு ஐயா / அம்மா,\n\nநான் 12 Gandhi Street, Tambaram பகுதியில் வசிக்கிறேன். 12 Gandhi Street அருகில் சாலை சேதமடைந்து பள்ளங்கள் உள்ளன. இதனால் பொதுமக்களுக்குப் பெரும் சிரமம் ஏற்படுகிறது. It has been like this for a month.\n\nஎனவே, இந்தப் பிரச்சினையை விரைவில் நேரில் ஆய்வு செய்து சரிசெய்ய உரிய நடவடிக்கை எடுக்குமாறு பணிவுடன் கேட்டுக்கொள்கிறேன்.\n\nநன்றி.\n\nஇப்படிக்கு,\nA. Kumar"
+  },
+  {
+   "c": {
+    "issue_id": "road",
+    "area": "village",
+    "town": " Tambaram ",
+    "address": "Gandhi Street, Chrompet",
+    "landmark": "near the temple",
+    "name": "A. Kumar",
+    "phone": "98765 43210",
+    "extra": "",
+    "has_photo": true
+   },
+   "lang": "ta",
+   "letter": "பெறுநர்:\nவட்டார வளர்ச்சி அலுவலர்\nஊராட்சி ஒன்றிய அலுவலகம், Tambaram\n\nஅனுப்புநர்:\nA. Kumar\nGandhi Street, Chrompet, Tambaram\nதொலைபேசி: 98765 43210\n\nநாள்: 24/11/2026\n\nபொருள்: சாலைப் பள்ளம் தொடர்பான புகார்\n\nமதிப்புமிகு ஐயா / அம்மா,\n\nநான் Gandhi Street, Chrompet, Tambaram பகுதியில் வசிக்கிறேன். near the temple அருகில் சாலை சேதமடைந்து பள்ளங்கள் உள்ளன. இதனால் பொதுமக்களுக்குப் பெரும் சிரமம் ஏற்படுகிறது.\n\nஎனவே, இந்தப் பிரச்சினையை விரைவில் நேரில் ஆய்வு செய்து சரிசெய்ய உரிய நடவடிக்கை எடுக்குமாறு பணிவுடன் கேட்டுக்கொள்கிறேன். பிரச்சினையின் புகைப்படம் இணைக்கப்பட்டுள்ளது.\n\nநன்றி.\n\nஇப்படிக்கு,\nA. Kumar"
+  },
+  {
+   "c": {
+    "issue_id": "road",
+    "area": "village",
+    "town": "Madurai",
+    "address": "Gandhi Street, Chrompet",
+    "landmark": "",
+    "name": "A. Kumar",
+    "phone": "",
+    "extra": "",
+    "has_photo": false
+   },
+   "lang": "en",
+   "letter": "To,\nThe Block Development Officer\nPanchayat Union Office, Madurai\n\nFrom,\nA. Kumar\nGandhi Street, Chrompet, Madurai\n\nDate: 24/11/2026\n\nSubject: Complaint regarding bad road / pothole\n\nRespected Sir / Madam,\n\nI am a resident of Gandhi Street, Chrompet, Madurai. I would like to bring to your kind notice that the road near Gandhi Street, Chrompet is damaged and has potholes. This is causing great difficulty to the public.\n\nI kindly request you to inspect the matter and take the necessary action at the earliest.\n\nThank you.\n\nYours faithfully,\nA. Kumar"
+  },
+  {
+   "c": {
+    "issue_id": "road",
+    "area": "village",
+    "town": " Tambaram ",
+    "address": " 12 Gandhi Street ",
+    "landmark": "",
+    "name": "A. Kumar",
+    "phone": "98765 43210",
+    "extra": "It has been like this for a month.",
+    "has_photo": false
+   },
+   "lang": "en",
+   "letter": "To,\nThe Block Development Officer\nPanchayat Union Office, Tambaram\n\nFrom,\nA. Kumar\n12 Gandhi Street, Tambaram\nPhone: 98765 43210\n\nDate: 24/11/2026\n\nSubject: Complaint regarding bad road / pothole\n\nRespected Sir / Madam,\n\nI am a resident of 12 Gandhi Street, Tambaram. I would like to bring to your kind notice that the road near 12 Gandhi Street is damaged and has potholes. This is causing great difficulty to the public. It has been like this for a month.\n\nI kindly request you to inspect the matter and take the necessary action at the earliest.\n\nThank you.\n\nYours faithfully,\nA. Kumar"
+  },
+  {
+   "c": {
+    "issue_id": "road",
+    "area": "village",
+    "town": " Tambaram ",
+    "address": "Gandhi Street, Chrompet",
+    "landmark": "near the temple",
+    "name": "A. Kumar",
+    "phone": "98765 43210",
+    "extra": "",
+    "has_photo": true
+   },
+   "lang": "en",
+   "letter": "To,\nThe Block Development Officer\nPanchayat Union Office, Tambaram\n\nFrom,\nA. Kumar\nGandhi Street, Chrompet, Tambaram\nPhone: 98765 43210\n\nDate: 24/11/2026\n\nSubject: Complaint regarding bad road / pothole\n\nRespected Sir / Madam,\n\nI am a resident of Gandhi Street, Chrompet, Tambaram. I would like to bring to your kind notice that the road near near the temple is damaged and has potholes. This is causing great difficulty to the public.\n\nI kindly request you to inspect the matter and take the necessary action at the earliest. A photograph of the problem is attached.\n\nThank you.\n\nYours faithfully,\nA. Kumar"
+  },
+  {
+   "c": {
+    "issue_id": "garbage",
+    "area": "chennai",
+    "town": "",
+    "address": "Gandhi Street, Chrompet",
+    "landmark": "",
+    "name": "A. Kumar",
+    "phone": "",
+    "extra": "",
+    "has_photo": false
+   },
+   "lang": "ta",
+   "letter": "பெறுநர்:\nஆணையர்\nபெருநகர சென்னை மாநகராட்சி\nரிப்பன் மாளிகை, சென்னை - 600 003\n\nஅனுப்புநர்:\nA. Kumar\nGandhi Street, Chrompet\n\nநாள்: 24/11/2026\n\nபொருள்: குப்பை தொடர்பான புகார்\n\nமதிப்புமிகு ஐயா / அம்மா,\n\nநான் Gandhi Street, Chrompet பகுதியில் வசிக்கிறேன். Gandhi Street, Chrompet அருகில் குப்பை குவிந்து கிடக்கிறது, அது அகற்றப்படவில்லை. இதனால் பொதுமக்களுக்குப் பெரும் சிரமம் ஏற்படுகிறது.\n\nஎனவே, இந்தப் பிரச்சினையை விரைவில் நேரில் ஆய்வு செய்து சரிசெய்ய உரிய நடவடிக்கை எடுக்குமாறு பணிவுடன் கேட்டுக்கொள்கிறேன்.\n\nநன்றி.\n\nஇப்படிக்கு,\nA. Kumar"
+  },
+  {
+   "c": {
+    "issue_id": "garbage",
+    "area": "chennai",
+    "town": "",
+    "address": " 12 Gandhi Street ",
+    "landmark": "",
+    "name": "A. Kumar",
+    "phone": "98765 43210",
+    "extra": "It has been like this for a month.",
+    "has_photo": false
+   },
+   "lang": "ta",
+   "letter": "பெறுநர்:\nஆணையர்\nபெருநகர சென்னை மாநகராட்சி\nரிப்பன் மாளிகை, சென்னை - 600 003\n\nஅனுப்புநர்:\nA. Kumar\n12 Gandhi Street\nதொலைபேசி: 98765 43210\n\nநாள்: 24/11/2026\n\nபொருள்: குப்பை தொடர்பான புகார்\n\nமதிப்புமிகு ஐயா / அம்மா,\n\nநான் 12 Gandhi Street பகுதியில் வசிக்கிறேன். 12 Gandhi Street அருகில் குப்பை குவிந்து கிடக்கிறது, அது அகற்றப்படவில்லை. இதனால் பொதுமக்களுக்குப் பெரும் சிரமம் ஏற்படுகிறது. It has been like this for a month.\n\nஎனவே, இந்தப் பிரச்சினையை விரைவில் நேரில் ஆய்வு செய்து சரிசெய்ய உரிய நடவடிக்கை எடுக்குமாறு பணிவுடன் கேட்டுக்கொள்கிறேன்.\n\nநன்றி.\n\nஇப்படிக்கு,\nA. Kumar"
+  },
+  {
+   "c": {
+    "issue_id": "garbage",
+    "area": "chennai",
+    "town": " Tambaram ",
+    "address": "Gandhi Street, Chrompet",
+    "landmark": "near the temple",
+    "name": "A. Kumar",
+    "phone": "98765 43210",
+    "extra": "",
+    "has_photo": true
+   },
+   "lang": "ta",
+   "letter": "பெறுநர்:\nஆணையர்\nபெருநகர சென்னை மாநகராட்சி\nரிப்பன் மாளிகை, சென்னை - 600 003\n\nஅனுப்புநர்:\nA. Kumar\nGandhi Street, Chrompet, Tambaram\nதொலைபேசி: 98765 43210\n\nநாள்: 24/11/2026\n\nபொருள்: குப்பை தொடர்பான புகார்\n\nமதிப்புமிகு ஐயா / அம்மா,\n\nநான் Gandhi Street, Chrompet, Tambaram பகுதியில் வசிக்கிறேன். near the temple அருகில் குப்பை குவிந்து கிடக்கிறது, அது அகற்றப்படவில்லை. இதனால் பொதுமக்களுக்குப் பெரும் சிரமம் ஏற்படுகிறது.\n\nஎனவே, இந்தப் பிரச்சினையை விரைவில் நேரில் ஆய்வு செய்து சரிசெய்ய உரிய நடவடிக்கை எடுக்குமாறு பணிவுடன் கேட்டுக்கொள்கிறேன். பிரச்சினையின் புகைப்படம் இணைக்கப்பட்டுள்ளது.\n\nநன்றி.\n\nஇப்படிக்கு,\nA. Kumar"
+  },
+  {
+   "c": {
+    "issue_id": "garbage",
+    "area": "chennai",
+    "town": "",
+    "address": "Gandhi Street, Chrompet",
+    "landmark": "",
+    "name": "A. Kumar",
+    "phone": "",
+    "extra": "",
+    "has_photo": false
+   },
+   "lang": "en",
+   "letter": "To,\nThe Commissioner\nGreater Chennai Corporation\nRipon Buildings, Chennai - 600 003\n\nFrom,\nA. Kumar\nGandhi Street, Chrompet\n\nDate: 24/11/2026\n\nSubject: Complaint regarding garbage\n\nRespected Sir / Madam,\n\nI am a resident of Gandhi Street, Chrompet. I would like to bring to your kind notice that garbage has piled up near Gandhi Street, Chrompet and is not being cleared. This is causing great difficulty to the public.\n\nI kindly request you to inspect the matter and take the necessary action at the earliest.\n\nThank you.\n\nYours faithfully,\nA. Kumar"
+  },
+  {
+   "c": {
+    "issue_id": "garbage",
+    "area": "chennai",
+    "town": "",
+    "address": " 12 Gandhi Street ",
+    "landmark": "",
+    "name": "A. Kumar",
+    "phone": "98765 43210",
+    "extra": "It has been like this for a month.",
+    "has_photo": false
+   },
+   "lang": "en",
+   "letter": "To,\nThe Commissioner\nGreater Chennai Corporation\nRipon Buildings, Chennai - 600 003\n\nFrom,\nA. Kumar\n12 Gandhi Street\nPhone: 98765 43210\n\nDate: 24/11/2026\n\nSubject: Complaint regarding garbage\n\nRespected Sir / Madam,\n\nI am a resident of 12 Gandhi Street. I would like to bring to your kind notice that garbage has piled up near 12 Gandhi Street and is not being cleared. This is causing great difficulty to the public. It has been like this for a month.\n\nI kindly request you to inspect the matter and take the necessary action at the earliest.\n\nThank you.\n\nYours faithfully,\nA. Kumar"
+  },
+  {
+   "c": {
+    "issue_id": "garbage",
+    "area": "chennai",
+    "town": " Tambaram ",
+    "address": "Gandhi Street, Chrompet",
+    "landmark": "near the temple",
+    "name": "A. Kumar",
+    "phone": "98765 43210",
+    "extra": "",
+    "has_photo": true
+   },
+   "lang": "en",
+   "letter": "To,\nThe Commissioner\nGreater Chennai Corporation\nRipon Buildings, Chennai - 600 003\n\nFrom,\nA. Kumar\nGandhi Street, Chrompet, Tambaram\nPhone: 98765 43210\n\nDate: 24/11/2026\n\nSubject: Complaint regarding garbage\n\nRespected Sir / Madam,\n\nI am a resident of Gandhi Street, Chrompet, Tambaram. I would like to bring to your kind notice that garbage has piled up near near the temple and is not being cleared. This is causing great difficulty to the public.\n\nI kindly request you to inspect the matter and take the necessary action at the earliest. A photograph of the problem is attached.\n\nThank you.\n\nYours faithfully,\nA. Kumar"
+  },
+  {
+   "c": {
+    "issue_id": "garbage",
+    "area": "city",
+    "town": "Madurai",
+    "address": "Gandhi Street, Chrompet",
+    "landmark": "",
+    "name": "A. Kumar",
+    "phone": "",
+    "extra": "",
+    "has_photo": false
+   },
+   "lang": "ta",
+   "letter": "பெறுநர்:\nஆணையர் / செயல் அலுவலர்\nMadurai மாநகராட்சி / நகராட்சி\nMadurai\n\nஅனுப்புநர்:\nA. Kumar\nGandhi Street, Chrompet, Madurai\n\nநாள்: 24/11/2026\n\nபொருள்: குப்பை தொடர்பான புகார்\n\nமதிப்புமிகு ஐயா / அம்மா,\n\nநான் Gandhi Street, Chrompet, Madurai பகுதியில் வசிக்கிறேன். Gandhi Street, Chrompet அருகில் குப்பை குவிந்து கிடக்கிறது, அது அகற்றப்படவில்லை. இதனால் பொதுமக்களுக்குப் பெரும் சிரமம் ஏற்படுகிறது.\n\nஎனவே, இந்தப் பிரச்சினையை விரைவில் நேரில் ஆய்வு செய்து சரிசெய்ய உரிய நடவடிக்கை எடுக்குமாறு பணிவுடன் கேட்டுக்கொள்கிறேன்.\n\nநன்றி.\n\nஇப்படிக்கு,\nA. Kumar"
+  },
+  {
+   "c": {
+    "issue_id": "garbage",
+    "area": "city",
+    "town": " Tambaram ",
+    "address": " 12 Gandhi Street ",
+    "landmark": "",
+    "name": "A. Kumar",
+    "phone": "98765 43210",
+    "extra": "It has been like this for a month.",
+    "has_photo": false
+   },
+   "lang": "ta",
+   "letter": "பெறுநர்:\nஆணையர் / செயல் அலுவலர்\nTambaram மாநகராட்சி / நகராட்சி\nTambaram\n\nஅனுப்புநர்:\nA. Kumar\n12 Gandhi Street, Tambaram\nதொலைபேசி: 98765 43210\n\nநாள்: 24/11/2026\n\nபொருள்: குப்பை தொடர்பான புகார்\n\nமதிப்புமிகு ஐயா / அம்மா,\n\nநான் 12 Gandhi Street, Tambaram பகுதியில் வசிக்கிறேன். 12 Gandhi Street அருகில் குப்பை குவிந்து கிடக்கிறது, அது அகற்றப்படவில்லை. இதனால் பொதுமக்களுக்குப் பெரும் சிரமம் ஏற்படுகிறது. It has been like this for a month.\n\nஎனவே, இந்தப் பிரச்சினையை விரைவில் நேரில் ஆய்வு செய்து சரிசெய்ய உரிய நடவடிக்கை எடுக்குமாறு பணிவுடன் கேட்டுக்கொள்கிறேன்.\n\nநன்றி.\n\nஇப்படிக்கு,\nA. Kumar"
+  },
+  {
+   "c": {
+    "issue_id": "garbage",
+    "area": "city",
+    "town": " Tambaram ",
+    "address": "Gandhi Street, Chrompet",
+    "landmark": "near the temple",
+    "name": "A. Kumar",
+    "phone": "98765 43210",
+    "extra": "",
+    "has_photo": true
+   },
+   "lang": "ta",
+   "letter": "பெறுநர்:\nஆணையர் / செயல் அலுவலர்\nTambaram மாநகராட்சி / நகராட்சி\nTambaram\n\nஅனுப்புநர்:\nA. Kumar\nGandhi Street, Chrompet, Tambaram\nதொலைபேசி: 98765 43210\n\nநாள்: 24/11/2026\n\nபொருள்: குப்பை தொடர்பான புகார்\n\nமதிப்புமிகு ஐயா / அம்மா,\n\nநான் Gandhi Street, Chrompet, Tambaram பகுதியில் வசிக்கிறேன். near the temple அருகில் குப்பை குவிந்து கிடக்கிறது, அது அகற்றப்படவில்லை. இதனால் பொதுமக்களுக்குப் பெரும் சிரமம் ஏற்படுகிறது.\n\nஎனவே, இந்தப் பிரச்சினையை விரைவில் நேரில் ஆய்வு செய்து சரிசெய்ய உரிய நடவடிக்கை எடுக்குமாறு பணிவுடன் கேட்டுக்கொள்கிறேன். பிரச்சினையின் புகைப்படம் இணைக்கப்பட்டுள்ளது.\n\nநன்றி.\n\nஇப்படிக்கு,\nA. Kumar"
+  },
+  {
+   "c": {
+    "issue_id": "garbage",
+    "area": "city",
+    "town": "Madurai",
+    "address": "Gandhi Street, Chrompet",
+    "landmark": "",
+    "name": "A. Kumar",
+    "phone": "",
+    "extra": "",
+    "has_photo": false
+   },
+   "lang": "en",
+   "letter": "To,\nThe Commissioner / Executive Officer\nMadurai Corporation / Municipality\nMadurai\n\nFrom,\nA. Kumar\nGandhi Street, Chrompet, Madurai\n\nDate: 24/11/2026\n\nSubject: Complaint regarding garbage\n\nRespected Sir / Madam,\n\nI am a resident of Gandhi Street, Chrompet, Madurai. I would like to bring to your kind notice that garbage has piled up near Gandhi Street, Chrompet and is not being cleared. This is causing great difficulty to the public.\n\nI kindly request you to inspect the matter and take the necessary action at the earliest.\n\nThank you.\n\nYours faithfully,\nA. Kumar"
+  },
+  {
+   "c": {
+    "issue_id": "garbage",
+    "area": "city",
+    "town": " Tambaram ",
+    "address": " 12 Gandhi Street ",
+    "landmark": "",
+    "name": "A. Kumar",
+    "phone": "98765 43210",
+    "extra": "It has been like this for a month.",
+    "has_photo": false
+   },
+   "lang": "en",
+   "letter": "To,\nThe Commissioner / Executive Officer\nTambaram Corporation / Municipality\nTambaram\n\nFrom,\nA. Kumar\n12 Gandhi Street, Tambaram\nPhone: 98765 43210\n\nDate: 24/11/2026\n\nSubject: Complaint regarding garbage\n\nRespected Sir / Madam,\n\nI am a resident of 12 Gandhi Street, Tambaram. I would like to bring to your kind notice that garbage has piled up near 12 Gandhi Street and is not being cleared. This is causing great difficulty to the public. It has been like this for a month.\n\nI kindly request you to inspect the matter and take the necessary action at the earliest.\n\nThank you.\n\nYours faithfully,\nA. Kumar"
+  },
+  {
+   "c": {
+    "issue_id": "garbage",
+    "area": "city",
+    "town": " Tambaram ",
+    "address": "Gandhi Street, Chrompet",
+    "landmark": "near the temple",
+    "name": "A. Kumar",
+    "phone": "98765 43210",
+    "extra": "",
+    "has_photo": true
+   },
+   "lang": "en",
+   "letter": "To,\nThe Commissioner / Executive Officer\nTambaram Corporation / Municipality\nTambaram\n\nFrom,\nA. Kumar\nGandhi Street, Chrompet, Tambaram\nPhone: 98765 43210\n\nDate: 24/11/2026\n\nSubject: Complaint regarding garbage\n\nRespected Sir / Madam,\n\nI am a resident of Gandhi Street, Chrompet, Tambaram. I would like to bring to your kind notice that garbage has piled up near near the temple and is not being cleared. This is causing great difficulty to the public.\n\nI kindly request you to inspect the matter and take the necessary action at the earliest. A photograph of the problem is attached.\n\nThank you.\n\nYours faithfully,\nA. Kumar"
+  },
+  {
+   "c": {
+    "issue_id": "garbage",
+    "area": "village",
+    "town": "Madurai",
+    "address": "Gandhi Street, Chrompet",
+    "landmark": "",
+    "name": "A. Kumar",
+    "phone": "",
+    "extra": "",
+    "has_photo": false
+   },
+   "lang": "ta",
+   "letter": "பெறுநர்:\nவட்டார வளர்ச்சி அலுவலர்\nஊராட்சி ஒன்றிய அலுவலகம், Madurai\n\nஅனுப்புநர்:\nA. Kumar\nGandhi Street, Chrompet, Madurai\n\nநாள்: 24/11/2026\n\nபொருள்: குப்பை தொடர்பான புகார்\n\nமதிப்புமிகு ஐயா / அம்மா,\n\nநான் Gandhi Street, Chrompet, Madurai பகுதியில் வசிக்கிறேன். Gandhi Street, Chrompet அருகில் குப்பை குவிந்து கிடக்கிறது, அது அகற்றப்படவில்லை. இதனால் பொதுமக்களுக்குப் பெரும் சிரமம் ஏற்படுகிறது.\n\nஎனவே, இந்தப் பிரச்சினையை விரைவில் நேரில் ஆய்வு செய்து சரிசெய்ய உரிய நடவடிக்கை எடுக்குமாறு பணிவுடன் கேட்டுக்கொள்கிறேன்.\n\nநன்றி.\n\nஇப்படிக்கு,\nA. Kumar"
+  },
+  {
+   "c": {
+    "issue_id": "garbage",
+    "area": "village",
+    "town": " Tambaram ",
+    "address": " 12 Gandhi Street ",
+    "landmark": "",
+    "name": "A. Kumar",
+    "phone": "98765 43210",
+    "extra": "It has been like this for a month.",
+    "has_photo": false
+   },
+   "lang": "ta",
+   "letter": "பெறுநர்:\nவட்டார வளர்ச்சி அலுவலர்\nஊராட்சி ஒன்றிய அலுவலகம், Tambaram\n\nஅனுப்புநர்:\nA. Kumar\n12 Gandhi Street, Tambaram\nதொலைபேசி: 98765 43210\n\nநாள்: 24/11/2026\n\nபொருள்: குப்பை தொடர்பான புகார்\n\nமதிப்புமிகு ஐயா / அம்மா,\n\nநான் 12 Gandhi Street, Tambaram பகுதியில் வசிக்கிறேன். 12 Gandhi Street அருகில் குப்பை குவிந்து கிடக்கிறது, அது அகற்றப்படவில்லை. இதனால் பொதுமக்களுக்குப் பெரும் சிரமம் ஏற்படுகிறது. It has been like this for a month.\n\nஎனவே, இந்தப் பிரச்சினையை விரைவில் நேரில் ஆய்வு செய்து சரிசெய்ய உரிய நடவடிக்கை எடுக்குமாறு பணிவுடன் கேட்டுக்கொள்கிறேன்.\n\nநன்றி.\n\nஇப்படிக்கு,\nA. Kumar"
+  },
+  {
+   "c": {
+    "issue_id": "garbage",
+    "area": "village",
+    "town": " Tambaram ",
+    "address": "Gandhi Street, Chrompet",
+    "landmark": "near the temple",
+    "name": "A. Kumar",
+    "phone": "98765 43210",
+    "extra": "",
+    "has_photo": true
+   },
+   "lang": "ta",
+   "letter": "பெறுநர்:\nவட்டார வளர்ச்சி அலுவலர்\nஊராட்சி ஒன்றிய அலுவலகம், Tambaram\n\nஅனுப்புநர்:\nA. Kumar\nGandhi Street, Chrompet, Tambaram\nதொலைபேசி: 98765 43210\n\nநாள்: 24/11/2026\n\nபொருள்: குப்பை தொடர்பான புகார்\n\nமதிப்புமிகு ஐயா / அம்மா,\n\nநான் Gandhi Street, Chrompet, Tambaram பகுதியில் வசிக்கிறேன். near the temple அருகில் குப்பை குவிந்து கிடக்கிறது, அது அகற்றப்படவில்லை. இதனால் பொதுமக்களுக்குப் பெரும் சிரமம் ஏற்படுகிறது.\n\nஎனவே, இந்தப் பிரச்சினையை விரைவில் நேரில் ஆய்வு செய்து சரிசெய்ய உரிய நடவடிக்கை எடுக்குமாறு பணிவுடன் கேட்டுக்கொள்கிறேன். பிரச்சினையின் புகைப்படம் இணைக்கப்பட்டுள்ளது.\n\nநன்றி.\n\nஇப்படிக்கு,\nA. Kumar"
+  },
+  {
+   "c": {
+    "issue_id": "garbage",
+    "area": "village",
+    "town": "Madurai",
+    "address": "Gandhi Street, Chrompet",
+    "landmark": "",
+    "name": "A. Kumar",
+    "phone": "",
+    "extra": "",
+    "has_photo": false
+   },
+   "lang": "en",
+   "letter": "To,\nThe Block Development Officer\nPanchayat Union Office, Madurai\n\nFrom,\nA. Kumar\nGandhi Street, Chrompet, Madurai\n\nDate: 24/11/2026\n\nSubject: Complaint regarding garbage\n\nRespected Sir / Madam,\n\nI am a resident of Gandhi Street, Chrompet, Madurai. I would like to bring to your kind notice that garbage has piled up near Gandhi Street, Chrompet and is not being cleared. This is causing great difficulty to the public.\n\nI kindly request you to inspect the matter and take the necessary action at the earliest.\n\nThank you.\n\nYours faithfully,\nA. Kumar"
+  },
+  {
+   "c": {
+    "issue_id": "garbage",
+    "area": "village",
+    "town": " Tambaram ",
+    "address": " 12 Gandhi Street ",
+    "landmark": "",
+    "name": "A. Kumar",
+    "phone": "98765 43210",
+    "extra": "It has been like this for a month.",
+    "has_photo": false
+   },
+   "lang": "en",
+   "letter": "To,\nThe Block Development Officer\nPanchayat Union Office, Tambaram\n\nFrom,\nA. Kumar\n12 Gandhi Street, Tambaram\nPhone: 98765 43210\n\nDate: 24/11/2026\n\nSubject: Complaint regarding garbage\n\nRespected Sir / Madam,\n\nI am a resident of 12 Gandhi Street, Tambaram. I would like to bring to your kind notice that garbage has piled up near 12 Gandhi Street and is not being cleared. This is causing great difficulty to the public. It has been like this for a month.\n\nI kindly request you to inspect the matter and take the necessary action at the earliest.\n\nThank you.\n\nYours faithfully,\nA. Kumar"
+  },
+  {
+   "c": {
+    "issue_id": "garbage",
+    "area": "village",
+    "town": " Tambaram ",
+    "address": "Gandhi Street, Chrompet",
+    "landmark": "near the temple",
+    "name": "A. Kumar",
+    "phone": "98765 43210",
+    "extra": "",
+    "has_photo": true
+   },
+   "lang": "en",
+   "letter": "To,\nThe Block Development Officer\nPanchayat Union Office, Tambaram\n\nFrom,\nA. Kumar\nGandhi Street, Chrompet, Tambaram\nPhone: 98765 43210\n\nDate: 24/11/2026\n\nSubject: Complaint regarding garbage\n\nRespected Sir / Madam,\n\nI am a resident of Gandhi Street, Chrompet, Tambaram. I would like to bring to your kind notice that garbage has piled up near near the temple and is not being cleared. This is causing great difficulty to the public.\n\nI kindly request you to inspect the matter and take the necessary action at the earliest. A photograph of the problem is attached.\n\nThank you.\n\nYours faithfully,\nA. Kumar"
+  },
+  {
+   "c": {
+    "issue_id": "drainage",
+    "area": "chennai",
+    "town": "",
+    "address": "Gandhi Street, Chrompet",
+    "landmark": "",
+    "name": "A. Kumar",
+    "phone": "",
+    "extra": "",
+    "has_photo": false
+   },
+   "lang": "ta",
+   "letter": "பெறுநர்:\nஆணையர்\nபெருநகர சென்னை மாநகராட்சி\nரிப்பன் மாளிகை, சென்னை - 600 003\n\nஅனுப்புநர்:\nA. Kumar\nGandhi Street, Chrompet\n\nநாள்: 24/11/2026\n\nபொருள்: சாக்கடை / கழிவுநீர் தொடர்பான புகார்\n\nமதிப்புமிகு ஐயா / அம்மா,\n\nநான் Gandhi Street, Chrompet பகுதியில் வசிக்கிறேன். Gandhi Street, Chrompet அருகில் சாக்கடை அடைத்து கழிவுநீர் தெருவில் வழிந்தோடுகிறது. இதனால் பொதுமக்களுக்குப் பெரும் சிரமம் ஏற்படுகிறது.\n\nஎனவே, இந்தப் பிரச்சினையை விரைவில் நேரில் ஆய்வு செய்து சரிசெய்ய உரிய நடவடிக்கை எடுக்குமாறு பணிவுடன் கேட்டுக்கொள்கிறேன்.\n\nநன்றி.\n\nஇப்படிக்கு,\nA. Kumar"
+  },
+  {
+   "c": {
+    "issue_id": "drainage",
+    "area": "chennai",
+    "town": "",
+    "address": " 12 Gandhi Street ",
+    "landmark": "",
+    "name": "A. Kumar",
+    "phone": "98765 43210",
+    "extra": "It has been like this for a month.",
+    "has_photo": false
+   },
+   "lang": "ta",
+   "letter": "பெறுநர்:\nஆணையர்\nபெருநகர சென்னை மாநகராட்சி\nரிப்பன் மாளிகை, சென்னை - 600 003\n\nஅனுப்புநர்:\nA. Kumar\n12 Gandhi Street\nதொலைபேசி: 98765 43210\n\nநாள்: 24/11/2026\n\nபொருள்: சாக்கடை / கழிவுநீர் தொடர்பான புகார்\n\nமதிப்புமிகு ஐயா / அம்மா,\n\nநான் 12 Gandhi Street பகுதியில் வசிக்கிறேன். 12 Gandhi Street அருகில் சாக்கடை அடைத்து கழிவுநீர் தெருவில் வழிந்தோடுகிறது. இதனால் பொதுமக்களுக்குப் பெரும் சிரமம் ஏற்படுகிறது. It has been like this for a month.\n\nஎனவே, இந்தப் பிரச்சினையை விரைவில் நேரில் ஆய்வு செய்து சரிசெய்ய உரிய நடவடிக்கை எடுக்குமாறு பணிவுடன் கேட்டுக்கொள்கிறேன்.\n\nநன்றி.\n\nஇப்படிக்கு,\nA. Kumar"
+  },
+  {
+   "c": {
+    "issue_id": "drainage",
+    "area": "chennai",
+    "town": " Tambaram ",
+    "address": "Gandhi Street, Chrompet",
+    "landmark": "near the temple",
+    "name": "A. Kumar",
+    "phone": "98765 43210",
+    "extra": "",
+    "has_photo": true
+   },
+   "lang": "ta",
+   "letter": "பெறுநர்:\nஆணையர்\nபெருநகர சென்னை மாநகராட்சி\nரிப்பன் மாளிகை, சென்னை - 600 003\n\nஅனுப்புநர்:\nA. Kumar\nGandhi Street, Chrompet, Tambaram\nதொலைபேசி: 98765 43210\n\nநாள்: 24/11/2026\n\nபொருள்: சாக்கடை / கழிவுநீர் தொடர்பான புகார்\n\nமதிப்புமிகு ஐயா / அம்மா,\n\nநான் Gandhi Street, Chrompet, Tambaram பகுதியில் வசிக்கிறேன். near the temple அருகில் சாக்கடை அடைத்து கழிவுநீர் தெருவில் வழிந்தோடுகிறது. இதனால் பொதுமக்களுக்குப் பெரும் சிரமம் ஏற்படுகிறது.\n\nஎனவே, இந்தப் பிரச்சினையை விரைவில் நேரில் ஆய்வு செய்து சரிசெய்ய உரிய நடவடிக்கை எடுக்குமாறு பணிவுடன் கேட்டுக்கொள்கிறேன். பிரச்சினையின் புகைப்படம் இணைக்கப்பட்டுள்ளது.\n\nநன்றி.\n\nஇப்படிக்கு,\nA. Kumar"
+  },
+  {
+   "c": {
+    "issue_id": "drainage",
+    "area": "chennai",
+    "town": "",
+    "address": "Gandhi Street, Chrompet",
+    "landmark": "",
+    "name": "A. Kumar",
+    "phone": "",
+    "extra": "",
+    "has_photo": false
+   },
+   "lang": "en",
+   "letter": "To,\nThe Commissioner\nGreater Chennai Corporation\nRipon Buildings, Chennai - 600 003\n\nFrom,\nA. Kumar\nGandhi Street, Chrompet\n\nDate: 24/11/2026\n\nSubject: Complaint regarding drain / sewage\n\nRespected Sir / Madam,\n\nI am a resident of Gandhi Street, Chrompet. I would like to bring to your kind notice that the drain near Gandhi Street, Chrompet is blocked and sewage is overflowing onto the street. This is causing great difficulty to the public.\n\nI kindly request you to inspect the matter and take the necessary action at the earliest.\n\nThank you.\n\nYours faithfully,\nA. Kumar"
+  },
+  {
+   "c": {
+    "issue_id": "drainage",
+    "area": "chennai",
+    "town": "",
+    "address": " 12 Gandhi Street ",
+    "landmark": "",
+    "name": "A. Kumar",
+    "phone": "98765 43210",
+    "extra": "It has been like this for a month.",
+    "has_photo": false
+   },
+   "lang": "en",
+   "letter": "To,\nThe Commissioner\nGreater Chennai Corporation\nRipon Buildings, Chennai - 600 003\n\nFrom,\nA. Kumar\n12 Gandhi Street\nPhone: 98765 43210\n\nDate: 24/11/2026\n\nSubject: Complaint regarding drain / sewage\n\nRespected Sir / Madam,\n\nI am a resident of 12 Gandhi Street. I would like to bring to your kind notice that the drain near 12 Gandhi Street is blocked and sewage is overflowing onto the street. This is causing great difficulty to the public. It has been like this for a month.\n\nI kindly request you to inspect the matter and take the necessary action at the earliest.\n\nThank you.\n\nYours faithfully,\nA. Kumar"
+  },
+  {
+   "c": {
+    "issue_id": "drainage",
+    "area": "chennai",
+    "town": " Tambaram ",
+    "address": "Gandhi Street, Chrompet",
+    "landmark": "near the temple",
+    "name": "A. Kumar",
+    "phone": "98765 43210",
+    "extra": "",
+    "has_photo": true
+   },
+   "lang": "en",
+   "letter": "To,\nThe Commissioner\nGreater Chennai Corporation\nRipon Buildings, Chennai - 600 003\n\nFrom,\nA. Kumar\nGandhi Street, Chrompet, Tambaram\nPhone: 98765 43210\n\nDate: 24/11/2026\n\nSubject: Complaint regarding drain / sewage\n\nRespected Sir / Madam,\n\nI am a resident of Gandhi Street, Chrompet, Tambaram. I would like to bring to your kind notice that the drain near near the temple is blocked and sewage is overflowing onto the street. This is causing great difficulty to the public.\n\nI kindly request you to inspect the matter and take the necessary action at the earliest. A photograph of the problem is attached.\n\nThank you.\n\nYours faithfully,\nA. Kumar"
+  },
+  {
+   "c": {
+    "issue_id": "drainage",
+    "area": "city",
+    "town": "Madurai",
+    "address": "Gandhi Street, Chrompet",
+    "landmark": "",
+    "name": "A. Kumar",
+    "phone": "",
+    "extra": "",
+    "has_photo": false
+   },
+   "lang": "ta",
+   "letter": "பெறுநர்:\nஆணையர் / செயல் அலுவலர்\nMadurai மாநகராட்சி / நகராட்சி\nMadurai\n\nஅனுப்புநர்:\nA. Kumar\nGandhi Street, Chrompet, Madurai\n\nநாள்: 24/11/2026\n\nபொருள்: சாக்கடை / கழிவுநீர் தொடர்பான புகார்\n\nமதிப்புமிகு ஐயா / அம்மா,\n\nநான் Gandhi Street, Chrompet, Madurai பகுதியில் வசிக்கிறேன். Gandhi Street, Chrompet அருகில் சாக்கடை அடைத்து கழிவுநீர் தெருவில் வழிந்தோடுகிறது. இதனால் பொதுமக்களுக்குப் பெரும் சிரமம் ஏற்படுகிறது.\n\nஎனவே, இந்தப் பிரச்சினையை விரைவில் நேரில் ஆய்வு செய்து சரிசெய்ய உரிய நடவடிக்கை எடுக்குமாறு பணிவுடன் கேட்டுக்கொள்கிறேன்.\n\nநன்றி.\n\nஇப்படிக்கு,\nA. Kumar"
+  },
+  {
+   "c": {
+    "issue_id": "drainage",
+    "area": "city",
+    "town": " Tambaram ",
+    "address": " 12 Gandhi Street ",
+    "landmark": "",
+    "name": "A. Kumar",
+    "phone": "98765 43210",
+    "extra": "It has been like this for a month.",
+    "has_photo": false
+   },
+   "lang": "ta",
+   "letter": "பெறுநர்:\nஆணையர் / செயல் அலுவலர்\nTambaram மாநகராட்சி / நகராட்சி\nTambaram\n\nஅனுப்புநர்:\nA. Kumar\n12 Gandhi Street, Tambaram\nதொலைபேசி: 98765 43210\n\nநாள்: 24/11/2026\n\nபொருள்: சாக்கடை / கழிவுநீர் தொடர்பான புகார்\n\nமதிப்புமிகு ஐயா / அம்மா,\n\nநான் 12 Gandhi Street, Tambaram பகுதியில் வசிக்கிறேன். 12 Gandhi Street அருகில் சாக்கடை அடைத்து கழிவுநீர் தெருவில் வழிந்தோடுகிறது. இதனால் பொதுமக்களுக்குப் பெரும் சிரமம் ஏற்படுகிறது. It has been like this for a month.\n\nஎனவே, இந்தப் பிரச்சினையை விரைவில் நேரில் ஆய்வு செய்து சரிசெய்ய உரிய நடவடிக்கை எடுக்குமாறு பணிவுடன் கேட்டுக்கொள்கிறேன்.\n\nநன்றி.\n\nஇப்படிக்கு,\nA. Kumar"
+  },
+  {
+   "c": {
+    "issue_id": "drainage",
+    "area": "city",
+    "town": " Tambaram ",
+    "address": "Gandhi Street, Chrompet",
+    "landmark": "near the temple",
+    "name": "A. Kumar",
+    "phone": "98765 43210",
+    "extra": "",
+    "has_photo": true
+   },
+   "lang": "ta",
+   "letter": "பெறுநர்:\nஆணையர் / செயல் அலுவலர்\nTambaram மாநகராட்சி / நகராட்சி\nTambaram\n\nஅனுப்புநர்:\nA. Kumar\nGandhi Street, Chrompet, Tambaram\nதொலைபேசி: 98765 43210\n\nநாள்: 24/11/2026\n\nபொருள்: சாக்கடை / கழிவுநீர் தொடர்பான புகார்\n\nமதிப்புமிகு ஐயா / அம்மா,\n\nநான் Gandhi Street, Chrompet, Tambaram பகுதியில் வசிக்கிறேன். near the temple அருகில் சாக்கடை அடைத்து கழிவுநீர் தெருவில் வழிந்தோடுகிறது. இதனால் பொதுமக்களுக்குப் பெரும் சிரமம் ஏற்படுகிறது.\n\nஎனவே, இந்தப் பிரச்சினையை விரைவில் நேரில் ஆய்வு செய்து சரிசெய்ய உரிய நடவடிக்கை எடுக்குமாறு பணிவுடன் கேட்டுக்கொள்கிறேன். பிரச்சினையின் புகைப்படம் இணைக்கப்பட்டுள்ளது.\n\nநன்றி.\n\nஇப்படிக்கு,\nA. Kumar"
+  },
+  {
+   "c": {
+    "issue_id": "drainage",
+    "area": "city",
+    "town": "Madurai",
+    "address": "Gandhi Street, Chrompet",
+    "landmark": "",
+    "name": "A. Kumar",
+    "phone": "",
+    "extra": "",
+    "has_photo": false
+   },
+   "lang": "en",
+   "letter": "To,\nThe Commissioner / Executive Officer\nMadurai Corporation / Municipality\nMadurai\n\nFrom,\nA. Kumar\nGandhi Street, Chrompet, Madurai\n\nDate: 24/11/2026\n\nSubject: Complaint regarding drain / sewage\n\nRespected Sir / Madam,\n\nI am a resident of Gandhi Street, Chrompet, Madurai. I would like to bring to your kind notice that the drain near Gandhi Street, Chrompet is blocked and sewage is overflowing onto the street. This is causing great difficulty to the public.\n\nI kindly request you to inspect the matter and take the necessary action at the earliest.\n\nThank you.\n\nYours faithfully,\nA. Kumar"
+  },
+  {
+   "c": {
+    "issue_id": "drainage",
+    "area": "city",
+    "town": " Tambaram ",
+    "address": " 12 Gandhi Street ",
+    "landmark": "",
+    "name": "A. Kumar",
+    "phone": "98765 43210",
+    "extra": "It has been like this for a month.",
+    "has_photo": false
+   },
+   "lang": "en",
+   "letter": "To,\nThe Commissioner / Executive Officer\nTambaram Corporation / Municipality\nTambaram\n\nFrom,\nA. Kumar\n12 Gandhi Street, Tambaram\nPhone: 98765 43210\n\nDate: 24/11/2026\n\nSubject: Complaint regarding drain / sewage\n\nRespected Sir / Madam,\n\nI am a resident of 12 Gandhi Street, Tambaram. I would like to bring to your kind notice that the drain near 12 Gandhi Street is blocked and sewage is overflowing onto the street. This is causing great difficulty to the public. It has been like this for a month.\n\nI kindly request you to inspect the matter and take the necessary action at the earliest.\n\nThank you.\n\nYours faithfully,\nA. Kumar"
+  },
+  {
+   "c": {
+    "issue_id": "drainage",
+    "area": "city",
+    "town": " Tambaram ",
+    "address": "Gandhi Street, Chrompet",
+    "landmark": "near the temple",
+    "name": "A. Kumar",
+    "phone": "98765 43210",
+    "extra": "",
+    "has_photo": true
+   },
+   "lang": "en",
+   "letter": "To,\nThe Commissioner / Executive Officer\nTambaram Corporation / Municipality\nTambaram\n\nFrom,\nA. Kumar\nGandhi Street, Chrompet, Tambaram\nPhone: 98765 43210\n\nDate: 24/11/2026\n\nSubject: Complaint regarding drain / sewage\n\nRespected Sir / Madam,\n\nI am a resident of Gandhi Street, Chrompet, Tambaram. I would like to bring to your kind notice that the drain near near the temple is blocked and sewage is overflowing onto the street. This is causing great difficulty to the public.\n\nI kindly request you to inspect the matter and take the necessary action at the earliest. A photograph of the problem is attached.\n\nThank you.\n\nYours faithfully,\nA. Kumar"
+  },
+  {
+   "c": {
+    "issue_id": "drainage",
+    "area": "village",
+    "town": "Madurai",
+    "address": "Gandhi Street, Chrompet",
+    "landmark": "",
+    "name": "A. Kumar",
+    "phone": "",
+    "extra": "",
+    "has_photo": false
+   },
+   "lang": "ta",
+   "letter": "பெறுநர்:\nவட்டார வளர்ச்சி அலுவலர்\nஊராட்சி ஒன்றிய அலுவலகம், Madurai\n\nஅனுப்புநர்:\nA. Kumar\nGandhi Street, Chrompet, Madurai\n\nநாள்: 24/11/2026\n\nபொருள்: சாக்கடை / கழிவுநீர் தொடர்பான புகார்\n\nமதிப்புமிகு ஐயா / அம்மா,\n\nநான் Gandhi Street, Chrompet, Madurai பகுதியில் வசிக்கிறேன். Gandhi Street, Chrompet அருகில் சாக்கடை அடைத்து கழிவுநீர் தெருவில் வழிந்தோடுகிறது. இதனால் பொதுமக்களுக்குப் பெரும் சிரமம் ஏற்படுகிறது.\n\nஎனவே, இந்தப் பிரச்சினையை விரைவில் நேரில் ஆய்வு செய்து சரிசெய்ய உரிய நடவடிக்கை எடுக்குமாறு பணிவுடன் கேட்டுக்கொள்கிறேன்.\n\nநன்றி.\n\nஇப்படிக்கு,\nA. Kumar"
+  },
+  {
+   "c": {
+    "issue_id": "drainage",
+    "area": "village",
+    "town": " Tambaram ",
+    "address": " 12 Gandhi Street ",
+    "landmark": "",
+    "name": "A. Kumar",
+    "phone": "98765 43210",
+    "extra": "It has been like this for a month.",
+    "has_photo": false
+   },
+   "lang": "ta",
+   "letter": "பெறுநர்:\nவட்டார வளர்ச்சி அலுவலர்\nஊராட்சி ஒன்றிய அலுவலகம், Tambaram\n\nஅனுப்புநர்:\nA. Kumar\n12 Gandhi Street, Tambaram\nதொலைபேசி: 98765 43210\n\nநாள்: 24/11/2026\n\nபொருள்: சாக்கடை / கழிவுநீர் தொடர்பான புகார்\n\nமதிப்புமிகு ஐயா / அம்மா,\n\nநான் 12 Gandhi Street, Tambaram பகுதியில் வசிக்கிறேன். 12 Gandhi Street அருகில் சாக்கடை அடைத்து கழிவுநீர் தெருவில் வழிந்தோடுகிறது. இதனால் பொதுமக்களுக்குப் பெரும் சிரமம் ஏற்படுகிறது. It has been like this for a month.\n\nஎனவே, இந்தப் பிரச்சினையை விரைவில் நேரில் ஆய்வு செய்து சரிசெய்ய உரிய நடவடிக்கை எடுக்குமாறு பணிவுடன் கேட்டுக்கொள்கிறேன்.\n\nநன்றி.\n\nஇப்படிக்கு,\nA. Kumar"
+  },
+  {
+   "c": {
+    "issue_id": "drainage",
+    "area": "village",
+    "town": " Tambaram ",
+    "address": "Gandhi Street, Chrompet",
+    "landmark": "near the temple",
+    "name": "A. Kumar",
+    "phone": "98765 43210",
+    "extra": "",
+    "has_photo": true
+   },
+   "lang": "ta",
+   "letter": "பெறுநர்:\nவட்டார வளர்ச்சி அலுவலர்\nஊராட்சி ஒன்றிய அலுவலகம், Tambaram\n\nஅனுப்புநர்:\nA. Kumar\nGandhi Street, Chrompet, Tambaram\nதொலைபேசி: 98765 43210\n\nநாள்: 24/11/2026\n\nபொருள்: சாக்கடை / கழிவுநீர் தொடர்பான புகார்\n\nமதிப்புமிகு ஐயா / அம்மா,\n\nநான் Gandhi Street, Chrompet, Tambaram பகுதியில் வசிக்கிறேன். near the temple அருகில் சாக்கடை அடைத்து கழிவுநீர் தெருவில் வழிந்தோடுகிறது. இதனால் பொதுமக்களுக்குப் பெரும் சிரமம் ஏற்படுகிறது.\n\nஎனவே, இந்தப் பிரச்சினையை விரைவில் நேரில் ஆய்வு செய்து சரிசெய்ய உரிய நடவடிக்கை எடுக்குமாறு பணிவுடன் கேட்டுக்கொள்கிறேன். பிரச்சினையின் புகைப்படம் இணைக்கப்பட்டுள்ளது.\n\nநன்றி.\n\nஇப்படிக்கு,\nA. Kumar"
+  },
+  {
+   "c": {
+    "issue_id": "drainage",
+    "area": "village",
+    "town": "Madurai",
+    "address": "Gandhi Street, Chrompet",
+    "landmark": "",
+    "name": "A. Kumar",
+    "phone": "",
+    "extra": "",
+    "has_photo": false
+   },
+   "lang": "en",
+   "letter": "To,\nThe Block Development Officer\nPanchayat Union Office, Madurai\n\nFrom,\nA. Kumar\nGandhi Street, Chrompet, Madurai\n\nDate: 24/11/2026\n\nSubject: Complaint regarding drain / sewage\n\nRespected Sir / Madam,\n\nI am a resident of Gandhi Street, Chrompet, Madurai. I would like to bring to your kind notice that the drain near Gandhi Street, Chrompet is blocked and sewage is overflowing onto the street. This is causing great difficulty to the public.\n\nI kindly request you to inspect the matter and take the necessary action at the earliest.\n\nThank you.\n\nYours faithfully,\nA. Kumar"
+  },
+  {
+   "c": {
+    "issue_id": "drainage",
+    "area": "village",
+    "town": " Tambaram ",
+    "address": " 12 Gandhi Street ",
+    "landmark": "",
+    "name": "A. Kumar",
+    "phone": "98765 43210",
+    "extra": "It has been like this for a month.",
+    "has_photo": false
+   },
+   "lang": "en",
+   "letter": "To,\nThe Block Development Officer\nPanchayat Union Office, Tambaram\n\nFrom,\nA. Kumar\n12 Gandhi Street, Tambaram\nPhone: 98765 43210\n\nDate: 24/11/2026\n\nSubject: Complaint regarding drain / sewage\n\nRespected Sir / Madam,\n\nI am a resident of 12 Gandhi Street, Tambaram. I would like to bring to your kind notice that the drain near 12 Gandhi Street is blocked and sewage is overflowing onto the street. This is causing great difficulty to the public. It has been like this for a month.\n\nI kindly request you to inspect the matter and take the necessary action at the earliest.\n\nThank you.\n\nYours faithfully,\nA. Kumar"
+  },
+  {
+   "c": {
+    "issue_id": "drainage",
+    "area": "village",
+    "town": " Tambaram ",
+    "address": "Gandhi Street, Chrompet",
+    "landmark": "near the temple",
+    "name": "A. Kumar",
+    "phone": "98765 43210",
+    "extra": "",
+    "has_photo": true
+   },
+   "lang": "en",
+   "letter": "To,\nThe Block Development Officer\nPanchayat Union Office, Tambaram\n\nFrom,\nA. Kumar\nGandhi Street, Chrompet, Tambaram\nPhone: 98765 43210\n\nDate: 24/11/2026\n\nSubject: Complaint regarding drain / sewage\n\nRespected Sir / Madam,\n\nI am a resident of Gandhi Street, Chrompet, Tambaram. I would like to bring to your kind notice that the drain near near the temple is blocked and sewage is overflowing onto the street. This is causing great difficulty to the public.\n\nI kindly request you to inspect the matter and take the necessary action at the earliest. A photograph of the problem is attached.\n\nThank you.\n\nYours faithfully,\nA. Kumar"
+  },
+  {
+   "c": {
+    "issue_id": "streetlight",
+    "area": "chennai",
+    "town": "",
+    "address": "Gandhi Street, Chrompet",
+    "landmark": "",
+    "name": "A. Kumar",
+    "phone": "",
+    "extra": "",
+    "has_photo": false
+   },
+   "lang": "ta",
+   "letter": "பெறுநர்:\nஆணையர்\nபெருநகர சென்னை மாநகராட்சி\nரிப்பன் மாளிகை, சென்னை - 600 003\n\nஅனுப்புநர்:\nA. Kumar\nGandhi Street, Chrompet\n\nநாள்: 24/11/2026\n\nபொருள்: தெருவிளக்கு தொடர்பான புகார்\n\nமதிப்புமிகு ஐயா / அம்மா,\n\nநான் Gandhi Street, Chrompet பகுதியில் வசிக்கிறேன். Gandhi Street, Chrompet அருகில் தெருவிளக்கு எரியவில்லை. இதனால் பொதுமக்களுக்குப் பெரும் சிரமம் ஏற்படுகிறது.\n\nஎனவே, இந்தப் பிரச்சினையை விரைவில் நேரில் ஆய்வு செய்து சரிசெய்ய உரிய நடவடிக்கை எடுக்குமாறு பணிவுடன் கேட்டுக்கொள்கிறேன்.\n\nநன்றி.\n\nஇப்படிக்கு,\nA. Kumar"
+  },
+  {
+   "c": {
+    "issue_id": "streetlight",
+    "area": "chennai",
+    "town": "",
+    "address": " 12 Gandhi Street ",
+    "landmark": "",
+    "name": "A. Kumar",
+    "phone": "98765 43210",
+    "extra": "It has been like this for a month.",
+    "has_photo": false
+   },
+   "lang": "ta",
+   "letter": "பெறுநர்:\nஆணையர்\nபெருநகர சென்னை மாநகராட்சி\nரிப்பன் மாளிகை, சென்னை - 600 003\n\nஅனுப்புநர்:\nA. Kumar\n12 Gandhi Street\nதொலைபேசி: 98765 43210\n\nநாள்: 24/11/2026\n\nபொருள்: தெருவிளக்கு தொடர்பான புகார்\n\nமதிப்புமிகு ஐயா / அம்மா,\n\nநான் 12 Gandhi Street பகுதியில் வசிக்கிறேன். 12 Gandhi Street அருகில் தெருவிளக்கு எரியவில்லை. இதனால் பொதுமக்களுக்குப் பெரும் சிரமம் ஏற்படுகிறது. It has been like this for a month.\n\nஎனவே, இந்தப் பிரச்சினையை விரைவில் நேரில் ஆய்வு செய்து சரிசெய்ய உரிய நடவடிக்கை எடுக்குமாறு பணிவுடன் கேட்டுக்கொள்கிறேன்.\n\nநன்றி.\n\nஇப்படிக்கு,\nA. Kumar"
+  },
+  {
+   "c": {
+    "issue_id": "streetlight",
+    "area": "chennai",
+    "town": " Tambaram ",
+    "address": "Gandhi Street, Chrompet",
+    "landmark": "near the temple",
+    "name": "A. Kumar",
+    "phone": "98765 43210",
+    "extra": "",
+    "has_photo": true
+   },
+   "lang": "ta",
+   "letter": "பெறுநர்:\nஆணையர்\nபெருநகர சென்னை மாநகராட்சி\nரிப்பன் மாளிகை, சென்னை - 600 003\n\nஅனுப்புநர்:\nA. Kumar\nGandhi Street, Chrompet, Tambaram\nதொலைபேசி: 98765 43210\n\nநாள்: 24/11/2026\n\nபொருள்: தெருவிளக்கு தொடர்பான புகார்\n\nமதிப்புமிகு ஐயா / அம்மா,\n\nநான் Gandhi Street, Chrompet, Tambaram பகுதியில் வசிக்கிறேன். near the temple அருகில் தெருவிளக்கு எரியவில்லை. இதனால் பொதுமக்களுக்குப் பெரும் சிரமம் ஏற்படுகிறது.\n\nஎனவே, இந்தப் பிரச்சினையை விரைவில் நேரில் ஆய்வு செய்து சரிசெய்ய உரிய நடவடிக்கை எடுக்குமாறு பணிவுடன் கேட்டுக்கொள்கிறேன். பிரச்சினையின் புகைப்படம் இணைக்கப்பட்டுள்ளது.\n\nநன்றி.\n\nஇப்படிக்கு,\nA. Kumar"
+  },
+  {
+   "c": {
+    "issue_id": "streetlight",
+    "area": "chennai",
+    "town": "",
+    "address": "Gandhi Street, Chrompet",
+    "landmark": "",
+    "name": "A. Kumar",
+    "phone": "",
+    "extra": "",
+    "has_photo": false
+   },
+   "lang": "en",
+   "letter": "To,\nThe Commissioner\nGreater Chennai Corporation\nRipon Buildings, Chennai - 600 003\n\nFrom,\nA. Kumar\nGandhi Street, Chrompet\n\nDate: 24/11/2026\n\nSubject: Complaint regarding street light\n\nRespected Sir / Madam,\n\nI am a resident of Gandhi Street, Chrompet. I would like to bring to your kind notice that the street light near Gandhi Street, Chrompet is not working. This is causing great difficulty to the public.\n\nI kindly request you to inspect the matter and take the necessary action at the earliest.\n\nThank you.\n\nYours faithfully,\nA. Kumar"
+  },
+  {
+   "c": {
+    "issue_id": "streetlight",
+    "area": "chennai",
+    "town": "",
+    "address": " 12 Gandhi Street ",
+    "landmark": "",
+    "name": "A. Kumar",
+    "phone": "98765 43210",
+    "extra": "It has been like this for a month.",
+    "has_photo": false
+   },
+   "lang": "en",
+   "letter": "To,\nThe Commissioner\nGreater Chennai Corporation\nRipon Buildings, Chennai - 600 003\n\nFrom,\nA. Kumar\n12 Gandhi Street\nPhone: 98765 43210\n\nDate: 24/11/2026\n\nSubject: Complaint regarding street light\n\nRespected Sir / Madam,\n\nI am a resident of 12 Gandhi Street. I would like to bring to your kind notice that the street light near 12 Gandhi Street is not working. This is causing great difficulty to the public. It has been like this for a month.\n\nI kindly request you to inspect the matter and take the necessary action at the earliest.\n\nThank you.\n\nYours faithfully,\nA. Kumar"
+  },
+  {
+   "c": {
+    "issue_id": "streetlight",
+    "area": "chennai",
+    "town": " Tambaram ",
+    "address": "Gandhi Street, Chrompet",
+    "landmark": "near the temple",
+    "name": "A. Kumar",
+    "phone": "98765 43210",
+    "extra": "",
+    "has_photo": true
+   },
+   "lang": "en",
+   "letter": "To,\nThe Commissioner\nGreater Chennai Corporation\nRipon Buildings, Chennai - 600 003\n\nFrom,\nA. Kumar\nGandhi Street, Chrompet, Tambaram\nPhone: 98765 43210\n\nDate: 24/11/2026\n\nSubject: Complaint regarding street light\n\nRespected Sir / Madam,\n\nI am a resident of Gandhi Street, Chrompet, Tambaram. I would like to bring to your kind notice that the street light near near the temple is not working. This is causing great difficulty to the public.\n\nI kindly request you to inspect the matter and take the necessary action at the earliest. A photograph of the problem is attached.\n\nThank you.\n\nYours faithfully,\nA. Kumar"
+  },
+  {
+   "c": {
+    "issue_id": "streetlight",
+    "area": "city",
+    "town": "Madurai",
+    "address": "Gandhi Street, Chrompet",
+    "landmark": "",
+    "name": "A. Kumar",
+    "phone": "",
+    "extra": "",
+    "has_photo": false
+   },
+   "lang": "ta",
+   "letter": "பெறுநர்:\nஆணையர் / செயல் அலுவலர்\nMadurai மாநகராட்சி / நகராட்சி\nMadurai\n\nஅனுப்புநர்:\nA. Kumar\nGandhi Street, Chrompet, Madurai\n\nநாள்: 24/11/2026\n\nபொருள்: தெருவிளக்கு தொடர்பான புகார்\n\nமதிப்புமிகு ஐயா / அம்மா,\n\nநான் Gandhi Street, Chrompet, Madurai பகுதியில் வசிக்கிறேன். Gandhi Street, Chrompet அருகில் தெருவிளக்கு எரியவில்லை. இதனால் பொதுமக்களுக்குப் பெரும் சிரமம் ஏற்படுகிறது.\n\nஎனவே, இந்தப் பிரச்சினையை விரைவில் நேரில் ஆய்வு செய்து சரிசெய்ய உரிய நடவடிக்கை எடுக்குமாறு பணிவுடன் கேட்டுக்கொள்கிறேன்.\n\nநன்றி.\n\nஇப்படிக்கு,\nA. Kumar"
+  },
+  {
+   "c": {
+    "issue_id": "streetlight",
+    "area": "city",
+    "town": " Tambaram ",
+    "address": " 12 Gandhi Street ",
+    "landmark": "",
+    "name": "A. Kumar",
+    "phone": "98765 43210",
+    "extra": "It has been like this for a month.",
+    "has_photo": false
+   },
+   "lang": "ta",
+   "letter": "பெறுநர்:\nஆணையர் / செயல் அலுவலர்\nTambaram மாநகராட்சி / நகராட்சி\nTambaram\n\nஅனுப்புநர்:\nA. Kumar\n12 Gandhi Street, Tambaram\nதொலைபேசி: 98765 43210\n\nநாள்: 24/11/2026\n\nபொருள்: தெருவிளக்கு தொடர்பான புகார்\n\nமதிப்புமிகு ஐயா / அம்மா,\n\nநான் 12 Gandhi Street, Tambaram பகுதியில் வசிக்கிறேன். 12 Gandhi Street அருகில் தெருவிளக்கு எரியவில்லை. இதனால் பொதுமக்களுக்குப் பெரும் சிரமம் ஏற்படுகிறது. It has been like this for a month.\n\nஎனவே, இந்தப் பிரச்சினையை விரைவில் நேரில் ஆய்வு செய்து சரிசெய்ய உரிய நடவடிக்கை எடுக்குமாறு பணிவுடன் கேட்டுக்கொள்கிறேன்.\n\nநன்றி.\n\nஇப்படிக்கு,\nA. Kumar"
+  },
+  {
+   "c": {
+    "issue_id": "streetlight",
+    "area": "city",
+    "town": " Tambaram ",
+    "address": "Gandhi Street, Chrompet",
+    "landmark": "near the temple",
+    "name": "A. Kumar",
+    "phone": "98765 43210",
+    "extra": "",
+    "has_photo": true
+   },
+   "lang": "ta",
+   "letter": "பெறுநர்:\nஆணையர் / செயல் அலுவலர்\nTambaram மாநகராட்சி / நகராட்சி\nTambaram\n\nஅனுப்புநர்:\nA. Kumar\nGandhi Street, Chrompet, Tambaram\nதொலைபேசி: 98765 43210\n\nநாள்: 24/11/2026\n\nபொருள்: தெருவிளக்கு தொடர்பான புகார்\n\nமதிப்புமிகு ஐயா / அம்மா,\n\nநான் Gandhi Street, Chrompet, Tambaram பகுதியில் வசிக்கிறேன். near the temple அருகில் தெருவிளக்கு எரியவில்லை. இதனால் பொதுமக்களுக்குப் பெரும் சிரமம் ஏற்படுகிறது.\n\nஎனவே, இந்தப் பிரச்சினையை விரைவில் நேரில் ஆய்வு செய்து சரிசெய்ய உரிய நடவடிக்கை எடுக்குமாறு பணிவுடன் கேட்டுக்கொள்கிறேன். பிரச்சினையின் புகைப்படம் இணைக்கப்பட்டுள்ளது.\n\nநன்றி.\n\nஇப்படிக்கு,\nA. Kumar"
+  },
+  {
+   "c": {
+    "issue_id": "streetlight",
+    "area": "city",
+    "town": "Madurai",
+    "address": "Gandhi Street, Chrompet",
+    "landmark": "",
+    "name": "A. Kumar",
+    "phone": "",
+    "extra": "",
+    "has_photo": false
+   },
+   "lang": "en",
+   "letter": "To,\nThe Commissioner / Executive Officer\nMadurai Corporation / Municipality\nMadurai\n\nFrom,\nA. Kumar\nGandhi Street, Chrompet, Madurai\n\nDate: 24/11/2026\n\nSubject: Complaint regarding street light\n\nRespected Sir / Madam,\n\nI am a resident of Gandhi Street, Chrompet, Madurai. I would like to bring to your kind notice that the street light near Gandhi Street, Chrompet is not working. This is causing great difficulty to the public.\n\nI kindly request you to inspect the matter and take the necessary action at the earliest.\n\nThank you.\n\nYours faithfully,\nA. Kumar"
+  },
+  {
+   "c": {
+    "issue_id": "streetlight",
+    "area": "city",
+    "town": " Tambaram ",
+    "address": " 12 Gandhi Street ",
+    "landmark": "",
+    "name": "A. Kumar",
+    "phone": "98765 43210",
+    "extra": "It has been like this for a month.",
+    "has_photo": false
+   },
+   "lang": "en",
+   "letter": "To,\nThe Commissioner / Executive Officer\nTambaram Corporation / Municipality\nTambaram\n\nFrom,\nA. Kumar\n12 Gandhi Street, Tambaram\nPhone: 98765 43210\n\nDate: 24/11/2026\n\nSubject: Complaint regarding street light\n\nRespected Sir / Madam,\n\nI am a resident of 12 Gandhi Street, Tambaram. I would like to bring to your kind notice that the street light near 12 Gandhi Street is not working. This is causing great difficulty to the public. It has been like this for a month.\n\nI kindly request you to inspect the matter and take the necessary action at the earliest.\n\nThank you.\n\nYours faithfully,\nA. Kumar"
+  },
+  {
+   "c": {
+    "issue_id": "streetlight",
+    "area": "city",
+    "town": " Tambaram ",
+    "address": "Gandhi Street, Chrompet",
+    "landmark": "near the temple",
+    "name": "A. Kumar",
+    "phone": "98765 43210",
+    "extra": "",
+    "has_photo": true
+   },
+   "lang": "en",
+   "letter": "To,\nThe Commissioner / Executive Officer\nTambaram Corporation / Municipality\nTambaram\n\nFrom,\nA. Kumar\nGandhi Street, Chrompet, Tambaram\nPhone: 98765 43210\n\nDate: 24/11/2026\n\nSubject: Complaint regarding street light\n\nRespected Sir / Madam,\n\nI am a resident of Gandhi Street, Chrompet, Tambaram. I would like to bring to your kind notice that the street light near near the temple is not working. This is causing great difficulty to the public.\n\nI kindly request you to inspect the matter and take the necessary action at the earliest. A photograph of the problem is attached.\n\nThank you.\n\nYours faithfully,\nA. Kumar"
+  },
+  {
+   "c": {
+    "issue_id": "streetlight",
+    "area": "village",
+    "town": "Madurai",
+    "address": "Gandhi Street, Chrompet",
+    "landmark": "",
+    "name": "A. Kumar",
+    "phone": "",
+    "extra": "",
+    "has_photo": false
+   },
+   "lang": "ta",
+   "letter": "பெறுநர்:\nவட்டார வளர்ச்சி அலுவலர்\nஊராட்சி ஒன்றிய அலுவலகம், Madurai\n\nஅனுப்புநர்:\nA. Kumar\nGandhi Street, Chrompet, Madurai\n\nநாள்: 24/11/2026\n\nபொருள்: தெருவிளக்கு தொடர்பான புகார்\n\nமதிப்புமிகு ஐயா / அம்மா,\n\nநான் Gandhi Street, Chrompet, Madurai பகுதியில் வசிக்கிறேன். Gandhi Street, Chrompet அருகில் தெருவிளக்கு எரியவில்லை. இதனால் பொதுமக்களுக்குப் பெரும் சிரமம் ஏற்படுகிறது.\n\nஎனவே, இந்தப் பிரச்சினையை விரைவில் நேரில் ஆய்வு செய்து சரிசெய்ய உரிய நடவடிக்கை எடுக்குமாறு பணிவுடன் கேட்டுக்கொள்கிறேன்.\n\nநன்றி.\n\nஇப்படிக்கு,\nA. Kumar"
+  },
+  {
+   "c": {
+    "issue_id": "streetlight",
+    "area": "village",
+    "town": " Tambaram ",
+    "address": " 12 Gandhi Street ",
+    "landmark": "",
+    "name": "A. Kumar",
+    "phone": "98765 43210",
+    "extra": "It has been like this for a month.",
+    "has_photo": false
+   },
+   "lang": "ta",
+   "letter": "பெறுநர்:\nவட்டார வளர்ச்சி அலுவலர்\nஊராட்சி ஒன்றிய அலுவலகம், Tambaram\n\nஅனுப்புநர்:\nA. Kumar\n12 Gandhi Street, Tambaram\nதொலைபேசி: 98765 43210\n\nநாள்: 24/11/2026\n\nபொருள்: தெருவிளக்கு தொடர்பான புகார்\n\nமதிப்புமிகு ஐயா / அம்மா,\n\nநான் 12 Gandhi Street, Tambaram பகுதியில் வசிக்கிறேன். 12 Gandhi Street அருகில் தெருவிளக்கு எரியவில்லை. இதனால் பொதுமக்களுக்குப் பெரும் சிரமம் ஏற்படுகிறது. It has been like this for a month.\n\nஎனவே, இந்தப் பிரச்சினையை விரைவில் நேரில் ஆய்வு செய்து சரிசெய்ய உரிய நடவடிக்கை எடுக்குமாறு பணிவுடன் கேட்டுக்கொள்கிறேன்.\n\nநன்றி.\n\nஇப்படிக்கு,\nA. Kumar"
+  },
+  {
+   "c": {
+    "issue_id": "streetlight",
+    "area": "village",
+    "town": " Tambaram ",
+    "address": "Gandhi Street, Chrompet",
+    "landmark": "near the temple",
+    "name": "A. Kumar",
+    "phone": "98765 43210",
+    "extra": "",
+    "has_photo": true
+   },
+   "lang": "ta",
+   "letter": "பெறுநர்:\nவட்டார வளர்ச்சி அலுவலர்\nஊராட்சி ஒன்றிய அலுவலகம், Tambaram\n\nஅனுப்புநர்:\nA. Kumar\nGandhi Street, Chrompet, Tambaram\nதொலைபேசி: 98765 43210\n\nநாள்: 24/11/2026\n\nபொருள்: தெருவிளக்கு தொடர்பான புகார்\n\nமதிப்புமிகு ஐயா / அம்மா,\n\nநான் Gandhi Street, Chrompet, Tambaram பகுதியில் வசிக்கிறேன். near the temple அருகில் தெருவிளக்கு எரியவில்லை. இதனால் பொதுமக்களுக்குப் பெரும் சிரமம் ஏற்படுகிறது.\n\nஎனவே, இந்தப் பிரச்சினையை விரைவில் நேரில் ஆய்வு செய்து சரிசெய்ய உரிய நடவடிக்கை எடுக்குமாறு பணிவுடன் கேட்டுக்கொள்கிறேன். பிரச்சினையின் புகைப்படம் இணைக்கப்பட்டுள்ளது.\n\nநன்றி.\n\nஇப்படிக்கு,\nA. Kumar"
+  },
+  {
+   "c": {
+    "issue_id": "streetlight",
+    "area": "village",
+    "town": "Madurai",
+    "address": "Gandhi Street, Chrompet",
+    "landmark": "",
+    "name": "A. Kumar",
+    "phone": "",
+    "extra": "",
+    "has_photo": false
+   },
+   "lang": "en",
+   "letter": "To,\nThe Block Development Officer\nPanchayat Union Office, Madurai\n\nFrom,\nA. Kumar\nGandhi Street, Chrompet, Madurai\n\nDate: 24/11/2026\n\nSubject: Complaint regarding street light\n\nRespected Sir / Madam,\n\nI am a resident of Gandhi Street, Chrompet, Madurai. I would like to bring to your kind notice that the street light near Gandhi Street, Chrompet is not working. This is causing great difficulty to the public.\n\nI kindly request you to inspect the matter and take the necessary action at the earliest.\n\nThank you.\n\nYours faithfully,\nA. Kumar"
+  },
+  {
+   "c": {
+    "issue_id": "streetlight",
+    "area": "village",
+    "town": " Tambaram ",
+    "address": " 12 Gandhi Street ",
+    "landmark": "",
+    "name": "A. Kumar",
+    "phone": "98765 43210",
+    "extra": "It has been like this for a month.",
+    "has_photo": false
+   },
+   "lang": "en",
+   "letter": "To,\nThe Block Development Officer\nPanchayat Union Office, Tambaram\n\nFrom,\nA. Kumar\n12 Gandhi Street, Tambaram\nPhone: 98765 43210\n\nDate: 24/11/2026\n\nSubject: Complaint regarding street light\n\nRespected Sir / Madam,\n\nI am a resident of 12 Gandhi Street, Tambaram. I would like to bring to your kind notice that the street light near 12 Gandhi Street is not working. This is causing great difficulty to the public. It has been like this for a month.\n\nI kindly request you to inspect the matter and take the necessary action at the earliest.\n\nThank you.\n\nYours faithfully,\nA. Kumar"
+  },
+  {
+   "c": {
+    "issue_id": "streetlight",
+    "area": "village",
+    "town": " Tambaram ",
+    "address": "Gandhi Street, Chrompet",
+    "landmark": "near the temple",
+    "name": "A. Kumar",
+    "phone": "98765 43210",
+    "extra": "",
+    "has_photo": true
+   },
+   "lang": "en",
+   "letter": "To,\nThe Block Development Officer\nPanchayat Union Office, Tambaram\n\nFrom,\nA. Kumar\nGandhi Street, Chrompet, Tambaram\nPhone: 98765 43210\n\nDate: 24/11/2026\n\nSubject: Complaint regarding street light\n\nRespected Sir / Madam,\n\nI am a resident of Gandhi Street, Chrompet, Tambaram. I would like to bring to your kind notice that the street light near near the temple is not working. This is causing great difficulty to the public.\n\nI kindly request you to inspect the matter and take the necessary action at the earliest. A photograph of the problem is attached.\n\nThank you.\n\nYours faithfully,\nA. Kumar"
+  },
+  {
+   "c": {
+    "issue_id": "water",
+    "area": "chennai",
+    "town": "",
+    "address": "Gandhi Street, Chrompet",
+    "landmark": "",
+    "name": "A. Kumar",
+    "phone": "",
+    "extra": "",
+    "has_photo": false
+   },
+   "lang": "ta",
+   "letter": "பெறுநர்:\nமேலாண்மை இயக்குநர்\nசென்னை பெருநகர குடிநீர் வழங்கல் மற்றும் கழிவுநீரகற்று வாரியம் (சென்னை மெட்ரோ வாட்டர்)\nசென்னை\n\nஅனுப்புநர்:\nA. Kumar\nGandhi Street, Chrompet\n\nநாள்: 24/11/2026\n\nபொருள்: குடிநீர் தொடர்பான புகார்\n\nமதிப்புமிகு ஐயா / அம்மா,\n\nநான் Gandhi Street, Chrompet பகுதியில் வசிக்கிறேன். Gandhi Street, Chrompet அருகில் குடிநீர் விநியோகத்தில் பிரச்சினை அல்லது குழாய் கசிவு உள்ளது. இதனால் பொதுமக்களுக்குப் பெரும் சிரமம் ஏற்படுகிறது.\n\nஎனவே, இந்தப் பிரச்சினையை விரைவில் நேரில் ஆய்வு செய்து சரிசெய்ய உரிய நடவடிக்கை எடுக்குமாறு பணிவுடன் கேட்டுக்கொள்கிறேன்.\n\nநன்றி.\n\nஇப்படிக்கு,\nA. Kumar"
+  },
+  {
+   "c": {
+    "issue_id": "water",
+    "area": "chennai",
+    "town": "",
+    "address": " 12 Gandhi Street ",
+    "landmark": "",
+    "name": "A. Kumar",
+    "phone": "98765 43210",
+    "extra": "It has been like this for a month.",
+    "has_photo": false
+   },
+   "lang": "ta",
+   "letter": "பெறுநர்:\nமேலாண்மை இயக்குநர்\nசென்னை பெருநகர குடிநீர் வழங்கல் மற்றும் கழிவுநீரகற்று வாரியம் (சென்னை மெட்ரோ வாட்டர்)\nசென்னை\n\nஅனுப்புநர்:\nA. Kumar\n12 Gandhi Street\nதொலைபேசி: 98765 43210\n\nநாள்: 24/11/2026\n\nபொருள்: குடிநீர் தொடர்பான புகார்\n\nமதிப்புமிகு ஐயா / அம்மா,\n\nநான் 12 Gandhi Street பகுதியில் வசிக்கிறேன். 12 Gandhi Street அருகில் குடிநீர் விநியோகத்தில் பிரச்சினை அல்லது குழாய் கசிவு உள்ளது. இதனால் பொதுமக்களுக்குப் பெரும் சிரமம் ஏற்படுகிறது. It has been like this for a month.\n\nஎனவே, இந்தப் பிரச்சினையை விரைவில் நேரில் ஆய்வு செய்து சரிசெய்ய உரிய நடவடிக்கை எடுக்குமாறு பணிவுடன் கேட்டுக்கொள்கிறேன்.\n\nநன்றி.\n\nஇப்படிக்கு,\nA. Kumar"
+  },
+  {
+   "c": {
+    "issue_id": "water",
+    "area": "chennai",
+    "town": " Tambaram ",
+    "address": "Gandhi Street, Chrompet",
+    "landmark": "near the temple",
+    "name": "A. Kumar",
+    "phone": "98765 43210",
+    "extra": "",
+    "has_photo": true
+   },
+   "lang": "ta",
+   "letter": "பெறுநர்:\nமேலாண்மை இயக்குநர்\nசென்னை பெருநகர குடிநீர் வழங்கல் மற்றும் கழிவுநீரகற்று வாரியம் (சென்னை மெட்ரோ வாட்டர்)\nசென்னை\n\nஅனுப்புநர்:\nA. Kumar\nGandhi Street, Chrompet, Tambaram\nதொலைபேசி: 98765 43210\n\nநாள்: 24/11/2026\n\nபொருள்: குடிநீர் தொடர்பான புகார்\n\nமதிப்புமிகு ஐயா / அம்மா,\n\nநான் Gandhi Street, Chrompet, Tambaram பகுதியில் வசிக்கிறேன். near the temple அருகில் குடிநீர் விநியோகத்தில் பிரச்சினை அல்லது குழாய் கசிவு உள்ளது. இதனால் பொதுமக்களுக்குப் பெரும் சிரமம் ஏற்படுகிறது.\n\nஎனவே, இந்தப் பிரச்சினையை விரைவில் நேரில் ஆய்வு செய்து சரிசெய்ய உரிய நடவடிக்கை எடுக்குமாறு பணிவுடன் கேட்டுக்கொள்கிறேன். பிரச்சினையின் புகைப்படம் இணைக்கப்பட்டுள்ளது.\n\nநன்றி.\n\nஇப்படிக்கு,\nA. Kumar"
+  },
+  {
+   "c": {
+    "issue_id": "water",
+    "area": "chennai",
+    "town": "",
+    "address": "Gandhi Street, Chrompet",
+    "landmark": "",
+    "name": "A. Kumar",
+    "phone": "",
+    "extra": "",
+    "has_photo": false
+   },
+   "lang": "en",
+   "letter": "To,\nThe Managing Director\nChennai Metropolitan Water Supply and Sewerage Board (Chennai Metrowater)\nChennai\n\nFrom,\nA. Kumar\nGandhi Street, Chrompet\n\nDate: 24/11/2026\n\nSubject: Complaint regarding drinking water\n\nRespected Sir / Madam,\n\nI am a resident of Gandhi Street, Chrompet. I would like to bring to your kind notice that there is a drinking water supply problem or a pipe leakage near Gandhi Street, Chrompet. This is causing great difficulty to the public.\n\nI kindly request you to inspect the matter and take the necessary action at the earliest.\n\nThank you.\n\nYours faithfully,\nA. Kumar"
+  },
+  {
+   "c": {
+    "issue_id": "water",
+    "area": "chennai",
+    "town": "",
+    "address": " 12 Gandhi Street ",
+    "landmark": "",
+    "name": "A. Kumar",
+    "phone": "98765 43210",
+    "extra": "It has been like this for a month.",
+    "has_photo": false
+   },
+   "lang": "en",
+   "letter": "To,\nThe Managing Director\nChennai Metropolitan Water Supply and Sewerage Board (Chennai Metrowater)\nChennai\n\nFrom,\nA. Kumar\n12 Gandhi Street\nPhone: 98765 43210\n\nDate: 24/11/2026\n\nSubject: Complaint regarding drinking water\n\nRespected Sir / Madam,\n\nI am a resident of 12 Gandhi Street. I would like to bring to your kind notice that there is a drinking water supply problem or a pipe leakage near 12 Gandhi Street. This is causing great difficulty to the public. It has been like this for a month.\n\nI kindly request you to inspect the matter and take the necessary action at the earliest.\n\nThank you.\n\nYours faithfully,\nA. Kumar"
+  },
+  {
+   "c": {
+    "issue_id": "water",
+    "area": "chennai",
+    "town": " Tambaram ",
+    "address": "Gandhi Street, Chrompet",
+    "landmark": "near the temple",
+    "name": "A. Kumar",
+    "phone": "98765 43210",
+    "extra": "",
+    "has_photo": true
+   },
+   "lang": "en",
+   "letter": "To,\nThe Managing Director\nChennai Metropolitan Water Supply and Sewerage Board (Chennai Metrowater)\nChennai\n\nFrom,\nA. Kumar\nGandhi Street, Chrompet, Tambaram\nPhone: 98765 43210\n\nDate: 24/11/2026\n\nSubject: Complaint regarding drinking water\n\nRespected Sir / Madam,\n\nI am a resident of Gandhi Street, Chrompet, Tambaram. I would like to bring to your kind notice that there is a drinking water supply problem or a pipe leakage near near the temple. This is causing great difficulty to the public.\n\nI kindly request you to inspect the matter and take the necessary action at the earliest. A photograph of the problem is attached.\n\nThank you.\n\nYours faithfully,\nA. Kumar"
+  },
+  {
+   "c": {
+    "issue_id": "water",
+    "area": "city",
+    "town": "Madurai",
+    "address": "Gandhi Street, Chrompet",
+    "landmark": "",
+    "name": "A. Kumar",
+    "phone": "",
+    "extra": "",
+    "has_photo": false
+   },
+   "lang": "ta",
+   "letter": "பெறுநர்:\nஆணையர் / செயல் அலுவலர்\nMadurai மாநகராட்சி / நகராட்சி (குடிநீர் பிரிவு)\nMadurai\n\nஅனுப்புநர்:\nA. Kumar\nGandhi Street, Chrompet, Madurai\n\nநாள்: 24/11/2026\n\nபொருள்: குடிநீர் தொடர்பான புகார்\n\nமதிப்புமிகு ஐயா / அம்மா,\n\nநான் Gandhi Street, Chrompet, Madurai பகுதியில் வசிக்கிறேன். Gandhi Street, Chrompet அருகில் குடிநீர் விநியோகத்தில் பிரச்சினை அல்லது குழாய் கசிவு உள்ளது. இதனால் பொதுமக்களுக்குப் பெரும் சிரமம் ஏற்படுகிறது.\n\nஎனவே, இந்தப் பிரச்சினையை விரைவில் நேரில் ஆய்வு செய்து சரிசெய்ய உரிய நடவடிக்கை எடுக்குமாறு பணிவுடன் கேட்டுக்கொள்கிறேன்.\n\nநன்றி.\n\nஇப்படிக்கு,\nA. Kumar"
+  },
+  {
+   "c": {
+    "issue_id": "water",
+    "area": "city",
+    "town": " Tambaram ",
+    "address": " 12 Gandhi Street ",
+    "landmark": "",
+    "name": "A. Kumar",
+    "phone": "98765 43210",
+    "extra": "It has been like this for a month.",
+    "has_photo": false
+   },
+   "lang": "ta",
+   "letter": "பெறுநர்:\nஆணையர் / செயல் அலுவலர்\nTambaram மாநகராட்சி / நகராட்சி (குடிநீர் பிரிவு)\nTambaram\n\nஅனுப்புநர்:\nA. Kumar\n12 Gandhi Street, Tambaram\nதொலைபேசி: 98765 43210\n\nநாள்: 24/11/2026\n\nபொருள்: குடிநீர் தொடர்பான புகார்\n\nமதிப்புமிகு ஐயா / அம்மா,\n\nநான் 12 Gandhi Street, Tambaram பகுதியில் வசிக்கிறேன். 12 Gandhi Street அருகில் குடிநீர் விநியோகத்தில் பிரச்சினை அல்லது குழாய் கசிவு உள்ளது. இதனால் பொதுமக்களுக்குப் பெரும் சிரமம் ஏற்படுகிறது. It has been like this for a month.\n\nஎனவே, இந்தப் பிரச்சினையை விரைவில் நேரில் ஆய்வு செய்து சரிசெய்ய உரிய நடவடிக்கை எடுக்குமாறு பணிவுடன் கேட்டுக்கொள்கிறேன்.\n\nநன்றி.\n\nஇப்படிக்கு,\nA. Kumar"
+  },
+  {
+   "c": {
+    "issue_id": "water",
+    "area": "city",
+    "town": " Tambaram ",
+    "address": "Gandhi Street, Chrompet",
+    "landmark": "near the temple",
+    "name": "A. Kumar",
+    "phone": "98765 43210",
+    "extra": "",
+    "has_photo": true
+   },
+   "lang": "ta",
+   "letter": "பெறுநர்:\nஆணையர் / செயல் அலுவலர்\nTambaram மாநகராட்சி / நகராட்சி (குடிநீர் பிரிவு)\nTambaram\n\nஅனுப்புநர்:\nA. Kumar\nGandhi Street, Chrompet, Tambaram\nதொலைபேசி: 98765 43210\n\nநாள்: 24/11/2026\n\nபொருள்: குடிநீர் தொடர்பான புகார்\n\nமதிப்புமிகு ஐயா / அம்மா,\n\nநான் Gandhi Street, Chrompet, Tambaram பகுதியில் வசிக்கிறேன். near the temple அருகில் குடிநீர் விநியோகத்தில் பிரச்சினை அல்லது குழாய் கசிவு உள்ளது. இதனால் பொதுமக்களுக்குப் பெரும் சிரமம் ஏற்படுகிறது.\n\nஎனவே, இந்தப் பிரச்சினையை விரைவில் நேரில் ஆய்வு செய்து சரிசெய்ய உரிய நடவடிக்கை எடுக்குமாறு பணிவுடன் கேட்டுக்கொள்கிறேன். பிரச்சினையின் புகைப்படம் இணைக்கப்பட்டுள்ளது.\n\nநன்றி.\n\nஇப்படிக்கு,\nA. Kumar"
+  },
+  {
+   "c": {
+    "issue_id": "water",
+    "area": "city",
+    "town": "Madurai",
+    "address": "Gandhi Street, Chrompet",
+    "landmark": "",
+    "name": "A. Kumar",
+    "phone": "",
+    "extra": "",
+    "has_photo": false
+   },
+   "lang": "en",
+   "letter": "To,\nThe Commissioner / Executive Officer\nMadurai Corporation / Municipality (Water Supply)\nMadurai\n\nFrom,\nA. Kumar\nGandhi Street, Chrompet, Madurai\n\nDate: 24/11/2026\n\nSubject: Complaint regarding drinking water\n\nRespected Sir / Madam,\n\nI am a resident of Gandhi Street, Chrompet, Madurai. I would like to bring to your kind notice that there is a drinking water supply problem or a pipe leakage near Gandhi Street, Chrompet. This is causing great difficulty to the public.\n\nI kindly request you to inspect the matter and take the necessary action at the earliest.\n\nThank you.\n\nYours faithfully,\nA. Kumar"
+  },
+  {
+   "c": {
+    "issue_id": "water",
+    "area": "city",
+    "town": " Tambaram ",
+    "address": " 12 Gandhi Street ",
+    "landmark": "",
+    "name": "A. Kumar",
+    "phone": "98765 43210",
+    "extra": "It has been like this for a month.",
+    "has_photo": false
+   },
+   "lang": "en",
+   "letter": "To,\nThe Commissioner / Executive Officer\nTambaram Corporation / Municipality (Water Supply)\nTambaram\n\nFrom,\nA. Kumar\n12 Gandhi Street, Tambaram\nPhone: 98765 43210\n\nDate: 24/11/2026\n\nSubject: Complaint regarding drinking water\n\nRespected Sir / Madam,\n\nI am a resident of 12 Gandhi Street, Tambaram. I would like to bring to your kind notice that there is a drinking water supply problem or a pipe leakage near 12 Gandhi Street. This is causing great difficulty to the public. It has been like this for a month.\n\nI kindly request you to inspect the matter and take the necessary action at the earliest.\n\nThank you.\n\nYours faithfully,\nA. Kumar"
+  },
+  {
+   "c": {
+    "issue_id": "water",
+    "area": "city",
+    "town": " Tambaram ",
+    "address": "Gandhi Street, Chrompet",
+    "landmark": "near the temple",
+    "name": "A. Kumar",
+    "phone": "98765 43210",
+    "extra": "",
+    "has_photo": true
+   },
+   "lang": "en",
+   "letter": "To,\nThe Commissioner / Executive Officer\nTambaram Corporation / Municipality (Water Supply)\nTambaram\n\nFrom,\nA. Kumar\nGandhi Street, Chrompet, Tambaram\nPhone: 98765 43210\n\nDate: 24/11/2026\n\nSubject: Complaint regarding drinking water\n\nRespected Sir / Madam,\n\nI am a resident of Gandhi Street, Chrompet, Tambaram. I would like to bring to your kind notice that there is a drinking water supply problem or a pipe leakage near near the temple. This is causing great difficulty to the public.\n\nI kindly request you to inspect the matter and take the necessary action at the earliest. A photograph of the problem is attached.\n\nThank you.\n\nYours faithfully,\nA. Kumar"
+  },
+  {
+   "c": {
+    "issue_id": "water",
+    "area": "village",
+    "town": "Madurai",
+    "address": "Gandhi Street, Chrompet",
+    "landmark": "",
+    "name": "A. Kumar",
+    "phone": "",
+    "extra": "",
+    "has_photo": false
+   },
+   "lang": "ta",
+   "letter": "பெறுநர்:\nவட்டார வளர்ச்சி அலுவலர்\nஊராட்சி ஒன்றிய அலுவலகம், Madurai\n\nஅனுப்புநர்:\nA. Kumar\nGandhi Street, Chrompet, Madurai\n\nநாள்: 24/11/2026\n\nபொருள்: குடிநீர் தொடர்பான புகார்\n\nமதிப்புமிகு ஐயா / அம்மா,\n\nநான் Gandhi Street, Chrompet, Madurai பகுதியில் வசிக்கிறேன். Gandhi Street, Chrompet அருகில் குடிநீர் விநியோகத்தில் பிரச்சினை அல்லது குழாய் கசிவு உள்ளது. இதனால் பொதுமக்களுக்குப் பெரும் சிரமம் ஏற்படுகிறது.\n\nஎனவே, இந்தப் பிரச்சினையை விரைவில் நேரில் ஆய்வு செய்து சரிசெய்ய உரிய நடவடிக்கை எடுக்குமாறு பணிவுடன் கேட்டுக்கொள்கிறேன்.\n\nநன்றி.\n\nஇப்படிக்கு,\nA. Kumar"
+  },
+  {
+   "c": {
+    "issue_id": "water",
+    "area": "village",
+    "town": " Tambaram ",
+    "address": " 12 Gandhi Street ",
+    "landmark": "",
+    "name": "A. Kumar",
+    "phone": "98765 43210",
+    "extra": "It has been like this for a month.",
+    "has_photo": false
+   },
+   "lang": "ta",
+   "letter": "பெறுநர்:\nவட்டார வளர்ச்சி அலுவலர்\nஊராட்சி ஒன்றிய அலுவலகம், Tambaram\n\nஅனுப்புநர்:\nA. Kumar\n12 Gandhi Street, Tambaram\nதொலைபேசி: 98765 43210\n\nநாள்: 24/11/2026\n\nபொருள்: குடிநீர் தொடர்பான புகார்\n\nமதிப்புமிகு ஐயா / அம்மா,\n\nநான் 12 Gandhi Street, Tambaram பகுதியில் வசிக்கிறேன். 12 Gandhi Street அருகில் குடிநீர் விநியோகத்தில் பிரச்சினை அல்லது குழாய் கசிவு உள்ளது. இதனால் பொதுமக்களுக்குப் பெரும் சிரமம் ஏற்படுகிறது. It has been like this for a month.\n\nஎனவே, இந்தப் பிரச்சினையை விரைவில் நேரில் ஆய்வு செய்து சரிசெய்ய உரிய நடவடிக்கை எடுக்குமாறு பணிவுடன் கேட்டுக்கொள்கிறேன்.\n\nநன்றி.\n\nஇப்படிக்கு,\nA. Kumar"
+  },
+  {
+   "c": {
+    "issue_id": "water",
+    "area": "village",
+    "town": " Tambaram ",
+    "address": "Gandhi Street, Chrompet",
+    "landmark": "near the temple",
+    "name": "A. Kumar",
+    "phone": "98765 43210",
+    "extra": "",
+    "has_photo": true
+   },
+   "lang": "ta",
+   "letter": "பெறுநர்:\nவட்டார வளர்ச்சி அலுவலர்\nஊராட்சி ஒன்றிய அலுவலகம், Tambaram\n\nஅனுப்புநர்:\nA. Kumar\nGandhi Street, Chrompet, Tambaram\nதொலைபேசி: 98765 43210\n\nநாள்: 24/11/2026\n\nபொருள்: குடிநீர் தொடர்பான புகார்\n\nமதிப்புமிகு ஐயா / அம்மா,\n\nநான் Gandhi Street, Chrompet, Tambaram பகுதியில் வசிக்கிறேன். near the temple அருகில் குடிநீர் விநியோகத்தில் பிரச்சினை அல்லது குழாய் கசிவு உள்ளது. இதனால் பொதுமக்களுக்குப் பெரும் சிரமம் ஏற்படுகிறது.\n\nஎனவே, இந்தப் பிரச்சினையை விரைவில் நேரில் ஆய்வு செய்து சரிசெய்ய உரிய நடவடிக்கை எடுக்குமாறு பணிவுடன் கேட்டுக்கொள்கிறேன். பிரச்சினையின் புகைப்படம் இணைக்கப்பட்டுள்ளது.\n\nநன்றி.\n\nஇப்படிக்கு,\nA. Kumar"
+  },
+  {
+   "c": {
+    "issue_id": "water",
+    "area": "village",
+    "town": "Madurai",
+    "address": "Gandhi Street, Chrompet",
+    "landmark": "",
+    "name": "A. Kumar",
+    "phone": "",
+    "extra": "",
+    "has_photo": false
+   },
+   "lang": "en",
+   "letter": "To,\nThe Block Development Officer\nPanchayat Union Office, Madurai\n\nFrom,\nA. Kumar\nGandhi Street, Chrompet, Madurai\n\nDate: 24/11/2026\n\nSubject: Complaint regarding drinking water\n\nRespected Sir / Madam,\n\nI am a resident of Gandhi Street, Chrompet, Madurai. I would like to bring to your kind notice that there is a drinking water supply problem or a pipe leakage near Gandhi Street, Chrompet. This is causing great difficulty to the public.\n\nI kindly request you to inspect the matter and take the necessary action at the earliest.\n\nThank you.\n\nYours faithfully,\nA. Kumar"
+  },
+  {
+   "c": {
+    "issue_id": "water",
+    "area": "village",
+    "town": " Tambaram ",
+    "address": " 12 Gandhi Street ",
+    "landmark": "",
+    "name": "A. Kumar",
+    "phone": "98765 43210",
+    "extra": "It has been like this for a month.",
+    "has_photo": false
+   },
+   "lang": "en",
+   "letter": "To,\nThe Block Development Officer\nPanchayat Union Office, Tambaram\n\nFrom,\nA. Kumar\n12 Gandhi Street, Tambaram\nPhone: 98765 43210\n\nDate: 24/11/2026\n\nSubject: Complaint regarding drinking water\n\nRespected Sir / Madam,\n\nI am a resident of 12 Gandhi Street, Tambaram. I would like to bring to your kind notice that there is a drinking water supply problem or a pipe leakage near 12 Gandhi Street. This is causing great difficulty to the public. It has been like this for a month.\n\nI kindly request you to inspect the matter and take the necessary action at the earliest.\n\nThank you.\n\nYours faithfully,\nA. Kumar"
+  },
+  {
+   "c": {
+    "issue_id": "water",
+    "area": "village",
+    "town": " Tambaram ",
+    "address": "Gandhi Street, Chrompet",
+    "landmark": "near the temple",
+    "name": "A. Kumar",
+    "phone": "98765 43210",
+    "extra": "",
+    "has_photo": true
+   },
+   "lang": "en",
+   "letter": "To,\nThe Block Development Officer\nPanchayat Union Office, Tambaram\n\nFrom,\nA. Kumar\nGandhi Street, Chrompet, Tambaram\nPhone: 98765 43210\n\nDate: 24/11/2026\n\nSubject: Complaint regarding drinking water\n\nRespected Sir / Madam,\n\nI am a resident of Gandhi Street, Chrompet, Tambaram. I would like to bring to your kind notice that there is a drinking water supply problem or a pipe leakage near near the temple. This is causing great difficulty to the public.\n\nI kindly request you to inspect the matter and take the necessary action at the earliest. A photograph of the problem is attached.\n\nThank you.\n\nYours faithfully,\nA. Kumar"
+  },
+  {
+   "c": {
+    "issue_id": "electric",
+    "area": "chennai",
+    "town": "",
+    "address": "Gandhi Street, Chrompet",
+    "landmark": "",
+    "name": "A. Kumar",
+    "phone": "",
+    "extra": "",
+    "has_photo": false
+   },
+   "lang": "ta",
+   "letter": "பெறுநர்:\nஉதவி செயற்பொறியாளர்\nதமிழ்நாடு மின் பகிர்மானக் கழகம் (TNPDCL / TANGEDCO) பிரிவு அலுவலகம்\nசென்னை\n\nஅனுப்புநர்:\nA. Kumar\nGandhi Street, Chrompet\n\nநாள்: 24/11/2026\n\nபொருள்: மின்சாரம் தொடர்பான புகார்\n\nமதிப்புமிகு ஐயா / அம்மா,\n\nநான் Gandhi Street, Chrompet பகுதியில் வசிக்கிறேன். Gandhi Street, Chrompet அருகில் மின்தடை அல்லது மின் கம்பம் / கம்பி சேதம் உள்ளது. இதனால் பொதுமக்களுக்குப் பெரும் சிரமம் ஏற்படுகிறது.\n\nஎனவே, இந்தப் பிரச்சினையை விரைவில் நேரில் ஆய்வு செய்து சரிசெய்ய உரிய நடவடிக்கை எடுக்குமாறு பணிவுடன் கேட்டுக்கொள்கிறேன்.\n\nநன்றி.\n\nஇப்படிக்கு,\nA. Kumar"
+  },
+  {
+   "c": {
+    "issue_id": "electric",
+    "area": "chennai",
+    "town": "",
+    "address": " 12 Gandhi Street ",
+    "landmark": "",
+    "name": "A. Kumar",
+    "phone": "98765 43210",
+    "extra": "It has been like this for a month.",
+    "has_photo": false
+   },
+   "lang": "ta",
+   "letter": "பெறுநர்:\nஉதவி செயற்பொறியாளர்\nதமிழ்நாடு மின் பகிர்மானக் கழகம் (TNPDCL / TANGEDCO) பிரிவு அலுவலகம்\nசென்னை\n\nஅனுப்புநர்:\nA. Kumar\n12 Gandhi Street\nதொலைபேசி: 98765 43210\n\nநாள்: 24/11/2026\n\nபொருள்: மின்சாரம் தொடர்பான புகார்\n\nமதிப்புமிகு ஐயா / அம்மா,\n\nநான் 12 Gandhi Street பகுதியில் வசிக்கிறேன். 12 Gandhi Street அருகில் மின்தடை அல்லது மின் கம்பம் / கம்பி சேதம் உள்ளது. இதனால் பொதுமக்களுக்குப் பெரும் சிரமம் ஏற்படுகிறது. It has been like this for a month.\n\nஎனவே, இந்தப் பிரச்சினையை விரைவில் நேரில் ஆய்வு செய்து சரிசெய்ய உரிய நடவடிக்கை எடுக்குமாறு பணிவுடன் கேட்டுக்கொள்கிறேன்.\n\nநன்றி.\n\nஇப்படிக்கு,\nA. Kumar"
+  },
+  {
+   "c": {
+    "issue_id": "electric",
+    "area": "chennai",
+    "town": " Tambaram ",
+    "address": "Gandhi Street, Chrompet",
+    "landmark": "near the temple",
+    "name": "A. Kumar",
+    "phone": "98765 43210",
+    "extra": "",
+    "has_photo": true
+   },
+   "lang": "ta",
+   "letter": "பெறுநர்:\nஉதவி செயற்பொறியாளர்\nதமிழ்நாடு மின் பகிர்மானக் கழகம் (TNPDCL / TANGEDCO) பிரிவு அலுவலகம்\nTambaram\n\nஅனுப்புநர்:\nA. Kumar\nGandhi Street, Chrompet, Tambaram\nதொலைபேசி: 98765 43210\n\nநாள்: 24/11/2026\n\nபொருள்: மின்சாரம் தொடர்பான புகார்\n\nமதிப்புமிகு ஐயா / அம்மா,\n\nநான் Gandhi Street, Chrompet, Tambaram பகுதியில் வசிக்கிறேன். near the temple அருகில் மின்தடை அல்லது மின் கம்பம் / கம்பி சேதம் உள்ளது. இதனால் பொதுமக்களுக்குப் பெரும் சிரமம் ஏற்படுகிறது.\n\nஎனவே, இந்தப் பிரச்சினையை விரைவில் நேரில் ஆய்வு செய்து சரிசெய்ய உரிய நடவடிக்கை எடுக்குமாறு பணிவுடன் கேட்டுக்கொள்கிறேன். பிரச்சினையின் புகைப்படம் இணைக்கப்பட்டுள்ளது.\n\nநன்றி.\n\nஇப்படிக்கு,\nA. Kumar"
+  },
+  {
+   "c": {
+    "issue_id": "electric",
+    "area": "chennai",
+    "town": "",
+    "address": "Gandhi Street, Chrompet",
+    "landmark": "",
+    "name": "A. Kumar",
+    "phone": "",
+    "extra": "",
+    "has_photo": false
+   },
+   "lang": "en",
+   "letter": "To,\nThe Assistant Executive Engineer\nTNPDCL (TANGEDCO) Section Office\nChennai\n\nFrom,\nA. Kumar\nGandhi Street, Chrompet\n\nDate: 24/11/2026\n\nSubject: Complaint regarding electricity\n\nRespected Sir / Madam,\n\nI am a resident of Gandhi Street, Chrompet. I would like to bring to your kind notice that there is a power failure or a damaged electric pole or wire near Gandhi Street, Chrompet. This is causing great difficulty to the public.\n\nI kindly request you to inspect the matter and take the necessary action at the earliest.\n\nThank you.\n\nYours faithfully,\nA. Kumar"
+  },
+  {
+   "c": {
+    "issue_id": "electric",
+    "area": "chennai",
+    "town": "",
+    "address": " 12 Gandhi Street ",
+    "landmark": "",
+    "name": "A. Kumar",
+    "phone": "98765 43210",
+    "extra": "It has been like this for a month.",
+    "has_photo": false
+   },
+   "lang": "en",
+   "letter": "To,\nThe Assistant Executive Engineer\nTNPDCL (TANGEDCO) Section Office\nChennai\n\nFrom,\nA. Kumar\n12 Gandhi Street\nPhone: 98765 43210\n\nDate: 24/11/2026\n\nSubject: Complaint regarding electricity\n\nRespected Sir / Madam,\n\nI am a resident of 12 Gandhi Street. I would like to bring to your kind notice that there is a power failure or a damaged electric pole or wire near 12 Gandhi Street. This is causing great difficulty to the public. It has been like this for a month.\n\nI kindly request you to inspect the matter and take the necessary action at the earliest.\n\nThank you.\n\nYours faithfully,\nA. Kumar"
+  },
+  {
+   "c": {
+    "issue_id": "electric",
+    "area": "chennai",
+    "town": " Tambaram ",
+    "address": "Gandhi Street, Chrompet",
+    "landmark": "near the temple",
+    "name": "A. Kumar",
+    "phone": "98765 43210",
+    "extra": "",
+    "has_photo": true
+   },
+   "lang": "en",
+   "letter": "To,\nThe Assistant Executive Engineer\nTNPDCL (TANGEDCO) Section Office\nTambaram\n\nFrom,\nA. Kumar\nGandhi Street, Chrompet, Tambaram\nPhone: 98765 43210\n\nDate: 24/11/2026\n\nSubject: Complaint regarding electricity\n\nRespected Sir / Madam,\n\nI am a resident of Gandhi Street, Chrompet, Tambaram. I would like to bring to your kind notice that there is a power failure or a damaged electric pole or wire near near the temple. This is causing great difficulty to the public.\n\nI kindly request you to inspect the matter and take the necessary action at the earliest. A photograph of the problem is attached.\n\nThank you.\n\nYours faithfully,\nA. Kumar"
+  },
+  {
+   "c": {
+    "issue_id": "electric",
+    "area": "city",
+    "town": "Madurai",
+    "address": "Gandhi Street, Chrompet",
+    "landmark": "",
+    "name": "A. Kumar",
+    "phone": "",
+    "extra": "",
+    "has_photo": false
+   },
+   "lang": "ta",
+   "letter": "பெறுநர்:\nஉதவி செயற்பொறியாளர்\nதமிழ்நாடு மின் பகிர்மானக் கழகம் (TNPDCL / TANGEDCO) பிரிவு அலுவலகம்\nMadurai\n\nஅனுப்புநர்:\nA. Kumar\nGandhi Street, Chrompet, Madurai\n\nநாள்: 24/11/2026\n\nபொருள்: மின்சாரம் தொடர்பான புகார்\n\nமதிப்புமிகு ஐயா / அம்மா,\n\nநான் Gandhi Street, Chrompet, Madurai பகுதியில் வசிக்கிறேன். Gandhi Street, Chrompet அருகில் மின்தடை அல்லது மின் கம்பம் / கம்பி சேதம் உள்ளது. இதனால் பொதுமக்களுக்குப் பெரும் சிரமம் ஏற்படுகிறது.\n\nஎனவே, இந்தப் பிரச்சினையை விரைவில் நேரில் ஆய்வு செய்து சரிசெய்ய உரிய நடவடிக்கை எடுக்குமாறு பணிவுடன் கேட்டுக்கொள்கிறேன்.\n\nநன்றி.\n\nஇப்படிக்கு,\nA. Kumar"
+  },
+  {
+   "c": {
+    "issue_id": "electric",
+    "area": "city",
+    "town": " Tambaram ",
+    "address": " 12 Gandhi Street ",
+    "landmark": "",
+    "name": "A. Kumar",
+    "phone": "98765 43210",
+    "extra": "It has been like this for a month.",
+    "has_photo": false
+   },
+   "lang": "ta",
+   "letter": "பெறுநர்:\nஉதவி செயற்பொறியாளர்\nதமிழ்நாடு மின் பகிர்மானக் கழகம் (TNPDCL / TANGEDCO) பிரிவு அலுவலகம்\nTambaram\n\nஅனுப்புநர்:\nA. Kumar\n12 Gandhi Street, Tambaram\nதொலைபேசி: 98765 43210\n\nநாள்: 24/11/2026\n\nபொருள்: மின்சாரம் தொடர்பான புகார்\n\nமதிப்புமிகு ஐயா / அம்மா,\n\nநான் 12 Gandhi Street, Tambaram பகுதியில் வசிக்கிறேன். 12 Gandhi Street அருகில் மின்தடை அல்லது மின் கம்பம் / கம்பி சேதம் உள்ளது. இதனால் பொதுமக்களுக்குப் பெரும் சிரமம் ஏற்படுகிறது. It has been like this for a month.\n\nஎனவே, இந்தப் பிரச்சினையை விரைவில் நேரில் ஆய்வு செய்து சரிசெய்ய உரிய நடவடிக்கை எடுக்குமாறு பணிவுடன் கேட்டுக்கொள்கிறேன்.\n\nநன்றி.\n\nஇப்படிக்கு,\nA. Kumar"
+  },
+  {
+   "c": {
+    "issue_id": "electric",
+    "area": "city",
+    "town": " Tambaram ",
+    "address": "Gandhi Street, Chrompet",
+    "landmark": "near the temple",
+    "name": "A. Kumar",
+    "phone": "98765 43210",
+    "extra": "",
+    "has_photo": true
+   },
+   "lang": "ta",
+   "letter": "பெறுநர்:\nஉதவி செயற்பொறியாளர்\nதமிழ்நாடு மின் பகிர்மானக் கழகம் (TNPDCL / TANGEDCO) பிரிவு அலுவலகம்\nTambaram\n\nஅனுப்புநர்:\nA. Kumar\nGandhi Street, Chrompet, Tambaram\nதொலைபேசி: 98765 43210\n\nநாள்: 24/11/2026\n\nபொருள்: மின்சாரம் தொடர்பான புகார்\n\nமதிப்புமிகு ஐயா / அம்மா,\n\nநான் Gandhi Street, Chrompet, Tambaram பகுதியில் வசிக்கிறேன். near the temple அருகில் மின்தடை அல்லது மின் கம்பம் / கம்பி சேதம் உள்ளது. இதனால் பொதுமக்களுக்குப் பெரும் சிரமம் ஏற்படுகிறது.\n\nஎனவே, இந்தப் பிரச்சினையை விரைவில் நேரில் ஆய்வு செய்து சரிசெய்ய உரிய நடவடிக்கை எடுக்குமாறு பணிவுடன் கேட்டுக்கொள்கிறேன். பிரச்சினையின் புகைப்படம் இணைக்கப்பட்டுள்ளது.\n\nநன்றி.\n\nஇப்படிக்கு,\nA. Kumar"
+  },
+  {
+   "c": {
+    "issue_id": "electric",
+    "area": "city",
+    "town": "Madurai",
+    "address": "Gandhi Street, Chrompet",
+    "landmark": "",
+    "name": "A. Kumar",
+    "phone": "",
+    "extra": "",
+    "has_photo": false
+   },
+   "lang": "en",
+   "letter": "To,\nThe Assistant Executive Engineer\nTNPDCL (TANGEDCO) Section Office\nMadurai\n\nFrom,\nA. Kumar\nGandhi Street, Chrompet, Madurai\n\nDate: 24/11/2026\n\nSubject: Complaint regarding electricity\n\nRespected Sir / Madam,\n\nI am a resident of Gandhi Street, Chrompet, Madurai. I would like to bring to your kind notice that there is a power failure or a damaged electric pole or wire near Gandhi Street, Chrompet. This is causing great difficulty to the public.\n\nI kindly request you to inspect the matter and take the necessary action at the earliest.\n\nThank you.\n\nYours faithfully,\nA. Kumar"
+  },
+  {
+   "c": {
+    "issue_id": "electric",
+    "area": "city",
+    "town": " Tambaram ",
+    "address": " 12 Gandhi Street ",
+    "landmark": "",
+    "name": "A. Kumar",
+    "phone": "98765 43210",
+    "extra": "It has been like this for a month.",
+    "has_photo": false
+   },
+   "lang": "en",
+   "letter": "To,\nThe Assistant Executive Engineer\nTNPDCL (TANGEDCO) Section Office\nTambaram\n\nFrom,\nA. Kumar\n12 Gandhi Street, Tambaram\nPhone: 98765 43210\n\nDate: 24/11/2026\n\nSubject: Complaint regarding electricity\n\nRespected Sir / Madam,\n\nI am a resident of 12 Gandhi Street, Tambaram. I would like to bring to your kind notice that there is a power failure or a damaged electric pole or wire near 12 Gandhi Street. This is causing great difficulty to the public. It has been like this for a month.\n\nI kindly request you to inspect the matter and take the necessary action at the earliest.\n\nThank you.\n\nYours faithfully,\nA. Kumar"
+  },
+  {
+   "c": {
+    "issue_id": "electric",
+    "area": "city",
+    "town": " Tambaram ",
+    "address": "Gandhi Street, Chrompet",
+    "landmark": "near the temple",
+    "name": "A. Kumar",
+    "phone": "98765 43210",
+    "extra": "",
+    "has_photo": true
+   },
+   "lang": "en",
+   "letter": "To,\nThe Assistant Executive Engineer\nTNPDCL (TANGEDCO) Section Office\nTambaram\n\nFrom,\nA. Kumar\nGandhi Street, Chrompet, Tambaram\nPhone: 98765 43210\n\nDate: 24/11/2026\n\nSubject: Complaint regarding electricity\n\nRespected Sir / Madam,\n\nI am a resident of Gandhi Street, Chrompet, Tambaram. I would like to bring to your kind notice that there is a power failure or a damaged electric pole or wire near near the temple. This is causing great difficulty to the public.\n\nI kindly request you to inspect the matter and take the necessary action at the earliest. A photograph of the problem is attached.\n\nThank you.\n\nYours faithfully,\nA. Kumar"
+  },
+  {
+   "c": {
+    "issue_id": "electric",
+    "area": "village",
+    "town": "Madurai",
+    "address": "Gandhi Street, Chrompet",
+    "landmark": "",
+    "name": "A. Kumar",
+    "phone": "",
+    "extra": "",
+    "has_photo": false
+   },
+   "lang": "ta",
+   "letter": "பெறுநர்:\nஉதவி செயற்பொறியாளர்\nதமிழ்நாடு மின் பகிர்மானக் கழகம் (TNPDCL / TANGEDCO) பிரிவு அலுவலகம்\nMadurai\n\nஅனுப்புநர்:\nA. Kumar\nGandhi Street, Chrompet, Madurai\n\nநாள்: 24/11/2026\n\nபொருள்: மின்சாரம் தொடர்பான புகார்\n\nமதிப்புமிகு ஐயா / அம்மா,\n\nநான் Gandhi Street, Chrompet, Madurai பகுதியில் வசிக்கிறேன். Gandhi Street, Chrompet அருகில் மின்தடை அல்லது மின் கம்பம் / கம்பி சேதம் உள்ளது. இதனால் பொதுமக்களுக்குப் பெரும் சிரமம் ஏற்படுகிறது.\n\nஎனவே, இந்தப் பிரச்சினையை விரைவில் நேரில் ஆய்வு செய்து சரிசெய்ய உரிய நடவடிக்கை எடுக்குமாறு பணிவுடன் கேட்டுக்கொள்கிறேன்.\n\nநன்றி.\n\nஇப்படிக்கு,\nA. Kumar"
+  },
+  {
+   "c": {
+    "issue_id": "electric",
+    "area": "village",
+    "town": " Tambaram ",
+    "address": " 12 Gandhi Street ",
+    "landmark": "",
+    "name": "A. Kumar",
+    "phone": "98765 43210",
+    "extra": "It has been like this for a month.",
+    "has_photo": false
+   },
+   "lang": "ta",
+   "letter": "பெறுநர்:\nஉதவி செயற்பொறியாளர்\nதமிழ்நாடு மின் பகிர்மானக் கழகம் (TNPDCL / TANGEDCO) பிரிவு அலுவலகம்\nTambaram\n\nஅனுப்புநர்:\nA. Kumar\n12 Gandhi Street, Tambaram\nதொலைபேசி: 98765 43210\n\nநாள்: 24/11/2026\n\nபொருள்: மின்சாரம் தொடர்பான புகார்\n\nமதிப்புமிகு ஐயா / அம்மா,\n\nநான் 12 Gandhi Street, Tambaram பகுதியில் வசிக்கிறேன். 12 Gandhi Street அருகில் மின்தடை அல்லது மின் கம்பம் / கம்பி சேதம் உள்ளது. இதனால் பொதுமக்களுக்குப் பெரும் சிரமம் ஏற்படுகிறது. It has been like this for a month.\n\nஎனவே, இந்தப் பிரச்சினையை விரைவில் நேரில் ஆய்வு செய்து சரிசெய்ய உரிய நடவடிக்கை எடுக்குமாறு பணிவுடன் கேட்டுக்கொள்கிறேன்.\n\nநன்றி.\n\nஇப்படிக்கு,\nA. Kumar"
+  },
+  {
+   "c": {
+    "issue_id": "electric",
+    "area": "village",
+    "town": " Tambaram ",
+    "address": "Gandhi Street, Chrompet",
+    "landmark": "near the temple",
+    "name": "A. Kumar",
+    "phone": "98765 43210",
+    "extra": "",
+    "has_photo": true
+   },
+   "lang": "ta",
+   "letter": "பெறுநர்:\nஉதவி செயற்பொறியாளர்\nதமிழ்நாடு மின் பகிர்மானக் கழகம் (TNPDCL / TANGEDCO) பிரிவு அலுவலகம்\nTambaram\n\nஅனுப்புநர்:\nA. Kumar\nGandhi Street, Chrompet, Tambaram\nதொலைபேசி: 98765 43210\n\nநாள்: 24/11/2026\n\nபொருள்: மின்சாரம் தொடர்பான புகார்\n\nமதிப்புமிகு ஐயா / அம்மா,\n\nநான் Gandhi Street, Chrompet, Tambaram பகுதியில் வசிக்கிறேன். near the temple அருகில் மின்தடை அல்லது மின் கம்பம் / கம்பி சேதம் உள்ளது. இதனால் பொதுமக்களுக்குப் பெரும் சிரமம் ஏற்படுகிறது.\n\nஎனவே, இந்தப் பிரச்சினையை விரைவில் நேரில் ஆய்வு செய்து சரிசெய்ய உரிய நடவடிக்கை எடுக்குமாறு பணிவுடன் கேட்டுக்கொள்கிறேன். பிரச்சினையின் புகைப்படம் இணைக்கப்பட்டுள்ளது.\n\nநன்றி.\n\nஇப்படிக்கு,\nA. Kumar"
+  },
+  {
+   "c": {
+    "issue_id": "electric",
+    "area": "village",
+    "town": "Madurai",
+    "address": "Gandhi Street, Chrompet",
+    "landmark": "",
+    "name": "A. Kumar",
+    "phone": "",
+    "extra": "",
+    "has_photo": false
+   },
+   "lang": "en",
+   "letter": "To,\nThe Assistant Executive Engineer\nTNPDCL (TANGEDCO) Section Office\nMadurai\n\nFrom,\nA. Kumar\nGandhi Street, Chrompet, Madurai\n\nDate: 24/11/2026\n\nSubject: Complaint regarding electricity\n\nRespected Sir / Madam,\n\nI am a resident of Gandhi Street, Chrompet, Madurai. I would like to bring to your kind notice that there is a power failure or a damaged electric pole or wire near Gandhi Street, Chrompet. This is causing great difficulty to the public.\n\nI kindly request you to inspect the matter and take the necessary action at the earliest.\n\nThank you.\n\nYours faithfully,\nA. Kumar"
+  },
+  {
+   "c": {
+    "issue_id": "electric",
+    "area": "village",
+    "town": " Tambaram ",
+    "address": " 12 Gandhi Street ",
+    "landmark": "",
+    "name": "A. Kumar",
+    "phone": "98765 43210",
+    "extra": "It has been like this for a month.",
+    "has_photo": false
+   },
+   "lang": "en",
+   "letter": "To,\nThe Assistant Executive Engineer\nTNPDCL (TANGEDCO) Section Office\nTambaram\n\nFrom,\nA. Kumar\n12 Gandhi Street, Tambaram\nPhone: 98765 43210\n\nDate: 24/11/2026\n\nSubject: Complaint regarding electricity\n\nRespected Sir / Madam,\n\nI am a resident of 12 Gandhi Street, Tambaram. I would like to bring to your kind notice that there is a power failure or a damaged electric pole or wire near 12 Gandhi Street. This is causing great difficulty to the public. It has been like this for a month.\n\nI kindly request you to inspect the matter and take the necessary action at the earliest.\n\nThank you.\n\nYours faithfully,\nA. Kumar"
+  },
+  {
+   "c": {
+    "issue_id": "electric",
+    "area": "village",
+    "town": " Tambaram ",
+    "address": "Gandhi Street, Chrompet",
+    "landmark": "near the temple",
+    "name": "A. Kumar",
+    "phone": "98765 43210",
+    "extra": "",
+    "has_photo": true
+   },
+   "lang": "en",
+   "letter": "To,\nThe Assistant Executive Engineer\nTNPDCL (TANGEDCO) Section Office\nTambaram\n\nFrom,\nA. Kumar\nGandhi Street, Chrompet, Tambaram\nPhone: 98765 43210\n\nDate: 24/11/2026\n\nSubject: Complaint regarding electricity\n\nRespected Sir / Madam,\n\nI am a resident of Gandhi Street, Chrompet, Tambaram. I would like to bring to your kind notice that there is a power failure or a damaged electric pole or wire near near the temple. This is causing great difficulty to the public.\n\nI kindly request you to inspect the matter and take the necessary action at the earliest. A photograph of the problem is attached.\n\nThank you.\n\nYours faithfully,\nA. Kumar"
+  },
+  {
+   "c": {
+    "issue_id": "stray",
+    "area": "chennai",
+    "town": "",
+    "address": "Gandhi Street, Chrompet",
+    "landmark": "",
+    "name": "A. Kumar",
+    "phone": "",
+    "extra": "",
+    "has_photo": false
+   },
+   "lang": "ta",
+   "letter": "பெறுநர்:\nஆணையர்\nபெருநகர சென்னை மாநகராட்சி\nரிப்பன் மாளிகை, சென்னை - 600 003\n\nஅனுப்புநர்:\nA. Kumar\nGandhi Street, Chrompet\n\nநாள்: 24/11/2026\n\nபொருள்: தெருநாய் / மாடு தொடர்பான புகார்\n\nமதிப்புமிகு ஐயா / அம்மா,\n\nநான் Gandhi Street, Chrompet பகுதியில் வசிக்கிறேன். Gandhi Street, Chrompet அருகில் தெருநாய்கள் அல்லது மாடுகள் பொதுமக்களுக்கு ஆபத்தாக உள்ளன. இதனால் பொதுமக்களுக்குப் பெரும் சிரமம் ஏற்படுகிறது.\n\nஎனவே, இந்தப் பிரச்சினையை விரைவில் நேரில் ஆய்வு செய்து சரிசெய்ய உரிய நடவடிக்கை எடுக்குமாறு பணிவுடன் கேட்டுக்கொள்கிறேன்.\n\nநன்றி.\n\nஇப்படிக்கு,\nA. Kumar"
+  },
+  {
+   "c": {
+    "issue_id": "stray",
+    "area": "chennai",
+    "town": "",
+    "address": " 12 Gandhi Street ",
+    "landmark": "",
+    "name": "A. Kumar",
+    "phone": "98765 43210",
+    "extra": "It has been like this for a month.",
+    "has_photo": false
+   },
+   "lang": "ta",
+   "letter": "பெறுநர்:\nஆணையர்\nபெருநகர சென்னை மாநகராட்சி\nரிப்பன் மாளிகை, சென்னை - 600 003\n\nஅனுப்புநர்:\nA. Kumar\n12 Gandhi Street\nதொலைபேசி: 98765 43210\n\nநாள்: 24/11/2026\n\nபொருள்: தெருநாய் / மாடு தொடர்பான புகார்\n\nமதிப்புமிகு ஐயா / அம்மா,\n\nநான் 12 Gandhi Street பகுதியில் வசிக்கிறேன். 12 Gandhi Street அருகில் தெருநாய்கள் அல்லது மாடுகள் பொதுமக்களுக்கு ஆபத்தாக உள்ளன. இதனால் பொதுமக்களுக்குப் பெரும் சிரமம் ஏற்படுகிறது. It has been like this for a month.\n\nஎனவே, இந்தப் பிரச்சினையை விரைவில் நேரில் ஆய்வு செய்து சரிசெய்ய உரிய நடவடிக்கை எடுக்குமாறு பணிவுடன் கேட்டுக்கொள்கிறேன்.\n\nநன்றி.\n\nஇப்படிக்கு,\nA. Kumar"
+  },
+  {
+   "c": {
+    "issue_id": "stray",
+    "area": "chennai",
+    "town": " Tambaram ",
+    "address": "Gandhi Street, Chrompet",
+    "landmark": "near the temple",
+    "name": "A. Kumar",
+    "phone": "98765 43210",
+    "extra": "",
+    "has_photo": true
+   },
+   "lang": "ta",
+   "letter": "பெறுநர்:\nஆணையர்\nபெருநகர சென்னை மாநகராட்சி\nரிப்பன் மாளிகை, சென்னை - 600 003\n\nஅனுப்புநர்:\nA. Kumar\nGandhi Street, Chrompet, Tambaram\nதொலைபேசி: 98765 43210\n\nநாள்: 24/11/2026\n\nபொருள்: தெருநாய் / மாடு தொடர்பான புகார்\n\nமதிப்புமிகு ஐயா / அம்மா,\n\nநான் Gandhi Street, Chrompet, Tambaram பகுதியில் வசிக்கிறேன். near the temple அருகில் தெருநாய்கள் அல்லது மாடுகள் பொதுமக்களுக்கு ஆபத்தாக உள்ளன. இதனால் பொதுமக்களுக்குப் பெரும் சிரமம் ஏற்படுகிறது.\n\nஎனவே, இந்தப் பிரச்சினையை விரைவில் நேரில் ஆய்வு செய்து சரிசெய்ய உரிய நடவடிக்கை எடுக்குமாறு பணிவுடன் கேட்டுக்கொள்கிறேன். பிரச்சினையின் புகைப்படம் இணைக்கப்பட்டுள்ளது.\n\nநன்றி.\n\nஇப்படிக்கு,\nA. Kumar"
+  },
+  {
+   "c": {
+    "issue_id": "stray",
+    "area": "chennai",
+    "town": "",
+    "address": "Gandhi Street, Chrompet",
+    "landmark": "",
+    "name": "A. Kumar",
+    "phone": "",
+    "extra": "",
+    "has_photo": false
+   },
+   "lang": "en",
+   "letter": "To,\nThe Commissioner\nGreater Chennai Corporation\nRipon Buildings, Chennai - 600 003\n\nFrom,\nA. Kumar\nGandhi Street, Chrompet\n\nDate: 24/11/2026\n\nSubject: Complaint regarding stray animals\n\nRespected Sir / Madam,\n\nI am a resident of Gandhi Street, Chrompet. I would like to bring to your kind notice that stray dogs or cattle near Gandhi Street, Chrompet are a danger to the public. This is causing great difficulty to the public.\n\nI kindly request you to inspect the matter and take the necessary action at the earliest.\n\nThank you.\n\nYours faithfully,\nA. Kumar"
+  },
+  {
+   "c": {
+    "issue_id": "stray",
+    "area": "chennai",
+    "town": "",
+    "address": " 12 Gandhi Street ",
+    "landmark": "",
+    "name": "A. Kumar",
+    "phone": "98765 43210",
+    "extra": "It has been like this for a month.",
+    "has_photo": false
+   },
+   "lang": "en",
+   "letter": "To,\nThe Commissioner\nGreater Chennai Corporation\nRipon Buildings, Chennai - 600 003\n\nFrom,\nA. Kumar\n12 Gandhi Street\nPhone: 98765 43210\n\nDate: 24/11/2026\n\nSubject: Complaint regarding stray animals\n\nRespected Sir / Madam,\n\nI am a resident of 12 Gandhi Street. I would like to bring to your kind notice that stray dogs or cattle near 12 Gandhi Street are a danger to the public. This is causing great difficulty to the public. It has been like this for a month.\n\nI kindly request you to inspect the matter and take the necessary action at the earliest.\n\nThank you.\n\nYours faithfully,\nA. Kumar"
+  },
+  {
+   "c": {
+    "issue_id": "stray",
+    "area": "chennai",
+    "town": " Tambaram ",
+    "address": "Gandhi Street, Chrompet",
+    "landmark": "near the temple",
+    "name": "A. Kumar",
+    "phone": "98765 43210",
+    "extra": "",
+    "has_photo": true
+   },
+   "lang": "en",
+   "letter": "To,\nThe Commissioner\nGreater Chennai Corporation\nRipon Buildings, Chennai - 600 003\n\nFrom,\nA. Kumar\nGandhi Street, Chrompet, Tambaram\nPhone: 98765 43210\n\nDate: 24/11/2026\n\nSubject: Complaint regarding stray animals\n\nRespected Sir / Madam,\n\nI am a resident of Gandhi Street, Chrompet, Tambaram. I would like to bring to your kind notice that stray dogs or cattle near near the temple are a danger to the public. This is causing great difficulty to the public.\n\nI kindly request you to inspect the matter and take the necessary action at the earliest. A photograph of the problem is attached.\n\nThank you.\n\nYours faithfully,\nA. Kumar"
+  },
+  {
+   "c": {
+    "issue_id": "stray",
+    "area": "city",
+    "town": "Madurai",
+    "address": "Gandhi Street, Chrompet",
+    "landmark": "",
+    "name": "A. Kumar",
+    "phone": "",
+    "extra": "",
+    "has_photo": false
+   },
+   "lang": "ta",
+   "letter": "பெறுநர்:\nஆணையர் / செயல் அலுவலர்\nMadurai மாநகராட்சி / நகராட்சி\nMadurai\n\nஅனுப்புநர்:\nA. Kumar\nGandhi Street, Chrompet, Madurai\n\nநாள்: 24/11/2026\n\nபொருள்: தெருநாய் / மாடு தொடர்பான புகார்\n\nமதிப்புமிகு ஐயா / அம்மா,\n\nநான் Gandhi Street, Chrompet, Madurai பகுதியில் வசிக்கிறேன். Gandhi Street, Chrompet அருகில் தெருநாய்கள் அல்லது மாடுகள் பொதுமக்களுக்கு ஆபத்தாக உள்ளன. இதனால் பொதுமக்களுக்குப் பெரும் சிரமம் ஏற்படுகிறது.\n\nஎனவே, இந்தப் பிரச்சினையை விரைவில் நேரில் ஆய்வு செய்து சரிசெய்ய உரிய நடவடிக்கை எடுக்குமாறு பணிவுடன் கேட்டுக்கொள்கிறேன்.\n\nநன்றி.\n\nஇப்படிக்கு,\nA. Kumar"
+  },
+  {
+   "c": {
+    "issue_id": "stray",
+    "area": "city",
+    "town": " Tambaram ",
+    "address": " 12 Gandhi Street ",
+    "landmark": "",
+    "name": "A. Kumar",
+    "phone": "98765 43210",
+    "extra": "It has been like this for a month.",
+    "has_photo": false
+   },
+   "lang": "ta",
+   "letter": "பெறுநர்:\nஆணையர் / செயல் அலுவலர்\nTambaram மாநகராட்சி / நகராட்சி\nTambaram\n\nஅனுப்புநர்:\nA. Kumar\n12 Gandhi Street, Tambaram\nதொலைபேசி: 98765 43210\n\nநாள்: 24/11/2026\n\nபொருள்: தெருநாய் / மாடு தொடர்பான புகார்\n\nமதிப்புமிகு ஐயா / அம்மா,\n\nநான் 12 Gandhi Street, Tambaram பகுதியில் வசிக்கிறேன். 12 Gandhi Street அருகில் தெருநாய்கள் அல்லது மாடுகள் பொதுமக்களுக்கு ஆபத்தாக உள்ளன. இதனால் பொதுமக்களுக்குப் பெரும் சிரமம் ஏற்படுகிறது. It has been like this for a month.\n\nஎனவே, இந்தப் பிரச்சினையை விரைவில் நேரில் ஆய்வு செய்து சரிசெய்ய உரிய நடவடிக்கை எடுக்குமாறு பணிவுடன் கேட்டுக்கொள்கிறேன்.\n\nநன்றி.\n\nஇப்படிக்கு,\nA. Kumar"
+  },
+  {
+   "c": {
+    "issue_id": "stray",
+    "area": "city",
+    "town": " Tambaram ",
+    "address": "Gandhi Street, Chrompet",
+    "landmark": "near the temple",
+    "name": "A. Kumar",
+    "phone": "98765 43210",
+    "extra": "",
+    "has_photo": true
+   },
+   "lang": "ta",
+   "letter": "பெறுநர்:\nஆணையர் / செயல் அலுவலர்\nTambaram மாநகராட்சி / நகராட்சி\nTambaram\n\nஅனுப்புநர்:\nA. Kumar\nGandhi Street, Chrompet, Tambaram\nதொலைபேசி: 98765 43210\n\nநாள்: 24/11/2026\n\nபொருள்: தெருநாய் / மாடு தொடர்பான புகார்\n\nமதிப்புமிகு ஐயா / அம்மா,\n\nநான் Gandhi Street, Chrompet, Tambaram பகுதியில் வசிக்கிறேன். near the temple அருகில் தெருநாய்கள் அல்லது மாடுகள் பொதுமக்களுக்கு ஆபத்தாக உள்ளன. இதனால் பொதுமக்களுக்குப் பெரும் சிரமம் ஏற்படுகிறது.\n\nஎனவே, இந்தப் பிரச்சினையை விரைவில் நேரில் ஆய்வு செய்து சரிசெய்ய உரிய நடவடிக்கை எடுக்குமாறு பணிவுடன் கேட்டுக்கொள்கிறேன். பிரச்சினையின் புகைப்படம் இணைக்கப்பட்டுள்ளது.\n\nநன்றி.\n\nஇப்படிக்கு,\nA. Kumar"
+  },
+  {
+   "c": {
+    "issue_id": "stray",
+    "area": "city",
+    "town": "Madurai",
+    "address": "Gandhi Street, Chrompet",
+    "landmark": "",
+    "name": "A. Kumar",
+    "phone": "",
+    "extra": "",
+    "has_photo": false
+   },
+   "lang": "en",
+   "letter": "To,\nThe Commissioner / Executive Officer\nMadurai Corporation / Municipality\nMadurai\n\nFrom,\nA. Kumar\nGandhi Street, Chrompet, Madurai\n\nDate: 24/11/2026\n\nSubject: Complaint regarding stray animals\n\nRespected Sir / Madam,\n\nI am a resident of Gandhi Street, Chrompet, Madurai. I would like to bring to your kind notice that stray dogs or cattle near Gandhi Street, Chrompet are a danger to the public. This is causing great difficulty to the public.\n\nI kindly request you to inspect the matter and take the necessary action at the earliest.\n\nThank you.\n\nYours faithfully,\nA. Kumar"
+  },
+  {
+   "c": {
+    "issue_id": "stray",
+    "area": "city",
+    "town": " Tambaram ",
+    "address": " 12 Gandhi Street ",
+    "landmark": "",
+    "name": "A. Kumar",
+    "phone": "98765 43210",
+    "extra": "It has been like this for a month.",
+    "has_photo": false
+   },
+   "lang": "en",
+   "letter": "To,\nThe Commissioner / Executive Officer\nTambaram Corporation / Municipality\nTambaram\n\nFrom,\nA. Kumar\n12 Gandhi Street, Tambaram\nPhone: 98765 43210\n\nDate: 24/11/2026\n\nSubject: Complaint regarding stray animals\n\nRespected Sir / Madam,\n\nI am a resident of 12 Gandhi Street, Tambaram. I would like to bring to your kind notice that stray dogs or cattle near 12 Gandhi Street are a danger to the public. This is causing great difficulty to the public. It has been like this for a month.\n\nI kindly request you to inspect the matter and take the necessary action at the earliest.\n\nThank you.\n\nYours faithfully,\nA. Kumar"
+  },
+  {
+   "c": {
+    "issue_id": "stray",
+    "area": "city",
+    "town": " Tambaram ",
+    "address": "Gandhi Street, Chrompet",
+    "landmark": "near the temple",
+    "name": "A. Kumar",
+    "phone": "98765 43210",
+    "extra": "",
+    "has_photo": true
+   },
+   "lang": "en",
+   "letter": "To,\nThe Commissioner / Executive Officer\nTambaram Corporation / Municipality\nTambaram\n\nFrom,\nA. Kumar\nGandhi Street, Chrompet, Tambaram\nPhone: 98765 43210\n\nDate: 24/11/2026\n\nSubject: Complaint regarding stray animals\n\nRespected Sir / Madam,\n\nI am a resident of Gandhi Street, Chrompet, Tambaram. I would like to bring to your kind notice that stray dogs or cattle near near the temple are a danger to the public. This is causing great difficulty to the public.\n\nI kindly request you to inspect the matter and take the necessary action at the earliest. A photograph of the problem is attached.\n\nThank you.\n\nYours faithfully,\nA. Kumar"
+  },
+  {
+   "c": {
+    "issue_id": "stray",
+    "area": "village",
+    "town": "Madurai",
+    "address": "Gandhi Street, Chrompet",
+    "landmark": "",
+    "name": "A. Kumar",
+    "phone": "",
+    "extra": "",
+    "has_photo": false
+   },
+   "lang": "ta",
+   "letter": "பெறுநர்:\nவட்டார வளர்ச்சி அலுவலர்\nஊராட்சி ஒன்றிய அலுவலகம், Madurai\n\nஅனுப்புநர்:\nA. Kumar\nGandhi Street, Chrompet, Madurai\n\nநாள்: 24/11/2026\n\nபொருள்: தெருநாய் / மாடு தொடர்பான புகார்\n\nமதிப்புமிகு ஐயா / அம்மா,\n\nநான் Gandhi Street, Chrompet, Madurai பகுதியில் வசிக்கிறேன். Gandhi Street, Chrompet அருகில் தெருநாய்கள் அல்லது மாடுகள் பொதுமக்களுக்கு ஆபத்தாக உள்ளன. இதனால் பொதுமக்களுக்குப் பெரும் சிரமம் ஏற்படுகிறது.\n\nஎனவே, இந்தப் பிரச்சினையை விரைவில் நேரில் ஆய்வு செய்து சரிசெய்ய உரிய நடவடிக்கை எடுக்குமாறு பணிவுடன் கேட்டுக்கொள்கிறேன்.\n\nநன்றி.\n\nஇப்படிக்கு,\nA. Kumar"
+  },
+  {
+   "c": {
+    "issue_id": "stray",
+    "area": "village",
+    "town": " Tambaram ",
+    "address": " 12 Gandhi Street ",
+    "landmark": "",
+    "name": "A. Kumar",
+    "phone": "98765 43210",
+    "extra": "It has been like this for a month.",
+    "has_photo": false
+   },
+   "lang": "ta",
+   "letter": "பெறுநர்:\nவட்டார வளர்ச்சி அலுவலர்\nஊராட்சி ஒன்றிய அலுவலகம், Tambaram\n\nஅனுப்புநர்:\nA. Kumar\n12 Gandhi Street, Tambaram\nதொலைபேசி: 98765 43210\n\nநாள்: 24/11/2026\n\nபொருள்: தெருநாய் / மாடு தொடர்பான புகார்\n\nமதிப்புமிகு ஐயா / அம்மா,\n\nநான் 12 Gandhi Street, Tambaram பகுதியில் வசிக்கிறேன். 12 Gandhi Street அருகில் தெருநாய்கள் அல்லது மாடுகள் பொதுமக்களுக்கு ஆபத்தாக உள்ளன. இதனால் பொதுமக்களுக்குப் பெரும் சிரமம் ஏற்படுகிறது. It has been like this for a month.\n\nஎனவே, இந்தப் பிரச்சினையை விரைவில் நேரில் ஆய்வு செய்து சரிசெய்ய உரிய நடவடிக்கை எடுக்குமாறு பணிவுடன் கேட்டுக்கொள்கிறேன்.\n\nநன்றி.\n\nஇப்படிக்கு,\nA. Kumar"
+  },
+  {
+   "c": {
+    "issue_id": "stray",
+    "area": "village",
+    "town": " Tambaram ",
+    "address": "Gandhi Street, Chrompet",
+    "landmark": "near the temple",
+    "name": "A. Kumar",
+    "phone": "98765 43210",
+    "extra": "",
+    "has_photo": true
+   },
+   "lang": "ta",
+   "letter": "பெறுநர்:\nவட்டார வளர்ச்சி அலுவலர்\nஊராட்சி ஒன்றிய அலுவலகம், Tambaram\n\nஅனுப்புநர்:\nA. Kumar\nGandhi Street, Chrompet, Tambaram\nதொலைபேசி: 98765 43210\n\nநாள்: 24/11/2026\n\nபொருள்: தெருநாய் / மாடு தொடர்பான புகார்\n\nமதிப்புமிகு ஐயா / அம்மா,\n\nநான் Gandhi Street, Chrompet, Tambaram பகுதியில் வசிக்கிறேன். near the temple அருகில் தெருநாய்கள் அல்லது மாடுகள் பொதுமக்களுக்கு ஆபத்தாக உள்ளன. இதனால் பொதுமக்களுக்குப் பெரும் சிரமம் ஏற்படுகிறது.\n\nஎனவே, இந்தப் பிரச்சினையை விரைவில் நேரில் ஆய்வு செய்து சரிசெய்ய உரிய நடவடிக்கை எடுக்குமாறு பணிவுடன் கேட்டுக்கொள்கிறேன். பிரச்சினையின் புகைப்படம் இணைக்கப்பட்டுள்ளது.\n\nநன்றி.\n\nஇப்படிக்கு,\nA. Kumar"
+  },
+  {
+   "c": {
+    "issue_id": "stray",
+    "area": "village",
+    "town": "Madurai",
+    "address": "Gandhi Street, Chrompet",
+    "landmark": "",
+    "name": "A. Kumar",
+    "phone": "",
+    "extra": "",
+    "has_photo": false
+   },
+   "lang": "en",
+   "letter": "To,\nThe Block Development Officer\nPanchayat Union Office, Madurai\n\nFrom,\nA. Kumar\nGandhi Street, Chrompet, Madurai\n\nDate: 24/11/2026\n\nSubject: Complaint regarding stray animals\n\nRespected Sir / Madam,\n\nI am a resident of Gandhi Street, Chrompet, Madurai. I would like to bring to your kind notice that stray dogs or cattle near Gandhi Street, Chrompet are a danger to the public. This is causing great difficulty to the public.\n\nI kindly request you to inspect the matter and take the necessary action at the earliest.\n\nThank you.\n\nYours faithfully,\nA. Kumar"
+  },
+  {
+   "c": {
+    "issue_id": "stray",
+    "area": "village",
+    "town": " Tambaram ",
+    "address": " 12 Gandhi Street ",
+    "landmark": "",
+    "name": "A. Kumar",
+    "phone": "98765 43210",
+    "extra": "It has been like this for a month.",
+    "has_photo": false
+   },
+   "lang": "en",
+   "letter": "To,\nThe Block Development Officer\nPanchayat Union Office, Tambaram\n\nFrom,\nA. Kumar\n12 Gandhi Street, Tambaram\nPhone: 98765 43210\n\nDate: 24/11/2026\n\nSubject: Complaint regarding stray animals\n\nRespected Sir / Madam,\n\nI am a resident of 12 Gandhi Street, Tambaram. I would like to bring to your kind notice that stray dogs or cattle near 12 Gandhi Street are a danger to the public. This is causing great difficulty to the public. It has been like this for a month.\n\nI kindly request you to inspect the matter and take the necessary action at the earliest.\n\nThank you.\n\nYours faithfully,\nA. Kumar"
+  },
+  {
+   "c": {
+    "issue_id": "stray",
+    "area": "village",
+    "town": " Tambaram ",
+    "address": "Gandhi Street, Chrompet",
+    "landmark": "near the temple",
+    "name": "A. Kumar",
+    "phone": "98765 43210",
+    "extra": "",
+    "has_photo": true
+   },
+   "lang": "en",
+   "letter": "To,\nThe Block Development Officer\nPanchayat Union Office, Tambaram\n\nFrom,\nA. Kumar\nGandhi Street, Chrompet, Tambaram\nPhone: 98765 43210\n\nDate: 24/11/2026\n\nSubject: Complaint regarding stray animals\n\nRespected Sir / Madam,\n\nI am a resident of Gandhi Street, Chrompet, Tambaram. I would like to bring to your kind notice that stray dogs or cattle near near the temple are a danger to the public. This is causing great difficulty to the public.\n\nI kindly request you to inspect the matter and take the necessary action at the earliest. A photograph of the problem is attached.\n\nThank you.\n\nYours faithfully,\nA. Kumar"
+  },
+  {
+   "c": {
+    "issue_id": "other",
+    "area": "chennai",
+    "town": "",
+    "address": "Gandhi Street, Chrompet",
+    "landmark": "",
+    "name": "A. Kumar",
+    "phone": "",
+    "extra": "",
+    "has_photo": false
+   },
+   "lang": "ta",
+   "letter": "பெறுநர்:\nஆணையர்\nபெருநகர சென்னை மாநகராட்சி\nரிப்பன் மாளிகை, சென்னை - 600 003\n\nஅனுப்புநர்:\nA. Kumar\nGandhi Street, Chrompet\n\nநாள்: 24/11/2026\n\nபொருள்: மற்றவை தொடர்பான புகார்\n\nமதிப்புமிகு ஐயா / அம்மா,\n\nநான் Gandhi Street, Chrompet பகுதியில் வசிக்கிறேன். Gandhi Street, Chrompet அருகில் பொதுமக்களுக்குப் பாதிப்பு ஏற்படுத்தும் பிரச்சினை உள்ளது. இதனால் பொதுமக்களுக்குப் பெரும் சிரமம் ஏற்படுகிறது.\n\nஎனவே, இந்தப் பிரச்சினையை விரைவில் நேரில் ஆய்வு செய்து சரிசெய்ய உரிய நடவடிக்கை எடுக்குமாறு பணிவுடன் கேட்டுக்கொள்கிறேன்.\n\nநன்றி.\n\nஇப்படிக்கு,\nA. Kumar"
+  },
+  {
+   "c": {
+    "issue_id": "other",
+    "area": "chennai",
+    "town": "",
+    "address": " 12 Gandhi Street ",
+    "landmark": "",
+    "name": "A. Kumar",
+    "phone": "98765 43210",
+    "extra": "It has been like this for a month.",
+    "has_photo": false
+   },
+   "lang": "ta",
+   "letter": "பெறுநர்:\nஆணையர்\nபெருநகர சென்னை மாநகராட்சி\nரிப்பன் மாளிகை, சென்னை - 600 003\n\nஅனுப்புநர்:\nA. Kumar\n12 Gandhi Street\nதொலைபேசி: 98765 43210\n\nநாள்: 24/11/2026\n\nபொருள்: மற்றவை தொடர்பான புகார்\n\nமதிப்புமிகு ஐயா / அம்மா,\n\nநான் 12 Gandhi Street பகுதியில் வசிக்கிறேன். 12 Gandhi Street அருகில் பொதுமக்களுக்குப் பாதிப்பு ஏற்படுத்தும் பிரச்சினை உள்ளது. இதனால் பொதுமக்களுக்குப் பெரும் சிரமம் ஏற்படுகிறது. It has been like this for a month.\n\nஎனவே, இந்தப் பிரச்சினையை விரைவில் நேரில் ஆய்வு செய்து சரிசெய்ய உரிய நடவடிக்கை எடுக்குமாறு பணிவுடன் கேட்டுக்கொள்கிறேன்.\n\nநன்றி.\n\nஇப்படிக்கு,\nA. Kumar"
+  },
+  {
+   "c": {
+    "issue_id": "other",
+    "area": "chennai",
+    "town": " Tambaram ",
+    "address": "Gandhi Street, Chrompet",
+    "landmark": "near the temple",
+    "name": "A. Kumar",
+    "phone": "98765 43210",
+    "extra": "",
+    "has_photo": true
+   },
+   "lang": "ta",
+   "letter": "பெறுநர்:\nஆணையர்\nபெருநகர சென்னை மாநகராட்சி\nரிப்பன் மாளிகை, சென்னை - 600 003\n\nஅனுப்புநர்:\nA. Kumar\nGandhi Street, Chrompet, Tambaram\nதொலைபேசி: 98765 43210\n\nநாள்: 24/11/2026\n\nபொருள்: மற்றவை தொடர்பான புகார்\n\nமதிப்புமிகு ஐயா / அம்மா,\n\nநான் Gandhi Street, Chrompet, Tambaram பகுதியில் வசிக்கிறேன். near the temple அருகில் பொதுமக்களுக்குப் பாதிப்பு ஏற்படுத்தும் பிரச்சினை உள்ளது. இதனால் பொதுமக்களுக்குப் பெரும் சிரமம் ஏற்படுகிறது.\n\nஎனவே, இந்தப் பிரச்சினையை விரைவில் நேரில் ஆய்வு செய்து சரிசெய்ய உரிய நடவடிக்கை எடுக்குமாறு பணிவுடன் கேட்டுக்கொள்கிறேன். பிரச்சினையின் புகைப்படம் இணைக்கப்பட்டுள்ளது.\n\nநன்றி.\n\nஇப்படிக்கு,\nA. Kumar"
+  },
+  {
+   "c": {
+    "issue_id": "other",
+    "area": "chennai",
+    "town": "",
+    "address": "Gandhi Street, Chrompet",
+    "landmark": "",
+    "name": "A. Kumar",
+    "phone": "",
+    "extra": "",
+    "has_photo": false
+   },
+   "lang": "en",
+   "letter": "To,\nThe Commissioner\nGreater Chennai Corporation\nRipon Buildings, Chennai - 600 003\n\nFrom,\nA. Kumar\nGandhi Street, Chrompet\n\nDate: 24/11/2026\n\nSubject: Complaint regarding something else\n\nRespected Sir / Madam,\n\nI am a resident of Gandhi Street, Chrompet. I would like to bring to your kind notice that there is a problem affecting the public near Gandhi Street, Chrompet. This is causing great difficulty to the public.\n\nI kindly request you to inspect the matter and take the necessary action at the earliest.\n\nThank you.\n\nYours faithfully,\nA. Kumar"
+  },
+  {
+   "c": {
+    "issue_id": "other",
+    "area": "chennai",
+    "town": "",
+    "address": " 12 Gandhi Street ",
+    "landmark": "",
+    "name": "A. Kumar",
+    "phone": "98765 43210",
+    "extra": "It has been like this for a month.",
+    "has_photo": false
+   },
+   "lang": "en",
+   "letter": "To,\nThe Commissioner\nGreater Chennai Corporation\nRipon Buildings, Chennai - 600 003\n\nFrom,\nA. Kumar\n12 Gandhi Street\nPhone: 98765 43210\n\nDate: 24/11/2026\n\nSubject: Complaint regarding something else\n\nRespected Sir / Madam,\n\nI am a resident of 12 Gandhi Street. I would like to bring to your kind notice that there is a problem affecting the public near 12 Gandhi Street. This is causing great difficulty to the public. It has been like this for a month.\n\nI kindly request you to inspect the matter and take the necessary action at the earliest.\n\nThank you.\n\nYours faithfully,\nA. Kumar"
+  },
+  {
+   "c": {
+    "issue_id": "other",
+    "area": "chennai",
+    "town": " Tambaram ",
+    "address": "Gandhi Street, Chrompet",
+    "landmark": "near the temple",
+    "name": "A. Kumar",
+    "phone": "98765 43210",
+    "extra": "",
+    "has_photo": true
+   },
+   "lang": "en",
+   "letter": "To,\nThe Commissioner\nGreater Chennai Corporation\nRipon Buildings, Chennai - 600 003\n\nFrom,\nA. Kumar\nGandhi Street, Chrompet, Tambaram\nPhone: 98765 43210\n\nDate: 24/11/2026\n\nSubject: Complaint regarding something else\n\nRespected Sir / Madam,\n\nI am a resident of Gandhi Street, Chrompet, Tambaram. I would like to bring to your kind notice that there is a problem affecting the public near near the temple. This is causing great difficulty to the public.\n\nI kindly request you to inspect the matter and take the necessary action at the earliest. A photograph of the problem is attached.\n\nThank you.\n\nYours faithfully,\nA. Kumar"
+  },
+  {
+   "c": {
+    "issue_id": "other",
+    "area": "city",
+    "town": "Madurai",
+    "address": "Gandhi Street, Chrompet",
+    "landmark": "",
+    "name": "A. Kumar",
+    "phone": "",
+    "extra": "",
+    "has_photo": false
+   },
+   "lang": "ta",
+   "letter": "பெறுநர்:\nஆணையர் / செயல் அலுவலர்\nMadurai மாநகராட்சி / நகராட்சி\nMadurai\n\nஅனுப்புநர்:\nA. Kumar\nGandhi Street, Chrompet, Madurai\n\nநாள்: 24/11/2026\n\nபொருள்: மற்றவை தொடர்பான புகார்\n\nமதிப்புமிகு ஐயா / அம்மா,\n\nநான் Gandhi Street, Chrompet, Madurai பகுதியில் வசிக்கிறேன். Gandhi Street, Chrompet அருகில் பொதுமக்களுக்குப் பாதிப்பு ஏற்படுத்தும் பிரச்சினை உள்ளது. இதனால் பொதுமக்களுக்குப் பெரும் சிரமம் ஏற்படுகிறது.\n\nஎனவே, இந்தப் பிரச்சினையை விரைவில் நேரில் ஆய்வு செய்து சரிசெய்ய உரிய நடவடிக்கை எடுக்குமாறு பணிவுடன் கேட்டுக்கொள்கிறேன்.\n\nநன்றி.\n\nஇப்படிக்கு,\nA. Kumar"
+  },
+  {
+   "c": {
+    "issue_id": "other",
+    "area": "city",
+    "town": " Tambaram ",
+    "address": " 12 Gandhi Street ",
+    "landmark": "",
+    "name": "A. Kumar",
+    "phone": "98765 43210",
+    "extra": "It has been like this for a month.",
+    "has_photo": false
+   },
+   "lang": "ta",
+   "letter": "பெறுநர்:\nஆணையர் / செயல் அலுவலர்\nTambaram மாநகராட்சி / நகராட்சி\nTambaram\n\nஅனுப்புநர்:\nA. Kumar\n12 Gandhi Street, Tambaram\nதொலைபேசி: 98765 43210\n\nநாள்: 24/11/2026\n\nபொருள்: மற்றவை தொடர்பான புகார்\n\nமதிப்புமிகு ஐயா / அம்மா,\n\nநான் 12 Gandhi Street, Tambaram பகுதியில் வசிக்கிறேன். 12 Gandhi Street அருகில் பொதுமக்களுக்குப் பாதிப்பு ஏற்படுத்தும் பிரச்சினை உள்ளது. இதனால் பொதுமக்களுக்குப் பெரும் சிரமம் ஏற்படுகிறது. It has been like this for a month.\n\nஎனவே, இந்தப் பிரச்சினையை விரைவில் நேரில் ஆய்வு செய்து சரிசெய்ய உரிய நடவடிக்கை எடுக்குமாறு பணிவுடன் கேட்டுக்கொள்கிறேன்.\n\nநன்றி.\n\nஇப்படிக்கு,\nA. Kumar"
+  },
+  {
+   "c": {
+    "issue_id": "other",
+    "area": "city",
+    "town": " Tambaram ",
+    "address": "Gandhi Street, Chrompet",
+    "landmark": "near the temple",
+    "name": "A. Kumar",
+    "phone": "98765 43210",
+    "extra": "",
+    "has_photo": true
+   },
+   "lang": "ta",
+   "letter": "பெறுநர்:\nஆணையர் / செயல் அலுவலர்\nTambaram மாநகராட்சி / நகராட்சி\nTambaram\n\nஅனுப்புநர்:\nA. Kumar\nGandhi Street, Chrompet, Tambaram\nதொலைபேசி: 98765 43210\n\nநாள்: 24/11/2026\n\nபொருள்: மற்றவை தொடர்பான புகார்\n\nமதிப்புமிகு ஐயா / அம்மா,\n\nநான் Gandhi Street, Chrompet, Tambaram பகுதியில் வசிக்கிறேன். near the temple அருகில் பொதுமக்களுக்குப் பாதிப்பு ஏற்படுத்தும் பிரச்சினை உள்ளது. இதனால் பொதுமக்களுக்குப் பெரும் சிரமம் ஏற்படுகிறது.\n\nஎனவே, இந்தப் பிரச்சினையை விரைவில் நேரில் ஆய்வு செய்து சரிசெய்ய உரிய நடவடிக்கை எடுக்குமாறு பணிவுடன் கேட்டுக்கொள்கிறேன். பிரச்சினையின் புகைப்படம் இணைக்கப்பட்டுள்ளது.\n\nநன்றி.\n\nஇப்படிக்கு,\nA. Kumar"
+  },
+  {
+   "c": {
+    "issue_id": "other",
+    "area": "city",
+    "town": "Madurai",
+    "address": "Gandhi Street, Chrompet",
+    "landmark": "",
+    "name": "A. Kumar",
+    "phone": "",
+    "extra": "",
+    "has_photo": false
+   },
+   "lang": "en",
+   "letter": "To,\nThe Commissioner / Executive Officer\nMadurai Corporation / Municipality\nMadurai\n\nFrom,\nA. Kumar\nGandhi Street, Chrompet, Madurai\n\nDate: 24/11/2026\n\nSubject: Complaint regarding something else\n\nRespected Sir / Madam,\n\nI am a resident of Gandhi Street, Chrompet, Madurai. I would like to bring to your kind notice that there is a problem affecting the public near Gandhi Street, Chrompet. This is causing great difficulty to the public.\n\nI kindly request you to inspect the matter and take the necessary action at the earliest.\n\nThank you.\n\nYours faithfully,\nA. Kumar"
+  },
+  {
+   "c": {
+    "issue_id": "other",
+    "area": "city",
+    "town": " Tambaram ",
+    "address": " 12 Gandhi Street ",
+    "landmark": "",
+    "name": "A. Kumar",
+    "phone": "98765 43210",
+    "extra": "It has been like this for a month.",
+    "has_photo": false
+   },
+   "lang": "en",
+   "letter": "To,\nThe Commissioner / Executive Officer\nTambaram Corporation / Municipality\nTambaram\n\nFrom,\nA. Kumar\n12 Gandhi Street, Tambaram\nPhone: 98765 43210\n\nDate: 24/11/2026\n\nSubject: Complaint regarding something else\n\nRespected Sir / Madam,\n\nI am a resident of 12 Gandhi Street, Tambaram. I would like to bring to your kind notice that there is a problem affecting the public near 12 Gandhi Street. This is causing great difficulty to the public. It has been like this for a month.\n\nI kindly request you to inspect the matter and take the necessary action at the earliest.\n\nThank you.\n\nYours faithfully,\nA. Kumar"
+  },
+  {
+   "c": {
+    "issue_id": "other",
+    "area": "city",
+    "town": " Tambaram ",
+    "address": "Gandhi Street, Chrompet",
+    "landmark": "near the temple",
+    "name": "A. Kumar",
+    "phone": "98765 43210",
+    "extra": "",
+    "has_photo": true
+   },
+   "lang": "en",
+   "letter": "To,\nThe Commissioner / Executive Officer\nTambaram Corporation / Municipality\nTambaram\n\nFrom,\nA. Kumar\nGandhi Street, Chrompet, Tambaram\nPhone: 98765 43210\n\nDate: 24/11/2026\n\nSubject: Complaint regarding something else\n\nRespected Sir / Madam,\n\nI am a resident of Gandhi Street, Chrompet, Tambaram. I would like to bring to your kind notice that there is a problem affecting the public near near the temple. This is causing great difficulty to the public.\n\nI kindly request you to inspect the matter and take the necessary action at the earliest. A photograph of the problem is attached.\n\nThank you.\n\nYours faithfully,\nA. Kumar"
+  },
+  {
+   "c": {
+    "issue_id": "other",
+    "area": "village",
+    "town": "Madurai",
+    "address": "Gandhi Street, Chrompet",
+    "landmark": "",
+    "name": "A. Kumar",
+    "phone": "",
+    "extra": "",
+    "has_photo": false
+   },
+   "lang": "ta",
+   "letter": "பெறுநர்:\nவட்டார வளர்ச்சி அலுவலர்\nஊராட்சி ஒன்றிய அலுவலகம், Madurai\n\nஅனுப்புநர்:\nA. Kumar\nGandhi Street, Chrompet, Madurai\n\nநாள்: 24/11/2026\n\nபொருள்: மற்றவை தொடர்பான புகார்\n\nமதிப்புமிகு ஐயா / அம்மா,\n\nநான் Gandhi Street, Chrompet, Madurai பகுதியில் வசிக்கிறேன். Gandhi Street, Chrompet அருகில் பொதுமக்களுக்குப் பாதிப்பு ஏற்படுத்தும் பிரச்சினை உள்ளது. இதனால் பொதுமக்களுக்குப் பெரும் சிரமம் ஏற்படுகிறது.\n\nஎனவே, இந்தப் பிரச்சினையை விரைவில் நேரில் ஆய்வு செய்து சரிசெய்ய உரிய நடவடிக்கை எடுக்குமாறு பணிவுடன் கேட்டுக்கொள்கிறேன்.\n\nநன்றி.\n\nஇப்படிக்கு,\nA. Kumar"
+  },
+  {
+   "c": {
+    "issue_id": "other",
+    "area": "village",
+    "town": " Tambaram ",
+    "address": " 12 Gandhi Street ",
+    "landmark": "",
+    "name": "A. Kumar",
+    "phone": "98765 43210",
+    "extra": "It has been like this for a month.",
+    "has_photo": false
+   },
+   "lang": "ta",
+   "letter": "பெறுநர்:\nவட்டார வளர்ச்சி அலுவலர்\nஊராட்சி ஒன்றிய அலுவலகம், Tambaram\n\nஅனுப்புநர்:\nA. Kumar\n12 Gandhi Street, Tambaram\nதொலைபேசி: 98765 43210\n\nநாள்: 24/11/2026\n\nபொருள்: மற்றவை தொடர்பான புகார்\n\nமதிப்புமிகு ஐயா / அம்மா,\n\nநான் 12 Gandhi Street, Tambaram பகுதியில் வசிக்கிறேன். 12 Gandhi Street அருகில் பொதுமக்களுக்குப் பாதிப்பு ஏற்படுத்தும் பிரச்சினை உள்ளது. இதனால் பொதுமக்களுக்குப் பெரும் சிரமம் ஏற்படுகிறது. It has been like this for a month.\n\nஎனவே, இந்தப் பிரச்சினையை விரைவில் நேரில் ஆய்வு செய்து சரிசெய்ய உரிய நடவடிக்கை எடுக்குமாறு பணிவுடன் கேட்டுக்கொள்கிறேன்.\n\nநன்றி.\n\nஇப்படிக்கு,\nA. Kumar"
+  },
+  {
+   "c": {
+    "issue_id": "other",
+    "area": "village",
+    "town": " Tambaram ",
+    "address": "Gandhi Street, Chrompet",
+    "landmark": "near the temple",
+    "name": "A. Kumar",
+    "phone": "98765 43210",
+    "extra": "",
+    "has_photo": true
+   },
+   "lang": "ta",
+   "letter": "பெறுநர்:\nவட்டார வளர்ச்சி அலுவலர்\nஊராட்சி ஒன்றிய அலுவலகம், Tambaram\n\nஅனுப்புநர்:\nA. Kumar\nGandhi Street, Chrompet, Tambaram\nதொலைபேசி: 98765 43210\n\nநாள்: 24/11/2026\n\nபொருள்: மற்றவை தொடர்பான புகார்\n\nமதிப்புமிகு ஐயா / அம்மா,\n\nநான் Gandhi Street, Chrompet, Tambaram பகுதியில் வசிக்கிறேன். near the temple அருகில் பொதுமக்களுக்குப் பாதிப்பு ஏற்படுத்தும் பிரச்சினை உள்ளது. இதனால் பொதுமக்களுக்குப் பெரும் சிரமம் ஏற்படுகிறது.\n\nஎனவே, இந்தப் பிரச்சினையை விரைவில் நேரில் ஆய்வு செய்து சரிசெய்ய உரிய நடவடிக்கை எடுக்குமாறு பணிவுடன் கேட்டுக்கொள்கிறேன். பிரச்சினையின் புகைப்படம் இணைக்கப்பட்டுள்ளது.\n\nநன்றி.\n\nஇப்படிக்கு,\nA. Kumar"
+  },
+  {
+   "c": {
+    "issue_id": "other",
+    "area": "village",
+    "town": "Madurai",
+    "address": "Gandhi Street, Chrompet",
+    "landmark": "",
+    "name": "A. Kumar",
+    "phone": "",
+    "extra": "",
+    "has_photo": false
+   },
+   "lang": "en",
+   "letter": "To,\nThe Block Development Officer\nPanchayat Union Office, Madurai\n\nFrom,\nA. Kumar\nGandhi Street, Chrompet, Madurai\n\nDate: 24/11/2026\n\nSubject: Complaint regarding something else\n\nRespected Sir / Madam,\n\nI am a resident of Gandhi Street, Chrompet, Madurai. I would like to bring to your kind notice that there is a problem affecting the public near Gandhi Street, Chrompet. This is causing great difficulty to the public.\n\nI kindly request you to inspect the matter and take the necessary action at the earliest.\n\nThank you.\n\nYours faithfully,\nA. Kumar"
+  },
+  {
+   "c": {
+    "issue_id": "other",
+    "area": "village",
+    "town": " Tambaram ",
+    "address": " 12 Gandhi Street ",
+    "landmark": "",
+    "name": "A. Kumar",
+    "phone": "98765 43210",
+    "extra": "It has been like this for a month.",
+    "has_photo": false
+   },
+   "lang": "en",
+   "letter": "To,\nThe Block Development Officer\nPanchayat Union Office, Tambaram\n\nFrom,\nA. Kumar\n12 Gandhi Street, Tambaram\nPhone: 98765 43210\n\nDate: 24/11/2026\n\nSubject: Complaint regarding something else\n\nRespected Sir / Madam,\n\nI am a resident of 12 Gandhi Street, Tambaram. I would like to bring to your kind notice that there is a problem affecting the public near 12 Gandhi Street. This is causing great difficulty to the public. It has been like this for a month.\n\nI kindly request you to inspect the matter and take the necessary action at the earliest.\n\nThank you.\n\nYours faithfully,\nA. Kumar"
+  },
+  {
+   "c": {
+    "issue_id": "other",
+    "area": "village",
+    "town": " Tambaram ",
+    "address": "Gandhi Street, Chrompet",
+    "landmark": "near the temple",
+    "name": "A. Kumar",
+    "phone": "98765 43210",
+    "extra": "",
+    "has_photo": true
+   },
+   "lang": "en",
+   "letter": "To,\nThe Block Development Officer\nPanchayat Union Office, Tambaram\n\nFrom,\nA. Kumar\nGandhi Street, Chrompet, Tambaram\nPhone: 98765 43210\n\nDate: 24/11/2026\n\nSubject: Complaint regarding something else\n\nRespected Sir / Madam,\n\nI am a resident of Gandhi Street, Chrompet, Tambaram. I would like to bring to your kind notice that there is a problem affecting the public near near the temple. This is causing great difficulty to the public.\n\nI kindly request you to inspect the matter and take the necessary action at the earliest. A photograph of the problem is attached.\n\nThank you.\n\nYours faithfully,\nA. Kumar"
+  }
+ ],
+ "routes": [
+  {
+   "issue": "road",
+   "area": "chennai",
+   "route": {
+    "en": "The Commissioner\nGreater Chennai Corporation\nRipon Buildings, Chennai - 600 003",
+    "ta": "ஆணையர்\nபெருநகர சென்னை மாநகராட்சி\nரிப்பன் மாளிகை, சென்னை - 600 003",
+    "short_en": "Greater Chennai Corporation",
+    "short_ta": "பெருநகர சென்னை மாநகராட்சி",
+    "helplines": [
+     {
+      "label_en": "Corporation complaints (24x7, toll free)",
+      "label_ta": "மாநகராட்சி புகார் (24 மணி நேரம், கட்டணமில்லா)",
+      "number": "1913",
+      "checked": true
+     }
+    ]
+   }
+  },
+  {
+   "issue": "road",
+   "area": "city",
+   "route": {
+    "en": "The Commissioner / Executive Officer\n{town} Corporation / Municipality\n{town}",
+    "ta": "ஆணையர் / செயல் அலுவலர்\n{town} மாநகராட்சி / நகராட்சி\n{town}",
+    "short_en": "Your city Corporation / Municipality office",
+    "short_ta": "உங்கள் நகரின் மாநகராட்சி / நகராட்சி அலுவலகம்",
+    "helplines": [
+     {
+      "label_en": "Chief Minister's Helpline (Mudhalvarin Mugavari)",
+      "label_ta": "முதல்வரின் முகவரி உதவி எண்",
+      "number": "1100",
+      "checked": false
+     }
+    ]
+   }
+  },
+  {
+   "issue": "road",
+   "area": "village",
+   "route": {
+    "en": "The Block Development Officer\nPanchayat Union Office, {town}",
+    "ta": "வட்டார வளர்ச்சி அலுவலர்\nஊராட்சி ஒன்றிய அலுவலகம், {town}",
+    "short_en": "Panchayat Union (BDO) office or Village Panchayat President",
+    "short_ta": "ஊராட்சி ஒன்றிய அலுவலகம் (BDO) அல்லது ஊராட்சி மன்றத் தலைவர்",
+    "helplines": [
+     {
+      "label_en": "Chief Minister's Helpline (Mudhalvarin Mugavari)",
+      "label_ta": "முதல்வரின் முகவரி உதவி எண்",
+      "number": "1100",
+      "checked": false
+     }
+    ]
+   }
+  },
+  {
+   "issue": "garbage",
+   "area": "chennai",
+   "route": {
+    "en": "The Commissioner\nGreater Chennai Corporation\nRipon Buildings, Chennai - 600 003",
+    "ta": "ஆணையர்\nபெருநகர சென்னை மாநகராட்சி\nரிப்பன் மாளிகை, சென்னை - 600 003",
+    "short_en": "Greater Chennai Corporation",
+    "short_ta": "பெருநகர சென்னை மாநகராட்சி",
+    "helplines": [
+     {
+      "label_en": "Corporation complaints (24x7, toll free)",
+      "label_ta": "மாநகராட்சி புகார் (24 மணி நேரம், கட்டணமில்லா)",
+      "number": "1913",
+      "checked": true
+     }
+    ]
+   }
+  },
+  {
+   "issue": "garbage",
+   "area": "city",
+   "route": {
+    "en": "The Commissioner / Executive Officer\n{town} Corporation / Municipality\n{town}",
+    "ta": "ஆணையர் / செயல் அலுவலர்\n{town} மாநகராட்சி / நகராட்சி\n{town}",
+    "short_en": "Your city Corporation / Municipality office",
+    "short_ta": "உங்கள் நகரின் மாநகராட்சி / நகராட்சி அலுவலகம்",
+    "helplines": [
+     {
+      "label_en": "Chief Minister's Helpline (Mudhalvarin Mugavari)",
+      "label_ta": "முதல்வரின் முகவரி உதவி எண்",
+      "number": "1100",
+      "checked": false
+     }
+    ]
+   }
+  },
+  {
+   "issue": "garbage",
+   "area": "village",
+   "route": {
+    "en": "The Block Development Officer\nPanchayat Union Office, {town}",
+    "ta": "வட்டார வளர்ச்சி அலுவலர்\nஊராட்சி ஒன்றிய அலுவலகம், {town}",
+    "short_en": "Panchayat Union (BDO) office or Village Panchayat President",
+    "short_ta": "ஊராட்சி ஒன்றிய அலுவலகம் (BDO) அல்லது ஊராட்சி மன்றத் தலைவர்",
+    "helplines": [
+     {
+      "label_en": "Chief Minister's Helpline (Mudhalvarin Mugavari)",
+      "label_ta": "முதல்வரின் முகவரி உதவி எண்",
+      "number": "1100",
+      "checked": false
+     }
+    ]
+   }
+  },
+  {
+   "issue": "drainage",
+   "area": "chennai",
+   "route": {
+    "en": "The Commissioner\nGreater Chennai Corporation\nRipon Buildings, Chennai - 600 003",
+    "ta": "ஆணையர்\nபெருநகர சென்னை மாநகராட்சி\nரிப்பன் மாளிகை, சென்னை - 600 003",
+    "short_en": "Greater Chennai Corporation / Chennai Metrowater",
+    "short_ta": "பெருநகர சென்னை மாநகராட்சி / மெட்ரோ வாட்டர்",
+    "helplines": [
+     {
+      "label_en": "Corporation complaints (24x7)",
+      "label_ta": "மாநகராட்சி புகார்",
+      "number": "1913",
+      "checked": true
+     },
+     {
+      "label_en": "Chennai Metrowater (water pooling / sewage)",
+      "label_ta": "மெட்ரோ வாட்டர் (நீர் தேக்கம் / கழிவுநீர்)",
+      "number": "044 4567 4567",
+      "checked": true
+     }
+    ]
+   }
+  },
+  {
+   "issue": "drainage",
+   "area": "city",
+   "route": {
+    "en": "The Commissioner / Executive Officer\n{town} Corporation / Municipality\n{town}",
+    "ta": "ஆணையர் / செயல் அலுவலர்\n{town} மாநகராட்சி / நகராட்சி\n{town}",
+    "short_en": "Your city Corporation / Municipality office",
+    "short_ta": "உங்கள் நகரின் மாநகராட்சி / நகராட்சி அலுவலகம்",
+    "helplines": [
+     {
+      "label_en": "Chief Minister's Helpline (Mudhalvarin Mugavari)",
+      "label_ta": "முதல்வரின் முகவரி உதவி எண்",
+      "number": "1100",
+      "checked": false
+     }
+    ]
+   }
+  },
+  {
+   "issue": "drainage",
+   "area": "village",
+   "route": {
+    "en": "The Block Development Officer\nPanchayat Union Office, {town}",
+    "ta": "வட்டார வளர்ச்சி அலுவலர்\nஊராட்சி ஒன்றிய அலுவலகம், {town}",
+    "short_en": "Panchayat Union (BDO) office or Village Panchayat President",
+    "short_ta": "ஊராட்சி ஒன்றிய அலுவலகம் (BDO) அல்லது ஊராட்சி மன்றத் தலைவர்",
+    "helplines": [
+     {
+      "label_en": "Chief Minister's Helpline (Mudhalvarin Mugavari)",
+      "label_ta": "முதல்வரின் முகவரி உதவி எண்",
+      "number": "1100",
+      "checked": false
+     }
+    ]
+   }
+  },
+  {
+   "issue": "streetlight",
+   "area": "chennai",
+   "route": {
+    "en": "The Commissioner\nGreater Chennai Corporation\nRipon Buildings, Chennai - 600 003",
+    "ta": "ஆணையர்\nபெருநகர சென்னை மாநகராட்சி\nரிப்பன் மாளிகை, சென்னை - 600 003",
+    "short_en": "Greater Chennai Corporation",
+    "short_ta": "பெருநகர சென்னை மாநகராட்சி",
+    "helplines": [
+     {
+      "label_en": "Corporation complaints (24x7, toll free)",
+      "label_ta": "மாநகராட்சி புகார் (24 மணி நேரம், கட்டணமில்லா)",
+      "number": "1913",
+      "checked": true
+     }
+    ]
+   }
+  },
+  {
+   "issue": "streetlight",
+   "area": "city",
+   "route": {
+    "en": "The Commissioner / Executive Officer\n{town} Corporation / Municipality\n{town}",
+    "ta": "ஆணையர் / செயல் அலுவலர்\n{town} மாநகராட்சி / நகராட்சி\n{town}",
+    "short_en": "Your city Corporation / Municipality office",
+    "short_ta": "உங்கள் நகரின் மாநகராட்சி / நகராட்சி அலுவலகம்",
+    "helplines": [
+     {
+      "label_en": "Chief Minister's Helpline (Mudhalvarin Mugavari)",
+      "label_ta": "முதல்வரின் முகவரி உதவி எண்",
+      "number": "1100",
+      "checked": false
+     }
+    ]
+   }
+  },
+  {
+   "issue": "streetlight",
+   "area": "village",
+   "route": {
+    "en": "The Block Development Officer\nPanchayat Union Office, {town}",
+    "ta": "வட்டார வளர்ச்சி அலுவலர்\nஊராட்சி ஒன்றிய அலுவலகம், {town}",
+    "short_en": "Panchayat Union (BDO) office or Village Panchayat President",
+    "short_ta": "ஊராட்சி ஒன்றிய அலுவலகம் (BDO) அல்லது ஊராட்சி மன்றத் தலைவர்",
+    "helplines": [
+     {
+      "label_en": "Chief Minister's Helpline (Mudhalvarin Mugavari)",
+      "label_ta": "முதல்வரின் முகவரி உதவி எண்",
+      "number": "1100",
+      "checked": false
+     }
+    ]
+   }
+  },
+  {
+   "issue": "water",
+   "area": "chennai",
+   "route": {
+    "en": "The Managing Director\nChennai Metropolitan Water Supply and Sewerage Board (Chennai Metrowater)\nChennai",
+    "ta": "மேலாண்மை இயக்குநர்\nசென்னை பெருநகர குடிநீர் வழங்கல் மற்றும் கழிவுநீரகற்று வாரியம் (சென்னை மெட்ரோ வாட்டர்)\nசென்னை",
+    "short_en": "Chennai Metrowater",
+    "short_ta": "சென்னை மெட்ரோ வாட்டர்",
+    "helplines": [
+     {
+      "label_en": "Drinking water problems",
+      "label_ta": "குடிநீர் பிரச்சினை",
+      "number": "1916",
+      "checked": true
+     }
+    ]
+   }
+  },
+  {
+   "issue": "water",
+   "area": "city",
+   "route": {
+    "en": "The Commissioner / Executive Officer\n{town} Corporation / Municipality (Water Supply)\n{town}",
+    "ta": "ஆணையர் / செயல் அலுவலர்\n{town} மாநகராட்சி / நகராட்சி (குடிநீர் பிரிவு)\n{town}",
+    "short_en": "Your city Corporation / Municipality office",
+    "short_ta": "உங்கள் நகரின் மாநகராட்சி / நகராட்சி அலுவலகம்",
+    "helplines": [
+     {
+      "label_en": "Chief Minister's Helpline (Mudhalvarin Mugavari)",
+      "label_ta": "முதல்வரின் முகவரி உதவி எண்",
+      "number": "1100",
+      "checked": false
+     }
+    ]
+   }
+  },
+  {
+   "issue": "water",
+   "area": "village",
+   "route": {
+    "en": "The Block Development Officer\nPanchayat Union Office, {town}",
+    "ta": "வட்டார வளர்ச்சி அலுவலர்\nஊராட்சி ஒன்றிய அலுவலகம், {town}",
+    "short_en": "Panchayat Union (BDO) office or Village Panchayat President",
+    "short_ta": "ஊராட்சி ஒன்றிய அலுவலகம் (BDO) அல்லது ஊராட்சி மன்றத் தலைவர்",
+    "helplines": [
+     {
+      "label_en": "Chief Minister's Helpline (Mudhalvarin Mugavari)",
+      "label_ta": "முதல்வரின் முகவரி உதவி எண்",
+      "number": "1100",
+      "checked": false
+     }
+    ]
+   }
+  },
+  {
+   "issue": "electric",
+   "area": "chennai",
+   "route": {
+    "en": "The Assistant Executive Engineer\nTNPDCL (TANGEDCO) Section Office\n{town}",
+    "ta": "உதவி செயற்பொறியாளர்\nதமிழ்நாடு மின் பகிர்மானக் கழகம் (TNPDCL / TANGEDCO) பிரிவு அலுவலகம்\n{town}",
+    "short_en": "TNPDCL (TANGEDCO) electricity board",
+    "short_ta": "தமிழ்நாடு மின் பகிர்மானக் கழகம் (TNPDCL / TANGEDCO)",
+    "helplines": [
+     {
+      "label_en": "Minnagam power helpline (24x7)",
+      "label_ta": "மின்னகம் உதவி எண் (24 மணி நேரம்)",
+      "number": "94987 94987",
+      "checked": true
+     },
+     {
+      "label_en": "Power complaints",
+      "label_ta": "மின்தடை புகார்",
+      "number": "1912",
+      "checked": true
+     }
+    ]
+   }
+  },
+  {
+   "issue": "electric",
+   "area": "city",
+   "route": {
+    "en": "The Assistant Executive Engineer\nTNPDCL (TANGEDCO) Section Office\n{town}",
+    "ta": "உதவி செயற்பொறியாளர்\nதமிழ்நாடு மின் பகிர்மானக் கழகம் (TNPDCL / TANGEDCO) பிரிவு அலுவலகம்\n{town}",
+    "short_en": "TNPDCL (TANGEDCO) electricity board",
+    "short_ta": "தமிழ்நாடு மின் பகிர்மானக் கழகம் (TNPDCL / TANGEDCO)",
+    "helplines": [
+     {
+      "label_en": "Minnagam power helpline (24x7)",
+      "label_ta": "மின்னகம் உதவி எண் (24 மணி நேரம்)",
+      "number": "94987 94987",
+      "checked": true
+     },
+     {
+      "label_en": "Power complaints",
+      "label_ta": "மின்தடை புகார்",
+      "number": "1912",
+      "checked": true
+     }
+    ]
+   }
+  },
+  {
+   "issue": "electric",
+   "area": "village",
+   "route": {
+    "en": "The Assistant Executive Engineer\nTNPDCL (TANGEDCO) Section Office\n{town}",
+    "ta": "உதவி செயற்பொறியாளர்\nதமிழ்நாடு மின் பகிர்மானக் கழகம் (TNPDCL / TANGEDCO) பிரிவு அலுவலகம்\n{town}",
+    "short_en": "TNPDCL (TANGEDCO) electricity board",
+    "short_ta": "தமிழ்நாடு மின் பகிர்மானக் கழகம் (TNPDCL / TANGEDCO)",
+    "helplines": [
+     {
+      "label_en": "Minnagam power helpline (24x7)",
+      "label_ta": "மின்னகம் உதவி எண் (24 மணி நேரம்)",
+      "number": "94987 94987",
+      "checked": true
+     },
+     {
+      "label_en": "Power complaints",
+      "label_ta": "மின்தடை புகார்",
+      "number": "1912",
+      "checked": true
+     }
+    ]
+   }
+  },
+  {
+   "issue": "stray",
+   "area": "chennai",
+   "route": {
+    "en": "The Commissioner\nGreater Chennai Corporation\nRipon Buildings, Chennai - 600 003",
+    "ta": "ஆணையர்\nபெருநகர சென்னை மாநகராட்சி\nரிப்பன் மாளிகை, சென்னை - 600 003",
+    "short_en": "Greater Chennai Corporation",
+    "short_ta": "பெருநகர சென்னை மாநகராட்சி",
+    "helplines": [
+     {
+      "label_en": "Corporation complaints (24x7, toll free)",
+      "label_ta": "மாநகராட்சி புகார் (24 மணி நேரம், கட்டணமில்லா)",
+      "number": "1913",
+      "checked": true
+     }
+    ]
+   }
+  },
+  {
+   "issue": "stray",
+   "area": "city",
+   "route": {
+    "en": "The Commissioner / Executive Officer\n{town} Corporation / Municipality\n{town}",
+    "ta": "ஆணையர் / செயல் அலுவலர்\n{town} மாநகராட்சி / நகராட்சி\n{town}",
+    "short_en": "Your city Corporation / Municipality office",
+    "short_ta": "உங்கள் நகரின் மாநகராட்சி / நகராட்சி அலுவலகம்",
+    "helplines": [
+     {
+      "label_en": "Chief Minister's Helpline (Mudhalvarin Mugavari)",
+      "label_ta": "முதல்வரின் முகவரி உதவி எண்",
+      "number": "1100",
+      "checked": false
+     }
+    ]
+   }
+  },
+  {
+   "issue": "stray",
+   "area": "village",
+   "route": {
+    "en": "The Block Development Officer\nPanchayat Union Office, {town}",
+    "ta": "வட்டார வளர்ச்சி அலுவலர்\nஊராட்சி ஒன்றிய அலுவலகம், {town}",
+    "short_en": "Panchayat Union (BDO) office or Village Panchayat President",
+    "short_ta": "ஊராட்சி ஒன்றிய அலுவலகம் (BDO) அல்லது ஊராட்சி மன்றத் தலைவர்",
+    "helplines": [
+     {
+      "label_en": "Chief Minister's Helpline (Mudhalvarin Mugavari)",
+      "label_ta": "முதல்வரின் முகவரி உதவி எண்",
+      "number": "1100",
+      "checked": false
+     }
+    ]
+   }
+  },
+  {
+   "issue": "other",
+   "area": "chennai",
+   "route": {
+    "en": "The Commissioner\nGreater Chennai Corporation\nRipon Buildings, Chennai - 600 003",
+    "ta": "ஆணையர்\nபெருநகர சென்னை மாநகராட்சி\nரிப்பன் மாளிகை, சென்னை - 600 003",
+    "short_en": "Greater Chennai Corporation",
+    "short_ta": "பெருநகர சென்னை மாநகராட்சி",
+    "helplines": [
+     {
+      "label_en": "Corporation complaints (24x7, toll free)",
+      "label_ta": "மாநகராட்சி புகார் (24 மணி நேரம், கட்டணமில்லா)",
+      "number": "1913",
+      "checked": true
+     }
+    ]
+   }
+  },
+  {
+   "issue": "other",
+   "area": "city",
+   "route": {
+    "en": "The Commissioner / Executive Officer\n{town} Corporation / Municipality\n{town}",
+    "ta": "ஆணையர் / செயல் அலுவலர்\n{town} மாநகராட்சி / நகராட்சி\n{town}",
+    "short_en": "Your city Corporation / Municipality office",
+    "short_ta": "உங்கள் நகரின் மாநகராட்சி / நகராட்சி அலுவலகம்",
+    "helplines": [
+     {
+      "label_en": "Chief Minister's Helpline (Mudhalvarin Mugavari)",
+      "label_ta": "முதல்வரின் முகவரி உதவி எண்",
+      "number": "1100",
+      "checked": false
+     }
+    ]
+   }
+  },
+  {
+   "issue": "other",
+   "area": "village",
+   "route": {
+    "en": "The Block Development Officer\nPanchayat Union Office, {town}",
+    "ta": "வட்டார வளர்ச்சி அலுவலர்\nஊராட்சி ஒன்றிய அலுவலகம், {town}",
+    "short_en": "Panchayat Union (BDO) office or Village Panchayat President",
+    "short_ta": "ஊராட்சி ஒன்றிய அலுவலகம் (BDO) அல்லது ஊராட்சி மன்றத் தலைவர்",
+    "helplines": [
+     {
+      "label_en": "Chief Minister's Helpline (Mudhalvarin Mugavari)",
+      "label_ta": "முதல்வரின் முகவரி உதவி எண்",
+      "number": "1100",
+      "checked": false
+     }
+    ]
+   }
+  }
+ ],
+ "suggest": [
+  {
+   "text": "pothole on the road",
+   "id": "road"
+  },
+  {
+   "text": "குப்பை அதிகம்",
+   "id": "garbage"
+  },
+  {
+   "text": "no water since 3 days",
+   "id": "water"
+  },
+  {
+   "text": "street light not working",
+   "id": "streetlight"
+  },
+  {
+   "text": "dog bite stray dogs",
+   "id": "stray"
+  },
+  {
+   "text": "drainage overflow near house",
+   "id": "drainage"
+  },
+  {
+   "text": "power cut transformer",
+   "id": "electric"
+  },
+  {
+   "text": "",
+   "id": null
+  },
+  {
+   "text": "something else entirely",
+   "id": null
+  },
+  {
+   "text": "சாலை பள்ளம் மற்றும் குப்பை",
+   "id": "road"
+  },
+  {
+   "text": "ROAD CRACK TAR",
+   "id": "road"
+  }
+ ],
+ "labels": [
+  {
+   "raw": "Apple___Apple_scab",
+   "reading": {
+    "kind": "other",
+    "crop": "",
+    "diseaseId": "",
+    "pretty": "Apple - Apple scab"
+   }
+  },
+  {
+   "raw": "Apple___Black_rot",
+   "reading": {
+    "kind": "other",
+    "crop": "",
+    "diseaseId": "",
+    "pretty": "Apple - Black rot"
+   }
+  },
+  {
+   "raw": "Apple___Cedar_apple_rust",
+   "reading": {
+    "kind": "other",
+    "crop": "",
+    "diseaseId": "",
+    "pretty": "Apple - Cedar apple rust"
+   }
+  },
+  {
+   "raw": "Apple___healthy",
+   "reading": {
+    "kind": "healthy",
+    "crop": "",
+    "diseaseId": "",
+    "pretty": "Apple - Healthy"
+   }
+  },
+  {
+   "raw": "Blueberry___healthy",
+   "reading": {
+    "kind": "healthy",
+    "crop": "",
+    "diseaseId": "",
+    "pretty": "Blueberry - Healthy"
+   }
+  },
+  {
+   "raw": "Cherry_(including_sour)___Powdery_mildew",
+   "reading": {
+    "kind": "other",
+    "crop": "",
+    "diseaseId": "",
+    "pretty": "Cherry including sour - Powdery mildew"
+   }
+  },
+  {
+   "raw": "Cherry_(including_sour)___healthy",
+   "reading": {
+    "kind": "healthy",
+    "crop": "",
+    "diseaseId": "",
+    "pretty": "Cherry including sour - Healthy"
+   }
+  },
+  {
+   "raw": "Corn_(maize)___Cercospora_leaf_spot_Gray_leaf_spot",
+   "reading": {
+    "kind": "other",
+    "crop": "",
+    "diseaseId": "",
+    "pretty": "Corn maize - Cercospora leaf spot Gray leaf spot"
+   }
+  },
+  {
+   "raw": "Corn_(maize)___Common_rust_",
+   "reading": {
+    "kind": "other",
+    "crop": "",
+    "diseaseId": "",
+    "pretty": "Corn maize - Common rust"
+   }
+  },
+  {
+   "raw": "Corn_(maize)___Northern_Leaf_Blight",
+   "reading": {
+    "kind": "other",
+    "crop": "",
+    "diseaseId": "",
+    "pretty": "Corn maize - Northern Leaf Blight"
+   }
+  },
+  {
+   "raw": "Corn_(maize)___healthy",
+   "reading": {
+    "kind": "healthy",
+    "crop": "",
+    "diseaseId": "",
+    "pretty": "Corn maize - Healthy"
+   }
+  },
+  {
+   "raw": "Grape___Black_rot",
+   "reading": {
+    "kind": "other",
+    "crop": "",
+    "diseaseId": "",
+    "pretty": "Grape - Black rot"
+   }
+  },
+  {
+   "raw": "Grape___Esca_(Black_Measles)",
+   "reading": {
+    "kind": "other",
+    "crop": "",
+    "diseaseId": "",
+    "pretty": "Grape - Esca Black Measles"
+   }
+  },
+  {
+   "raw": "Grape___Leaf_blight_(Isariopsis_Leaf_Spot)",
+   "reading": {
+    "kind": "other",
+    "crop": "",
+    "diseaseId": "",
+    "pretty": "Grape - Leaf blight Isariopsis Leaf Spot"
+   }
+  },
+  {
+   "raw": "Grape___healthy",
+   "reading": {
+    "kind": "healthy",
+    "crop": "",
+    "diseaseId": "",
+    "pretty": "Grape - Healthy"
+   }
+  },
+  {
+   "raw": "Orange___Haunglongbing_(Citrus_greening)",
+   "reading": {
+    "kind": "other",
+    "crop": "",
+    "diseaseId": "",
+    "pretty": "Orange - Haunglongbing Citrus greening"
+   }
+  },
+  {
+   "raw": "Peach___Bacterial_spot",
+   "reading": {
+    "kind": "other",
+    "crop": "",
+    "diseaseId": "",
+    "pretty": "Peach - Bacterial spot"
+   }
+  },
+  {
+   "raw": "Peach___healthy",
+   "reading": {
+    "kind": "healthy",
+    "crop": "",
+    "diseaseId": "",
+    "pretty": "Peach - Healthy"
+   }
+  },
+  {
+   "raw": "Pepper,_bell___Bacterial_spot",
+   "reading": {
+    "kind": "other",
+    "crop": "",
+    "diseaseId": "",
+    "pretty": "Pepper, bell - Bacterial spot"
+   }
+  },
+  {
+   "raw": "Pepper,_bell___healthy",
+   "reading": {
+    "kind": "healthy",
+    "crop": "",
+    "diseaseId": "",
+    "pretty": "Pepper, bell - Healthy"
+   }
+  },
+  {
+   "raw": "Potato___Early_blight",
+   "reading": {
+    "kind": "disease",
+    "crop": "potato",
+    "diseaseId": "potato_early_blight",
+    "pretty": "Potato - Early blight"
+   }
+  },
+  {
+   "raw": "Potato___Late_blight",
+   "reading": {
+    "kind": "disease",
+    "crop": "potato",
+    "diseaseId": "potato_late_blight",
+    "pretty": "Potato - Late blight"
+   }
+  },
+  {
+   "raw": "Potato___healthy",
+   "reading": {
+    "kind": "healthy",
+    "crop": "potato",
+    "diseaseId": "",
+    "pretty": "Potato - Healthy"
+   }
+  },
+  {
+   "raw": "Raspberry___healthy",
+   "reading": {
+    "kind": "healthy",
+    "crop": "",
+    "diseaseId": "",
+    "pretty": "Raspberry - Healthy"
+   }
+  },
+  {
+   "raw": "Soybean___healthy",
+   "reading": {
+    "kind": "healthy",
+    "crop": "",
+    "diseaseId": "",
+    "pretty": "Soybean - Healthy"
+   }
+  },
+  {
+   "raw": "Squash___Powdery_mildew",
+   "reading": {
+    "kind": "other",
+    "crop": "",
+    "diseaseId": "",
+    "pretty": "Squash - Powdery mildew"
+   }
+  },
+  {
+   "raw": "Strawberry___Leaf_scorch",
+   "reading": {
+    "kind": "other",
+    "crop": "",
+    "diseaseId": "",
+    "pretty": "Strawberry - Leaf scorch"
+   }
+  },
+  {
+   "raw": "Strawberry___healthy",
+   "reading": {
+    "kind": "healthy",
+    "crop": "",
+    "diseaseId": "",
+    "pretty": "Strawberry - Healthy"
+   }
+  },
+  {
+   "raw": "Tomato___Bacterial_spot",
+   "reading": {
+    "kind": "disease",
+    "crop": "tomato",
+    "diseaseId": "tomato_bacterial_spot",
+    "pretty": "Tomato - Bacterial spot"
+   }
+  },
+  {
+   "raw": "Tomato___Early_blight",
+   "reading": {
+    "kind": "disease",
+    "crop": "tomato",
+    "diseaseId": "tomato_early_blight",
+    "pretty": "Tomato - Early blight"
+   }
+  },
+  {
+   "raw": "Tomato___Late_blight",
+   "reading": {
+    "kind": "disease",
+    "crop": "tomato",
+    "diseaseId": "tomato_late_blight",
+    "pretty": "Tomato - Late blight"
+   }
+  },
+  {
+   "raw": "Tomato___Leaf_Mold",
+   "reading": {
+    "kind": "disease",
+    "crop": "tomato",
+    "diseaseId": "tomato_leaf_mold",
+    "pretty": "Tomato - Leaf Mold"
+   }
+  },
+  {
+   "raw": "Tomato___Septoria_leaf_spot",
+   "reading": {
+    "kind": "disease",
+    "crop": "tomato",
+    "diseaseId": "tomato_septoria_leaf_spot",
+    "pretty": "Tomato - Septoria leaf spot"
+   }
+  },
+  {
+   "raw": "Tomato___Spider_mites_Two-spotted_spider_mite",
+   "reading": {
+    "kind": "disease",
+    "crop": "tomato",
+    "diseaseId": "tomato_spider_mites",
+    "pretty": "Tomato - Spider mites Two-spotted spider mite"
+   }
+  },
+  {
+   "raw": "Tomato___Target_Spot",
+   "reading": {
+    "kind": "disease",
+    "crop": "tomato",
+    "diseaseId": "tomato_target_spot",
+    "pretty": "Tomato - Target Spot"
+   }
+  },
+  {
+   "raw": "Tomato___Tomato_Yellow_Leaf_Curl_Virus",
+   "reading": {
+    "kind": "disease",
+    "crop": "tomato",
+    "diseaseId": "tomato_leaf_curl",
+    "pretty": "Tomato - Tomato Yellow Leaf Curl Virus"
+   }
+  },
+  {
+   "raw": "Tomato___Tomato_mosaic_virus",
+   "reading": {
+    "kind": "disease",
+    "crop": "tomato",
+    "diseaseId": "tomato_mosaic_virus",
+    "pretty": "Tomato - Tomato mosaic virus"
+   }
+  },
+  {
+   "raw": "Tomato___healthy",
+   "reading": {
+    "kind": "healthy",
+    "crop": "tomato",
+    "diseaseId": "",
+    "pretty": "Tomato - Healthy"
+   }
+  }
+ ]
+}

@@ -1,0 +1,77 @@
+{
+  "_note": "Edit this file to correct or add helplines. 'checked' = number was confirmed in a news or official source on 2026-10-21; others must be re-verified before public use.",
+  "authorities": {
+    "chennai": {
+      "local_body": {
+        "en": "The Commissioner\nGreater Chennai Corporation\nRipon Buildings, Chennai - 600 003",
+        "ta": "ஆணையர்\nபெருநகர சென்னை மாநகராட்சி\nரிப்பன் மாளிகை, சென்னை - 600 003",
+        "short_en": "Greater Chennai Corporation", "short_ta": "பெருநகர சென்னை மாநகராட்சி",
+        "helplines": [{"label_en": "Corporation complaints (24x7, toll free)", "label_ta": "மாநகராட்சி புகார் (24 மணி நேரம், கட்டணமில்லா)", "number": "1913", "checked": true}]
+      },
+      "water": {
+        "en": "The Managing Director\nChennai Metropolitan Water Supply and Sewerage Board (Chennai Metrowater)\nChennai",
+        "ta": "மேலாண்மை இயக்குநர்\nசென்னை பெருநகர குடிநீர் வழங்கல் மற்றும் கழிவுநீரகற்று வாரியம் (சென்னை மெட்ரோ வாட்டர்)\nசென்னை",
+        "short_en": "Chennai Metrowater", "short_ta": "சென்னை மெட்ரோ வாட்டர்",
+        "helplines": [{"label_en": "Drinking water problems", "label_ta": "குடிநீர் பிரச்சினை", "number": "1916", "checked": true}]
+      },
+      "drain": {
+        "en": "The Commissioner\nGreater Chennai Corporation\nRipon Buildings, Chennai - 600 003",
+        "ta": "ஆணையர்\nபெருநகர சென்னை மாநகராட்சி\nரிப்பன் மாளிகை, சென்னை - 600 003",
+        "short_en": "Greater Chennai Corporation / Chennai Metrowater", "short_ta": "பெருநகர சென்னை மாநகராட்சி / மெட்ரோ வாட்டர்",
+        "helplines": [
+          {"label_en": "Corporation complaints (24x7)", "label_ta": "மாநகராட்சி புகார்", "number": "1913", "checked": true},
+          {"label_en": "Chennai Metrowater (water pooling / sewage)", "label_ta": "மெட்ரோ வாட்டர் (நீர் தேக்கம் / கழிவுநீர்)", "number": "044 4567 4567", "checked": true}
+        ]
+      }
+    },
+    "city": {
+      "local_body": {
+        "en": "The Commissioner / Executive Officer\n{town} Corporation / Municipality\n{town}",
+        "ta": "ஆணையர் / செயல் அலுவலர்\n{town} மாநகராட்சி / நகராட்சி\n{town}",
+        "short_en": "Your city Corporation / Municipality office", "short_ta": "உங்கள் நகரின் மாநகராட்சி / நகராட்சி அலுவலகம்",
+        "helplines": []
+      },
+      "water": {
+        "en": "The Commissioner / Executive Officer\n{town} Corporation / Municipality (Water Supply)\n{town}",
+        "ta": "ஆணையர் / செயல் அலுவலர்\n{town} மாநகராட்சி / நகராட்சி (குடிநீர் பிரிவு)\n{town}",
+        "short_en": "Your city Corporation / Municipality office", "short_ta": "உங்கள் நகரின் மாநகராட்சி / நகராட்சி அலுவலகம்",
+        "helplines": []
+      },
+      "drain": null
+    },
+    "village": {
+      "local_body": {
+        "en": "The Block Development Officer\nPanchayat Union Office, {town}",
+        "ta": "வட்டார வளர்ச்சி அலுவலர்\nஊராட்சி ஒன்றிய அலுவலகம், {town}",
+        "short_en": "Panchayat Union (BDO) office or Village Panchayat President", "short_ta": "ஊராட்சி ஒன்றிய அலுவலகம் (BDO) அல்லது ஊராட்சி மன்றத் தலைவர்",
+        "helplines": []
+      },
+      "water": null,
+      "drain": null
+    },
+    "power": {
+      "en": "The Assistant Executive Engineer\nTNPDCL (TANGEDCO) Section Office\n{town}",
+      "ta": "உதவி செயற்பொறியாளர்\nதமிழ்நாடு மின் பகிர்மானக் கழகம் (TNPDCL / TANGEDCO) பிரிவு அலுவலகம்\n{town}",
+      "short_en": "TNPDCL (TANGEDCO) electricity board", "short_ta": "தமிழ்நாடு மின் பகிர்மானக் கழகம் (TNPDCL / TANGEDCO)",
+      "helplines": [
+        {"label_en": "Minnagam power helpline (24x7)", "label_ta": "மின்னகம் உதவி எண் (24 மணி நேரம்)", "number": "94987 94987", "checked": true},
+        {"label_en": "Power complaints", "label_ta": "மின்தடை புகார்", "number": "1912", "checked": true}
+      ]
+    }
+  },
+  "issue_route": {
+    "road": "local_body", "garbage": "local_body", "streetlight": "local_body",
+    "stray": "local_body", "other": "local_body",
+    "drainage": "drain", "water": "water", "electric": "power"
+  },
+  "fallback_helpline": {"label_en": "Chief Minister's Helpline (Mudhalvarin Mugavari)", "label_ta": "முதல்வரின் முகவரி உதவி எண்", "number": "1100", "checked": false},
+  "emergency": [
+    {"en": "All emergencies", "ta": "அனைத்து அவசர உதவி", "number": "112"},
+    {"en": "Police", "ta": "காவல்துறை", "number": "100"},
+    {"en": "Ambulance", "ta": "ஆம்புலன்ஸ்", "number": "108"},
+    {"en": "Fire", "ta": "தீயணைப்பு", "number": "101"},
+    {"en": "Women helpline", "ta": "பெண்கள் உதவி எண்", "number": "181"},
+    {"en": "Child helpline", "ta": "குழந்தைகள் உதவி எண்", "number": "1098"},
+    {"en": "Kisan Call Centre (farmers)", "ta": "கிசான் அழைப்பு மையம் (விவசாயிகள்)", "number": "1800 180 1551"}
+  ]
+}
